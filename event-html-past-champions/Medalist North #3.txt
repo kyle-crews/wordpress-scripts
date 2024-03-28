@@ -1,0 +1,105 @@
+<div class='tablehead'>
+  <h3>Medalist North #3</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Open Division</th>
+  <th class='fontbold'>Senior Division</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>The Bridges GC
+Final <a href="https://www.golfgenius.com/pages/3904245">Results</a></td>
+  <td>William Teichman</td>
+  <td>Bill Jackson</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>The Courses at Watters Creek
+Final <a href="https://tga-2022medalistnorth3thecoursesatwatte1.golfgenius.com/pages/3351322">Results</a></td>
+  <td>Jeffrey Juillerat</td>
+  <td>Adrian Walmsley
+Randall Grimes</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>The Courses at Watters Creek
+Final <a href="https://www.golfgenius.com/pages/2793438">Results</a></td>
+  <td>Jonathan Paulson</td>
+  <td>Curtis Bortland</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>No Championship Held – COVID-19</td>
+  <td>–</td>
+  <td>–</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>Sherrill Park GC
+Final <a href="https://www.txga.org/medalist-north-3-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Brandon Lawson</td>
+  <td>John Schaefer</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>Sherrill Park GC
+Final <a href="https://www.txga.org/medalist-north-3-2018-leaderboard?swcfpc=1">Results</a></td>
+  <td>Marcus Cigna</td>
+  <td>Zeke Zietak</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>Sherrill Park GC</td>
+  <td>Ted Waldrip</td>
+  <td>Henry Coffman</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>Sherrill Park GC</td>
+  <td>John Schaefer</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>The Courses at Watters Creek</td>
+  <td>Jake Goodman</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>The GC of Dallas</td>
+  <td>Zach Hooper</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>Buffalo Creek GC</td>
+  <td>Ted Waldrip</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>Walnut Creek CC</td>
+  <td>John Bearrie</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>Waterchase GC</td>
+  <td>Ted Waldrip</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2010</td>
+  <td>Sherrill Park GC</td>
+  <td>John Schaefer</td>
+  <td></td>
+</tr>
+</table>
+

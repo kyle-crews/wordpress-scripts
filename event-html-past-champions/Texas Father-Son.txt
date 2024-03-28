@@ -1,0 +1,278 @@
+<div class='tablehead'>
+  <h3>Texas Father-Son</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Winners</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>Tapatio Springs Resort
+Final <a href="https://www.golfgenius.com/pages/4012056">Results</a></td>
+  <td>Brian Comegys
+Wick Comegys</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>Wichita Falls CC
+Final <a href="https://www.golfgenius.com/pages/3577223">Results</a></td>
+  <td>Kyle Kelting
+Derick Kelting</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>Crown Colony CC
+Final <a href="https://www.golfgenius.com/pages/2938405">Results</a></td>
+  <td>Kyle Kelting
+Derick Kelting</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>Omni Barton Creek (Fazio Foothills)
+Final <a href="https://www.txga.org/texas-father-son-leaderboard-2020/?swcfpc=1">Results</a></td>
+  <td>Matt and Will Griffin
+Kyle and Derick Kelting</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>The Club at Comanche Trace (Hills/Valley)
+Final <a href="https://www.txga.org/texas-father-son-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Matt Griffin
+Will Griffin</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>Stonebriar GC (Dye/Blue)
+Final <a href="https://www.txga.org/texas-father-son-2018-leaderboard?swcfpc=1">Results</a></td>
+  <td>Cameron Brown
+Dean Brown</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>Moody Gardens GC</td>
+  <td>Cameron Brown
+Dean Brown</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>Horseshoe Bay Resort (Apple Rock)</td>
+  <td>Mark Lindberg
+Andrew Lindberg</td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>The Woodlands CC</td>
+  <td>Will Doughtie
+Tom Doughtie</td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>Boot Ranch</td>
+  <td>Randy Lee
+Walker Lee</td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>The Clubs of Kingwood</td>
+  <td>Juan Salcedo
+Juan Jose Salcedo</td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>The Club at Comanche Trace</td>
+  <td>Randy Rawls
+Hunter Rawls</td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>Stonebriar CC</td>
+  <td>Matt Griffin
+Will Griffin</td>
+</tr>
+<tr class='tablerow'>
+  <td>2010</td>
+  <td>Miramont CC</td>
+  <td>Craig Rumora
+Jordan Rumora</td>
+</tr>
+<tr class='tablerow'>
+  <td>2009</td>
+  <td>Eagle’s Bluff CC</td>
+  <td>Steve Gill
+Brett Gill</td>
+</tr>
+<tr class='tablerow'>
+  <td>2008</td>
+  <td>Crown Colony CC</td>
+  <td>Juan Salcedo
+Juan Jose Salcedo</td>
+</tr>
+<tr class='tablerow'>
+  <td>2007</td>
+  <td>Horseshoe Bay Resort</td>
+  <td>C. Malcolm Holland
+Charlie Holland</td>
+</tr>
+<tr class='tablerow'>
+  <td>2006</td>
+  <td>Beaumont CC</td>
+  <td>Steve Gill
+Brett Gill</td>
+</tr>
+<tr class='tablerow'>
+  <td>2005</td>
+  <td>Riverhill CC</td>
+  <td>Steve Gill
+Brett Gill</td>
+</tr>
+<tr class='tablerow'>
+  <td>2004</td>
+  <td>Columbia Lakes</td>
+  <td>Tom Doughtie
+Will Doughtie</td>
+</tr>
+<tr class='tablerow'>
+  <td>2003</td>
+  <td>Wichita Falls CC</td>
+  <td>Tom Doughtie
+Will Doughtie</td>
+</tr>
+<tr class='tablerow'>
+  <td>2002</td>
+  <td>Diamondback GC</td>
+  <td>Tom Doughtie
+Will Doughtie</td>
+</tr>
+<tr class='tablerow'>
+  <td>2001</td>
+  <td>Eagle’s Bluff CC</td>
+  <td>Tom Doughtie
+Will Doughtie</td>
+</tr>
+<tr class='tablerow'>
+  <td>2000</td>
+  <td>The Bandit GC</td>
+  <td>David Leestma
+Ben Leestma</td>
+</tr>
+<tr class='tablerow'>
+  <td>1999</td>
+  <td>Crown Colony CC</td>
+  <td>David Bright
+Steven Bright</td>
+</tr>
+<tr class='tablerow'>
+  <td>1998</td>
+  <td>Horseshoe Bay Resort</td>
+  <td>Magnus Liljenberg
+Aaron Saint</td>
+</tr>
+<tr class='tablerow'>
+  <td>1997</td>
+  <td>Crown Colony CC</td>
+  <td>Jon Schultz
+Mark Schultz</td>
+</tr>
+<tr class='tablerow'>
+  <td>1996</td>
+  <td>Circle C GC</td>
+  <td>Ken Mitchell
+Dirk Mitchell</td>
+</tr>
+<tr class='tablerow'>
+  <td>1995</td>
+  <td>Berry Creek CC</td>
+  <td>Ed Brooks
+Jason Brooks</td>
+</tr>
+<tr class='tablerow'>
+  <td>1994</td>
+  <td>Circle C GC</td>
+  <td>Ed Brooks
+Jason Brooks</td>
+</tr>
+<tr class='tablerow'>
+  <td>1993</td>
+  <td>Berry Creek CC</td>
+  <td>Frank Looney
+Matt Looney</td>
+</tr>
+<tr class='tablerow'>
+  <td>1992</td>
+  <td>Bentwater Yacht & CC</td>
+  <td>Dan Nichol
+Jason Nichol</td>
+</tr>
+<tr class='tablerow'>
+  <td>1991</td>
+  <td>Thortree CC</td>
+  <td>Don Addington
+Rob Addington</td>
+</tr>
+<tr class='tablerow'>
+  <td>1990</td>
+  <td>Wildflower CC</td>
+  <td>Jim La Rose
+Mike La Rose</td>
+</tr>
+<tr class='tablerow'>
+  <td>1989</td>
+  <td>Horseshoe Bay Resort</td>
+  <td>Houston Goodspeed
+Chris Goodspeed</td>
+</tr>
+<tr class='tablerow'>
+  <td>1988</td>
+  <td>Horseshoe Bay Resort</td>
+  <td>Don Riddle
+Todd Riddle</td>
+</tr>
+<tr class='tablerow'>
+  <td>1987</td>
+  <td>Horseshoe Bay Resort</td>
+  <td>George McCall
+Shawn McCall</td>
+</tr>
+<tr class='tablerow'>
+  <td>1986</td>
+  <td>Del Lago CC</td>
+  <td>Sid Seligmann
+Larry Seligmann</td>
+</tr>
+<tr class='tablerow'>
+  <td>1985</td>
+  <td>Tapatio Springs CC</td>
+  <td>Sid Seligmann
+Larry Seligmann</td>
+</tr>
+<tr class='tablerow'>
+  <td>1984</td>
+  <td>Tapatio Springs CC</td>
+  <td>Floyd Addington
+Don Addington</td>
+</tr>
+<tr class='tablerow'>
+  <td>1983</td>
+  <td>Mill Creek CC</td>
+  <td>George McCall
+Shawn McCall</td>
+</tr>
+<tr class='tablerow'>
+  <td>1982</td>
+  <td>Austin CC</td>
+  <td>Gene Aune
+Greg Aune</td>
+</tr>
+<tr class='tablerow'>
+  <td>1981</td>
+  <td>Austin CC</td>
+  <td>J.R. Ferguson
+Don Ferguson</td>
+</tr>
+</table>
+

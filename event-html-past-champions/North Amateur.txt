@@ -1,0 +1,144 @@
+<div class='tablehead'>
+  <h3>North Amateur</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Champion</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>Thorntree GC
+Final <a href="https://www.golfgenius.com/pages/3997959">Results</a></td>
+  <td>Andrew Chow
+Coppell</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>Harbor Lakes GC
+Final <a href="https://www.golfgenius.com/pages/3599002">Results</a></td>
+  <td>Jason Schultz
+Allen</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>The Bridges GC
+Final <a href="https://www.golfgenius.com/pages/3061680">Results</a></td>
+  <td>Jason Schultz
+Allen</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>No Championship Held – COVID-19</td>
+  <td>–</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>The Courses at Watters Creek
+Final <a href="https://www.txga.org/north-amateur-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Will Adams
+Odessa</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>Stonebridge Ranch CC (Dye)
+Final <a href="https://www.txga.org/north-amateur-2018-leaderboard?swcfpc=1">Results</a></td>
+  <td>Travis Woolf
+Fort Worth</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>Timarron CC</td>
+  <td>Max Kettler
+Southlake</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>Hurricane Creek CC</td>
+  <td>Hunter Shattack
+Jacksonville</td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>Gentle Creek GC</td>
+  <td>Josh Irving
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>The Courses at Watters Creek</td>
+  <td>John Stollenwerck
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>Walnut Creek CC</td>
+  <td>Luke Neeley
+Mansfield</td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>Texas Star GC</td>
+  <td>Chris Gilbert
+McKinney</td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>Gleneagles CC (Queens)</td>
+  <td>Danny Lovell
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2010</td>
+  <td>The Honors GC of Dallas</td>
+  <td>Alex Moon
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2009</td>
+  <td>Tierra Verde GC</td>
+  <td>Rob Couture
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2008</td>
+  <td>Firewheel Golf Park</td>
+  <td>John Bearrie
+Arlington</td>
+</tr>
+<tr class='tablerow'>
+  <td>2007</td>
+  <td>Woodbridge GC</td>
+  <td>Justin Fraley
+Rowlett</td>
+</tr>
+<tr class='tablerow'>
+  <td>2006</td>
+  <td>Heritage Ranch G&CC</td>
+  <td>Charlie Holland
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2005</td>
+  <td>Pine Dunes Resort & GC</td>
+  <td>Steve Galko
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2004</td>
+  <td>Trophy Club CC</td>
+  <td>Chuck Palmer
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2003</td>
+  <td>The Tribute GC</td>
+  <td>Steve Galko
+Dallas</td>
+</tr>
+</table>
+

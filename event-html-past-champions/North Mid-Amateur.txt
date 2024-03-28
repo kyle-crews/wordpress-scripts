@@ -1,0 +1,130 @@
+<div class='tablehead'>
+  <h3>North Mid-Amateur</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Champion</th>
+</tr>
+<tr class='tablerow'>
+  <td>2024</td>
+  <td>The Courses at Watters Creek
+Final <a href="https://www.golfgenius.com/pages/4556721">Results</a></td>
+  <td>Chris Wheeler</td>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>Rockwall G&AC
+Final <a href="https://www.golfgenius.com/pages/3947107">Results</a></td>
+  <td>C.J. Brock</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>Paris G&CC
+Final <a href="https://www.golfgenius.com/pages/3415067">Results</a></td>
+  <td>Jason Schultz</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>Twin Creeks GC
+Final <a href="https://www.golfgenius.com/pages/2831145">Results</a></td>
+  <td>Paul McNamara</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>No Championship Held – Covid-19</td>
+  <td>–</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>Waterchase GC
+Final <a href="https://www.txga.org/north-mid-amateur-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Anthony Estorga</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>Diamond Oaks CC
+Final <a href="https://www.txga.org/north-mid-amateur-2018-leaderboard?swcfpc=1">Results</a></td>
+  <td>Zach Atkinson</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>Tierra Verde GC</td>
+  <td>Gant Bills</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>Firewheel Golf Park</td>
+  <td>Aaron Hickman</td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>Trophy Club CC</td>
+  <td>Zach Atkinson</td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>Prestonwood</td>
+  <td>Lewis Stephenson</td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>Trophy Club CC (Hogan)</td>
+  <td>Zach Atkinson</td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>Old American GC</td>
+  <td>Mike Calef</td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>Trophy Club CC</td>
+  <td>Aaron Hickman</td>
+</tr>
+<tr class='tablerow'>
+  <td>2010</td>
+  <td>Hurricane Creek CC</td>
+  <td>Rob Couture</td>
+</tr>
+<tr class='tablerow'>
+  <td>2009</td>
+  <td>Southern Oaks GC</td>
+  <td>Rob Couture</td>
+</tr>
+<tr class='tablerow'>
+  <td>2008</td>
+  <td>Split Rail GC</td>
+  <td>Rob Couture</td>
+</tr>
+<tr class='tablerow'>
+  <td>2007</td>
+  <td>Texas Star GC</td>
+  <td>Rob Couture</td>
+</tr>
+<tr class='tablerow'>
+  <td>2006</td>
+  <td>Buffalo Creek GC</td>
+  <td>Jeff Makahon</td>
+</tr>
+<tr class='tablerow'>
+  <td>2005</td>
+  <td>Gleneagles CC (Kings)</td>
+  <td>Steve Galko</td>
+</tr>
+<tr class='tablerow'>
+  <td>2004</td>
+  <td>Oak Cliff CC</td>
+  <td>Chuck Palmer</td>
+</tr>
+<tr class='tablerow'>
+  <td>2003</td>
+  <td>Texas Star GC</td>
+  <td>Andy Kampen</td>
+</tr>
+</table>
+

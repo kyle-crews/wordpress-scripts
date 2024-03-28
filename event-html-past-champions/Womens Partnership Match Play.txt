@@ -1,0 +1,175 @@
+<div class='tablehead'>
+  <h3>Womens Partnership Match Play</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Winners</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>The Hideout GC&R
+Final <a href="https://www.golfgenius.com/pages/4147804">Results</a></td>
+  <td>1st Flight: Karen Northcutt, Lettia Collins
+2nd Flight: Mary Ann Knipe, Lindy Fox
+3rd Flight: Katherine Biggs, Lorraine Werner
+4th Flight: Cindy Campbell, Vicki Jordan</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>Walden on Lake Conroe GC
+Final <a href="https://www.golfgenius.com/pages/3355189">Results</a></td>
+  <td>1st Flight: Karen Northcutt, Lettia Collins
+2nd Flight: Lisa Papes, Kelly Campbell
+3rd Flight: Angie Dusevic, Sara Devilliers
+4th Flight: Xuesong Hollier, Jill Rizzo
+5th Flight: Diane Gunn, Maede Miller
+6th Flight: Beth Belovsky, Bobbie Proctor</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>Riverhill CC
+Final <a href="https://www.golfgenius.com/pages/2952517">Results</a></td>
+  <td>Mary Dees
+Emilie Wilshire</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>No Championship Held – Covid-19</td>
+  <td>–</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>Golfcrest CC
+Final <a href="https://www.txga.org/womens-partnership-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Margaret Bosman
+Lorraine Werner</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>Fair Oaks Ranch G&CC (Live Oak)
+Final <a href="https://www.txga.org/womens-partnership-2018-leaderboard?swcfpc=1">Results</a></td>
+  <td>Camm Dougherty
+Leslie McCallick</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>The Clubs of Prestonwood (Hills)
+Final <a href="https://www.golfgenius.com/pages/4263843">Results</a></td>
+  <td>Camm Dougherty
+Leslie McCallick</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>Crown Colony CC</td>
+  <td>Lyn Jones
+Liza Robinson</td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>Horseshoe Bay Resort (Ram Rock)</td>
+  <td>Sissy Davies
+Diane Dill</td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>Riverbend CC</td>
+  <td>Chris Johnson
+Bonnie Longaker</td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>The Club at Sonterra</td>
+  <td>Julie Robichaux
+Diane Henry</td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>Corpus Christi CC</td>
+  <td>Camm Dougherty
+Leslie McCallick</td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>Ridgewood CC</td>
+  <td>Dianne Roberts
+Ethel Wright</td>
+</tr>
+<tr class='tablerow'>
+  <td>2010</td>
+  <td>Canyon Creek CC</td>
+  <td>Dianne Roberts
+Ethel Wright</td>
+</tr>
+<tr class='tablerow'>
+  <td>2009</td>
+  <td>Eagle’s Bluff CC</td>
+  <td>Sondra Swan
+Joyce Libbey</td>
+</tr>
+<tr class='tablerow'>
+  <td>2008</td>
+  <td>Bentwater Yacht & CC (Weiskopf)</td>
+  <td>P.J. Wright
+Diane Sloan</td>
+</tr>
+<tr class='tablerow'>
+  <td>2007</td>
+  <td>Silverhorn CC</td>
+  <td>Pam Sexton
+Pilar Velazquez</td>
+</tr>
+<tr class='tablerow'>
+  <td>2006</td>
+  <td>Stonebriar CC</td>
+  <td>Joanne Burleson
+Chris Braatz</td>
+</tr>
+<tr class='tablerow'>
+  <td>2005</td>
+  <td>The Hills CC (Flintrock Falls)</td>
+  <td>Alli Jarrett
+Sis Singletary</td>
+</tr>
+<tr class='tablerow'>
+  <td>2004</td>
+  <td>The Woodlands (Palmer)</td>
+  <td>Julie Robichaux
+Diane Henry</td>
+</tr>
+<tr class='tablerow'>
+  <td>2003</td>
+  <td>Dallas Athletic Club</td>
+  <td>Jacque Cooper
+Yvonne Gilmore</td>
+</tr>
+<tr class='tablerow'>
+  <td>2002</td>
+  <td>Riverhill CC</td>
+  <td>Sue Alt
+Mary Lucas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2001</td>
+  <td>Ridgewood CC</td>
+  <td>Marti Ross
+Tina MacDonald</td>
+</tr>
+<tr class='tablerow'>
+  <td>2000</td>
+  <td>Willow Brook CC</td>
+  <td>Jeanne Ballard
+Charlotte McSpadden</td>
+</tr>
+<tr class='tablerow'>
+  <td>1999</td>
+  <td>The Club at Sonterra</td>
+  <td>Jam Casey
+Joyce Kerin</td>
+</tr>
+</table>
+

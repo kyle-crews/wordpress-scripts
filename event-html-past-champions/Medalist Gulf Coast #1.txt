@@ -1,0 +1,29 @@
+<div class='tablehead'>
+  <h3>Medalist Gulf Coast #1</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Open Division</th>
+  <th class='fontbold'>Senior Division</th>
+</tr>
+<tr class='tablerow'>
+  <td>2024</td>
+  <td>Pearland GC
+Final <a href="https://www.golfgenius.com/pages/4553309">Results</a></td>
+  <td>Wesley Walker</td>
+  <td>Marshall Piper</td>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>Panorama GC
+Final <a href="https://www.golfgenius.com/pages/3904582">Results</a></td>
+  <td>Carson Cooper</td>
+  <td>William Shock</td>
+</tr>
+</table>
+

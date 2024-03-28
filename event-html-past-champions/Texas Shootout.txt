@@ -1,0 +1,240 @@
+<div class='tablehead'>
+  <h3>Texas Shootout</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>North Team</th>
+  <th class='fontbold'>South Team</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>Galveston Country Club
+
+North Wins 42.50-29.50
+Final <a href="https://www.golfgenius.com/pages/4353533">Results</a></td>
+  <td>Captain: Mike Peck
+Anthony Estorga, Bart Goodwin, Chuck Gardner, CJ Brock, Gant Bills, Kyle Kelting, Marcus Jones, Matthew Sullivan, Rory Smith, Ryan Zamorano, Scott Maurer</td>
+  <td>Captain: Gary Durbin
+Andrew Grice, Austen Fulmer, Bobby Baugh, Brent Barclay, Broc Haymon, Logan Thomason, Michael Milstead, Randy Lance, Tray Tyner, Trey Cassity, Jonathan Alden</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>Grand Pines GC
+
+South Wins 36.50-35.50
+Final <a href="https://www.golfgenius.com/pages/3748266">Results</a></td>
+  <td>Captain: Lewis Stephenson
+Scott Mauer, Trey Todd, Josh Pasco, Colby Amparan, Chuck Gardner, Neal Barfield, John Derrick, Jason Schultz, Rob Couture, Joe Seth Murphy, Kevin Doskocil</td>
+  <td>Captain: Pat Youngs
+Randy Lance, Padden Nelson, Austen Fulmer, Joey Guillon, Andrew Hydorn, Jed Shreve, Sandy Pierce, Dan Depasquale, Casey Carnes, Andrew Grice, Clay Fullick</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>Royal Oaks CC
+
+North Wins 38.5-33.5
+Final <a href="https://www.golfgenius.com/pages/3240453">Results</a></td>
+  <td>Gant Bills, Rob Couture, Gary Ezmerlian, Chuck Gardener, Sean Heidrick, Aaron Hickman, Freddie Janneck, Robert Johnson, Kyle Kelting, Lee Sandlin, Lewis Stephenson, Chris Wheeler</td>
+  <td>Todd Albert, Brent Batson, Coy Breen, Casey Carnes, Gary Durbin, Clay Fullick, John Hunter, Kevin Liberto, Paul McNamara, David Ortego, John Pierce, Jed Shreve</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>Traditions Club
+
+North Wins 43-29
+Final <a href="https://www.golfgenius.com/pages/2695969">Results</a></td>
+  <td>Anthony Estorga, John Derrick, Sean Heidrick, Bill Jackson, Robert Johnson, Marcus Jones, Mike Lohner, Scott Maurer, Paul McNamara, Blake Parks, Mike Peck, Chris Wheeler</td>
+  <td>Buzz Baker, Donald Dean, Craig Hurlbert, Andy Hydorn, Justin Kaplan, Kevin Liberto, Bryan Mitchell, Padden Nelson, Ryan O’Rear, Jason Schnitzer, Shawn Stoute, Toby Zeringue</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>Willow Brook CC
+
+South Wins 37-35
+Final <a href="https://www.txga.org/texas-shootout-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Scott Abott, Gant Bills, Ken Coutant, Dave Davis, Kip Estep, Anthony Estorga, Jeff Howards, Brandon Immel, Marcus Jones, Mike Lohner, Scott Maurer, Chris Wheeler</td>
+  <td>John Dowdall, Gary Durbin, Braden Graham, Will Griffin, Kurt Lilly, Scott Loving, Ross Mackay, Bryan Mitchell, John Pierce, Alex Woodward, Devin Young, Pay Youngs</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>The Club at Houston Oaks
+Hockley
+
+North Wins 38-34</td>
+  <td>Captain: Lewis Stephenson
+Scott Abbott, Tate Allred, Jay Csipkes, Anthony Estorga, Jake Istnick, Mike Lohner, Chuck Palmer, Micah Rodgers, John Stollenwerck, Chris Wheeler, Wayne Wiright</td>
+  <td>Captain: John Pierce
+Bobby Baugh, Jess Bonneau, Ryan Clarke, Jacob Davis, Chris Hartentstein, Broc Hayman, John Hunter, Davis Leiss, Josh Luong, Devaughn Robinson, Grant Schroeder</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>Maridoe GC
+Carrollton
+
+North Wins 43.5-28.5</td>
+  <td>Captain: Lewis Stephenson
+Scott Abbott, Gant Bills, Rob Couture, Dave Davis, Kevin Doskocil, Brad Gibson, Jerry Hudgins, Josh Irving, Will Osborne, Chuck Palmer, Scott Volpitto</td>
+  <td>Captain: John Pierce
+Jon Alden, Timm Hamm, Chris Hartenstein, Alan Hill, Bryant Lach, Randy Lance, John McClure, Steve Paterson, Ed Sanchez, Trevor Sauntry, Tony Soerries</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>Champions Golf Club
+Houston
+
+South Wins 38-33</td>
+  <td>Captain: Mike Peck
+Zach Atkinson, C.J. Brock, Rob Couture, Dave Davis, Gary Ezmerlian, Brad Gibson, John Grace, Aaron Hickman, Rick Sulzer, Chris Wheeler, Wayne Wright</td>
+  <td>Captain: Mike Booker
+Bobby Baugh, Nicholas Cristea, Patrick Datz, John Dowdall, Gary Durbin, Robert Evans, John Hunter, John Pierce, Jay Reynolds, Danny Simmerman, Seth Stuart</td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>Dallas National GC
+Dallas
+
+North Wins 38-34</td>
+  <td>Captain: Mike Peck
+Scott Abbott, Zach Atkinson, Rob Couture, Brad Gibson, Aaron Hickman, Clay Hodge, Jerry Hudgins, Josh Irving, Will Osborne, Chuck Palmer, Lewis Stephenson</td>
+  <td>Captain: Mike Booker
+Nicholas Cristea, Taylor Dio, John Hunter, Justin Kaplan, Randy Lance, Ivan Lawson, David Leiss, Scott Loving, Larry Nunez, Jay Reynolds, Ross Wilhelm</td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>Miramont GC
+Bryan
+
+South Wins 39.5-32.5</td>
+  <td>Captain: Aaron Hickman
+Zach Atkinson, John Bearrie, Ken Coutant, Rob Couture, Brad Gibson, Jerry Hudgins, Josh Irving, Mike Peck, Lewis Stephenson, Hollis Sullivan, Ted Waldrip</td>
+  <td>Captain: Trevor Hyde
+Jess Bonneau, Mike Booker, Brandon Burke, Chris Causey, Richard Hageman, John Hunter, Trevor Hyde, Bob Kearney, Rob Kilby, Randy Lance, Brian Noonan, Tony Soerries</td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>Northwood Club
+Dallas
+
+North Wins 40-32</td>
+  <td>Captain: Carey Schulten
+Zach Atkinson, John Bearrie, Colby Harwell, Aaron Hickman, Bill Holstead, Jerry Hudgins, Doug Manor, Scott Maurer, Mike Peck, Michael Pruitt, Lee Sandlin, Brandon Scott</td>
+  <td>Captain: Loren Singletary
+James Bartell, Jess Bonneau, Mike Booker, Clay Hodge, John Hunter, Bob Kearney, Ron Kilby, Tom McGraw, Brian Noonan, John Perez, David Pocknall, Tony Soerries</td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>Whispering Pines GC
+Trinity
+
+South Wins 44-28</td>
+  <td>Captain: Marion Dantzler
+Phil Austin, John Bearrie, Lucas Boyd, Mike Calef, Colby Harwell, Aaron Hickman, Jerry Hudgins, Chuck Palmer, Lee Sandlin, Brandon Scott, Lewis Stephenson, Chris Wheeler</td>
+  <td>Captain: Woody Fail
+Joe Bendetti, Mike Booker, Nicholas Cristea, John Dowdall, Gary Durbin, Chris Forbes, Trevor Hyde, Bob Kearney, Randy Lance, David Pocknall, Mike Rice, Trevor Sauntry</td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>San Antonio CC
+San Antonio
+
+South Wins 36.5-35.5</td>
+  <td>Captain: Mickey Jones
+John Bearrie, Lucas Boyd, Rob Couture, Colby Harwell, Aaron Hickman, Reggie Howell, Clarke Kincaid, Danny Lovell, Andy McCabe, Mac McGee, Jack Medick, Lee Sandlin</td>
+  <td>Captain: Jon Shipley
+Michael Allen, Jeff Bellnap, Mike Booker, Nicholas Cristea, Kyle Flodder, Chris Forbes, Kip Guidry, Trevor Hyde, Ron Kilby, Adam Lowe, David Pocknall, Mike Rice</td>
+</tr>
+<tr class='tablerow'>
+  <td>2010</td>
+  <td>The Club at Carlton Woods
+The Woodlands
+
+South Wins 37.5-34.5</td>
+  <td>Captain: Jim Todd
+John Bearrie, Rob Couture, John Derrick, Aaron Hickman, Reggie Howell, Luke Kane, Andy McCabe, Jim Mundell, Chuck Palmer, Mike Puls, Lewis Stephenson, Ted Waldrip</td>
+  <td>Captain: John Semander
+Mike Booker, Tim Carlton, Nick Cristea, John Dowdall, Kip Guidry, Rich Hageman, Randy Lance, Mike Minicucci, Jeff New, David Pocknall, Seth Thornton, Pat Youngs</td>
+</tr>
+<tr class='tablerow'>
+  <td>2009</td>
+  <td>Shadow Hawk GC
+Richmond
+
+North Wins 38.5-21.5</td>
+  <td>Captain: A.J. Triggs
+Henry Coffman, John Bearrie, Bart Goodwin, David Ward, Collin Stoops, Rob Couture, Lewis Stephenson, Bill Steen, Tom Doughtie, Chuck Palmer</td>
+  <td>Captain: Charlie Milstead
+Aaron Hickman, Kyle Flodder, David Leiss, Randy Lance, Pat Youngs, John Dowdall, Kip Guidry, Owen Joyner, David Pocknall, Tom McGraw</td>
+</tr>
+<tr class='tablerow'>
+  <td>2008</td>
+  <td>Escondido G&LC
+Horseshoe Bay
+
+North Wins 33-27</td>
+  <td>Captain: A.J. Triggs
+Rob Couture, Steve Galko, Andy McCabe, Collin Stoops, Bill Steen, John Bearrie, Lewis Stephenson, Bill Jackson, Tom Doughtie, Bill Caveness</td>
+  <td>Captain: Loren Singletary
+Aaron Hickman, Owen Joyner, Grady Bruce, Randy Lance, John Pierce, John Dowdall, David Leiss, Mike Rice, Tom McGraw, Ron Kilby</td>
+</tr>
+<tr class='tablerow'>
+  <td>2007</td>
+  <td>The Clubs of Cordillera Ranch
+Boerne
+
+North Wins 27.5-20.5</td>
+  <td>Captain: Bob Romero
+John Bearrie, Rob Couture, Steve Galko, Aaron Hickman, Chris Goodspeed, Neal Barfield, Michael Puls, John McClure</td>
+  <td>Captain: Guy Mason
+John Dowdall, Jonathon Shipley, Robert McKinney, Ron Kilby, Buzz Baker, David Pfueffer, John Pierce, Tom McGraw</td>
+</tr>
+<tr class='tablerow'>
+  <td>2006</td>
+  <td>Whispering Pines GC
+Trinity
+
+South Wins 25-23</td>
+  <td>Captain: Ryan Finn
+Dan Dunkelberg, Dru Fenimore, John Bearrie, Alan Clark, Rob Couture, Darin Newhouse, John McClure, David Leachman</td>
+  <td>Captain: Jeff Morton
+Jonathan Mathias, Ron Schroeder, Randy Lance, Alan Hill, John Dowdall, Kip Guidry, David Leiss, John Pierce</td>
+</tr>
+<tr class='tablerow'>
+  <td>2005</td>
+  <td>Colonial CC
+Fort Worth
+
+North Wins 26-22</td>
+  <td>Captain: Ryan Finn
+Steve Galko, Dan Dunkelberg, Mike Healer, Bob Neal, Chuck Palmer, Mark Lindberg, Jim Nuemann, Roger Marcincuk</td>
+  <td>Captain: Jeff Morton
+Terrence Miskell, Ron Schroeder, Steve Gill, Stephen Paterson, Chris James, Jonathon Mathias, Todd Hensarling, Jeff New</td>
+</tr>
+<tr class='tablerow'>
+  <td>2004</td>
+  <td>Whispering Pines GC
+Trinity
+
+South Wins 33.5-14.5</td>
+  <td>Captain: Ryan Finn
+Darin Newhouse, Jim Spagnolo, Andy Kampen, Ryan Hill, Bob Neal, Steve Galko, Jeff Makahon, Sam Manning</td>
+  <td>Captain: Jeff Morton
+Terrence Miskell, Titus Harris, Pat Youngs, Greg Martin, Scott Loving, Trevor Hyde, David Pocknall, Bob Kearney</td>
+</tr>
+<tr class='tablerow'>
+  <td>2003</td>
+  <td>Terra Vista GC
+Round Rock
+
+South Wins 26.5-21.5</td>
+  <td>Captain: Ryan Finn
+Lelan Chiles, Dan Dunkleberg, Sam Manning, Michael LaRose, John Bearie, Steve Galko, Andy Kampen, Alex Buecking</td>
+  <td>Captain: Jeff Morton
+Bob Kearney, Mike Booker, Robby McWilliams, Ron Schroder, Steve Trafton, Mark Johnson, Rodney Thompson, Steven Colwick</td>
+</tr>
+</table>
+

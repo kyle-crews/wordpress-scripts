@@ -1,0 +1,144 @@
+<div class='tablehead'>
+  <h3>South Amateur</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Champion</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>The Wilderness GC
+Final <a href="https://www.golfgenius.com/pages/3963083">Results</a></td>
+  <td>Terrin Anderson
+Montgomery</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>Victoria CC
+Final <a href="https://www.golfgenius.com/pages/3644988">Results</a></td>
+  <td>Bryan Comegys
+Austin</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>Galveston CC
+Final <a href="https://www.golfgenius.com/pages/3055314">Results</a></td>
+  <td>Padden Nelson
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>No Championship Held – Covid-19</td>
+  <td>–</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>Sterling CC
+Final <a href="https://www.txga.org/south-amateur-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Cody Banach
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>Fair Oaks Ranch G&CC (Live Oak)
+Final <a href="https://www.txga.org/south-amateur-2018-leaderboard?swcfpc=1">Results</a></td>
+  <td>Jacob Davis
+Cibolo</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>Horseshoe Bay Resort (Slick Rock)</td>
+  <td>Tim Hamm
+Austin</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>Wolfdancer GC</td>
+  <td>Danny Simmerman
+Shavano Park</td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>La Cantera Resort</td>
+  <td>Nick Thornton
+Boerne</td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>The Club at Comanche Trace</td>
+  <td>Jordan Sanders
+Cedar Park</td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>Deerwood Club</td>
+  <td>Tony Soerries
+Montgomery</td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>River Ridge GC</td>
+  <td>Albert Miner
+Katy</td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>Quail Valley GC</td>
+  <td>Mike Booker
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>2010</td>
+  <td>High Meadow Ranch GC</td>
+  <td>James Kwan
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>2009</td>
+  <td>Black Horse GC</td>
+  <td>Michael Whitehead
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>2008</td>
+  <td>Avery Ranch GC</td>
+  <td>John Pierce
+San Antonio</td>
+</tr>
+<tr class='tablerow'>
+  <td>2007</td>
+  <td>Magnolia Creek GC</td>
+  <td>Michael Whitehead
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>2006</td>
+  <td>Walden on Lake Conroe GC</td>
+  <td>Ron Schroeder
+Montgomery</td>
+</tr>
+<tr class='tablerow'>
+  <td>2005</td>
+  <td>Pine Forest CC</td>
+  <td>Jonathan Mathias
+San Antonio</td>
+</tr>
+<tr class='tablerow'>
+  <td>2004</td>
+  <td>Deerwood CC</td>
+  <td>Mike Booker
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>2003</td>
+  <td>Inwood Forest CC</td>
+  <td>Andrew Cooper
+The Woodlands</td>
+</tr>
+</table>
+

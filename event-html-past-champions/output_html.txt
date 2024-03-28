@@ -1,0 +1,6424 @@
+<div class='tablehead'>
+  <h3>Texas Amateur</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Champion</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>The Clubs at Houston Oaks
+Final <a href="https://www.golfgenius.com/pages/4007865">Results</a></td>
+  <td>Bret Gray
+Universal City</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>Willow Brook CC
+Final <a href="https://www.golfgenius.com/pages/3400984">Results</a></td>
+  <td>Holden Wisener
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>Midland CC
+Final <a href="https://www.txga.org/112th-texas-amateur-leaderboard/?swcfpc=1">Results</a></td>
+  <td>Austyn Reily
+Pottsboro</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>Boot Ranch
+Final <a href="https://www.txga.org/111th-texas-amateur-leaderboard-2020/?swcfpc=1">Results</a></td>
+  <td>Trey Bosco
+Austin</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>Dallas Athletic Club (Blue)
+Final <a href="https://www.golfgenius.com/pages/1936494?no_header=true&banner=false&show_tv_button=exclude">Results</a></td>
+  <td>Ryan Grider
+Lewisville</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>Whispering Pines GC
+Final <a href="http://chrome-extension//efaidnbmnnnibpcajpcglclefindmkaj/https://www.txga.org/wp-content/uploads/sites/10/2020/05/Texas-Am-2018-Leaderboard.pdf?swcfpc=1">Results</a></td>
+  <td>Mitchell Meissner
+San Antonio</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>Lakewood CC</td>
+  <td>Zander Lozano
+San Antonio</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>Oak Hills CC</td>
+  <td>Frederick Wedel
+The Woodlands</td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>Bent Tree CC</td>
+  <td>Michael Cotton
+Katy</td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>Brook Hollow GC</td>
+  <td>Will Zalatoris
+Plano</td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>Lakeside CC</td>
+  <td>Doug Manor
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>The Honors GC of Dallas</td>
+  <td>Thomas Birdsey
+Trophy Club</td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>Austin CC</td>
+  <td>Kelly Kraft
+Denton</td>
+</tr>
+<tr class='tablerow'>
+  <td>2010</td>
+  <td>Royal Oaks CC (Dallas)</td>
+  <td>Chris Ward
+McKinney</td>
+</tr>
+<tr class='tablerow'>
+  <td>2009</td>
+  <td>Miramont CC</td>
+  <td>James Sacheck
+The Woodlands</td>
+</tr>
+<tr class='tablerow'>
+  <td>2008</td>
+  <td>Houston CC</td>
+  <td>Kelly Kraft
+Denton</td>
+</tr>
+<tr class='tablerow'>
+  <td>2007</td>
+  <td>Whispering Pines GC</td>
+  <td>Charlie Holland
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2006</td>
+  <td>Dallas CC</td>
+  <td>Paul Haley
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2005</td>
+  <td>Barton Creek (Canyons)</td>
+  <td>Kevin Schultz
+Richardson</td>
+</tr>
+<tr class='tablerow'>
+  <td>2004</td>
+  <td>The Club at Carlton Woods</td>
+  <td>Zach Atkinson
+Coppell</td>
+</tr>
+<tr class='tablerow'>
+  <td>2003</td>
+  <td>Dallas Athletic Club</td>
+  <td>Ryan Baca
+Richmond</td>
+</tr>
+<tr class='tablerow'>
+  <td>2002</td>
+  <td>Horseshoe Bay Resort</td>
+  <td>Ryan Baca
+Richmond</td>
+</tr>
+<tr class='tablerow'>
+  <td>2001</td>
+  <td>Houston CC</td>
+  <td>Bob Kearney
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>2000</td>
+  <td>Lakewood CC</td>
+  <td>Chip Carter
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1999</td>
+  <td>Deerwood CC</td>
+  <td>Robert McKinney
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>1998</td>
+  <td>Crown Colony CC</td>
+  <td>Chip Stewart
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1997</td>
+  <td>Midland CC</td>
+  <td>Ed Brooks
+Georgetown</td>
+</tr>
+<tr class='tablerow'>
+  <td>1996</td>
+  <td>Laredo CC</td>
+  <td>Bob Hullender
+San Antonio</td>
+</tr>
+<tr class='tablerow'>
+  <td>1995</td>
+  <td>BraeBurn CC</td>
+  <td>Brad Elder
+Plano</td>
+</tr>
+<tr class='tablerow'>
+  <td>1994</td>
+  <td>Mira Vista CC</td>
+  <td>John Grace
+Fort Worth</td>
+</tr>
+<tr class='tablerow'>
+  <td>1993</td>
+  <td>Horseshoe Bay Resort</td>
+  <td>Collin Stoops
+Richardson</td>
+</tr>
+<tr class='tablerow'>
+  <td>1992</td>
+  <td>Dallas Athletic Club</td>
+  <td>Chip Stewart
+Irving</td>
+</tr>
+<tr class='tablerow'>
+  <td>1991</td>
+  <td>The Hills of Lakeway</td>
+  <td>Randy Sonnier
+Kingwood</td>
+</tr>
+<tr class='tablerow'>
+  <td>1990</td>
+  <td>Stonebridge CC</td>
+  <td>Richard Ellis
+Plano</td>
+</tr>
+<tr class='tablerow'>
+  <td>1989</td>
+  <td>Hackberry Creek CC</td>
+  <td>Larry Seligman
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>1988</td>
+  <td>Lochinvar GC</td>
+  <td>Bob Estes
+Abilene</td>
+</tr>
+<tr class='tablerow'>
+  <td>1987</td>
+  <td>The Club at Sonterra</td>
+  <td>Jimmy Adams
+Beaumont</td>
+</tr>
+<tr class='tablerow'>
+  <td>1986</td>
+  <td>Deerwood CC</td>
+  <td>Randy Sonnier
+The Woodlands</td>
+</tr>
+<tr class='tablerow'>
+  <td>1985</td>
+  <td>The Hills of Lakeway</td>
+  <td>Scott Verplank
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1984</td>
+  <td>Horseshoe Bay Resort</td>
+  <td>Scott Verplank
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1983</td>
+  <td>Fairway Oaks CC</td>
+  <td>John Slaughter
+Abilene</td>
+</tr>
+<tr class='tablerow'>
+  <td>1982</td>
+  <td>Crown Colony CC</td>
+  <td>Scott Verplank
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1981</td>
+  <td>Houston CC</td>
+  <td>Mark Brooks
+Fort Worth</td>
+</tr>
+<tr class='tablerow'>
+  <td>1980</td>
+  <td>Brookhaven CC</td>
+  <td>Richard Ellis
+Plano</td>
+</tr>
+<tr class='tablerow'>
+  <td>1979</td>
+  <td>Wichita Falls CC</td>
+  <td>Mark Brooks
+Fort Worth</td>
+</tr>
+<tr class='tablerow'>
+  <td>1978</td>
+  <td>Walden on Lake Conroe GC</td>
+  <td>Bob Gibbons
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1977</td>
+  <td>Riverhill CC</td>
+  <td>Terry Snodgrass
+Arlington</td>
+</tr>
+<tr class='tablerow'>
+  <td>1976</td>
+  <td>Woodhaven CC</td>
+  <td>John Disosway
+San Antonio</td>
+</tr>
+<tr class='tablerow'>
+  <td>1975</td>
+  <td>Austin CC</td>
+  <td>Robert Hoyt
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>1974</td>
+  <td>Royal Oaks CC (Dallas)</td>
+  <td>Mark Witt
+Irving</td>
+</tr>
+<tr class='tablerow'>
+  <td>1973</td>
+  <td>River Oaks CC</td>
+  <td>Tony Pfaff
+Austin</td>
+</tr>
+<tr class='tablerow'>
+  <td>1972</td>
+  <td>Oak Hills CC</td>
+  <td>Ben Crenshaw
+Austin</td>
+</tr>
+<tr class='tablerow'>
+  <td>1971</td>
+  <td>Midland CC</td>
+  <td>Bruce Lietzke
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>1970</td>
+  <td>Great Southwest GC</td>
+  <td>Bill Holstead, Jr.
+Wichita Falls</td>
+</tr>
+<tr class='tablerow'>
+  <td>1969</td>
+  <td>River Plantation G&CC</td>
+  <td>Bruce Ashworth
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>1968</td>
+  <td>River Plantation G&CC</td>
+  <td>Hal Underwood
+Del Rio</td>
+</tr>
+<tr class='tablerow'>
+  <td>1967</td>
+  <td>Pecan Valley CC</td>
+  <td>Lee McDowell
+Bryan</td>
+</tr>
+<tr class='tablerow'>
+  <td>1966</td>
+  <td>Pecan Valley CC</td>
+  <td>Hal Underwood
+Del Rio</td>
+</tr>
+<tr class='tablerow'>
+  <td>1965</td>
+  <td>Midland CC</td>
+  <td>Randy Petri
+Austin</td>
+</tr>
+<tr class='tablerow'>
+  <td>1964</td>
+  <td>Willow Brook CC</td>
+  <td>Marty Fleckman</td>
+</tr>
+<tr class='tablerow'>
+  <td>1963</td>
+  <td>Brook Hollow CC</td>
+  <td>Gene Teter</td>
+</tr>
+<tr class='tablerow'>
+  <td>1962</td>
+  <td>Corpus Christi CC</td>
+  <td>Richard Yates</td>
+</tr>
+<tr class='tablerow'>
+  <td>1961</td>
+  <td>Austin CC</td>
+  <td>John Paul Cain</td>
+</tr>
+<tr class='tablerow'>
+  <td>1960</td>
+  <td>Wichita Falls CC</td>
+  <td>Rufus King</td>
+</tr>
+<tr class='tablerow'>
+  <td>1959</td>
+  <td>Oak Hills CC</td>
+  <td>Charles Coody</td>
+</tr>
+<tr class='tablerow'>
+  <td>1958</td>
+  <td>San Angelo CC</td>
+  <td>Don Massengale</td>
+</tr>
+<tr class='tablerow'>
+  <td>1957</td>
+  <td>Corpus Christi CC</td>
+  <td>Mickey King</td>
+</tr>
+<tr class='tablerow'>
+  <td>1956</td>
+  <td>Dallas CC</td>
+  <td>David Goldman, Jr.</td>
+</tr>
+<tr class='tablerow'>
+  <td>1955</td>
+  <td>River Oaks CC</td>
+  <td>Spec Goldman</td>
+</tr>
+<tr class='tablerow'>
+  <td>1954</td>
+  <td>River Crest CC</td>
+  <td>Ernie Vossler</td>
+</tr>
+<tr class='tablerow'>
+  <td>1953</td>
+  <td>Austin CC</td>
+  <td>Jimmy Connolly</td>
+</tr>
+<tr class='tablerow'>
+  <td>1952</td>
+  <td>Corpus Christi CC</td>
+  <td>Bill Erfurth</td>
+</tr>
+<tr class='tablerow'>
+  <td>1951</td>
+  <td>Corsicana CC</td>
+  <td>Joe Conrad</td>
+</tr>
+<tr class='tablerow'>
+  <td>1950</td>
+  <td>Oak Hills CC</td>
+  <td>Morris Williams, Jr.</td>
+</tr>
+<tr class='tablerow'>
+  <td>1949</td>
+  <td>Dallas CC</td>
+  <td>Reynolds Smith</td>
+</tr>
+<tr class='tablerow'>
+  <td>1948</td>
+  <td>River Oaks CC</td>
+  <td>Dick McCreary</td>
+</tr>
+<tr class='tablerow'>
+  <td>1947</td>
+  <td>Wichita Falls CC</td>
+  <td>Earl Stewart, Jr.</td>
+</tr>
+<tr class='tablerow'>
+  <td>1946</td>
+  <td>Brook Hollow GC</td>
+  <td>Bobby Riegel</td>
+</tr>
+<tr class='tablerow'>
+  <td>1943-1945</td>
+  <td>No Championships Held – WWII</td>
+  <td>–</td>
+</tr>
+<tr class='tablerow'>
+  <td>1942</td>
+  <td>Lakewood CC</td>
+  <td>Ray Kenny</td>
+</tr>
+<tr class='tablerow'>
+  <td>1941</td>
+  <td>Beaumont CC</td>
+  <td>Billy Bob Coffey</td>
+</tr>
+<tr class='tablerow'>
+  <td>1940</td>
+  <td>San Angelo CC</td>
+  <td>Billy Bob Coffey</td>
+</tr>
+<tr class='tablerow'>
+  <td>1939</td>
+  <td>Brook Hollow CC</td>
+  <td>Don Schumacher</td>
+</tr>
+<tr class='tablerow'>
+  <td>1938</td>
+  <td>Colonial CC</td>
+  <td>Bobby Riegel</td>
+</tr>
+<tr class='tablerow'>
+  <td>1937</td>
+  <td>River Oaks CC</td>
+  <td>Reynolds Smith</td>
+</tr>
+<tr class='tablerow'>
+  <td>1936</td>
+  <td>San Antonio CC</td>
+  <td>Don Schumacher</td>
+</tr>
+<tr class='tablerow'>
+  <td>1935</td>
+  <td>Brook Hollow GC</td>
+  <td>Harry Todd</td>
+</tr>
+<tr class='tablerow'>
+  <td>1934</td>
+  <td>Brook Hollow GC</td>
+  <td>Reynolds Smith</td>
+</tr>
+<tr class='tablerow'>
+  <td>1933</td>
+  <td>Houston CC</td>
+  <td>Gus Moreland</td>
+</tr>
+<tr class='tablerow'>
+  <td>1932</td>
+  <td>Texarkana CC</td>
+  <td>Gus Moreland</td>
+</tr>
+<tr class='tablerow'>
+  <td>1931</td>
+  <td>Brook Hollow GC</td>
+  <td>Gus Moreland</td>
+</tr>
+<tr class='tablerow'>
+  <td>1930</td>
+  <td>River Oaks CC</td>
+  <td>W.C. Hunt</td>
+</tr>
+<tr class='tablerow'>
+  <td>1929</td>
+  <td>Brook Hollow GC</td>
+  <td>Dennis Lavender</td>
+</tr>
+<tr class='tablerow'>
+  <td>1928</td>
+  <td>Austin CC</td>
+  <td>Jack Speer</td>
+</tr>
+<tr class='tablerow'>
+  <td>1927</td>
+  <td>San Antonio CC</td>
+  <td>Lewis Levinson</td>
+</tr>
+<tr class='tablerow'>
+  <td>1926</td>
+  <td>River Oaks CC</td>
+  <td>O.S. Carlton, Jr.</td>
+</tr>
+<tr class='tablerow'>
+  <td>1925</td>
+  <td>Spring Lake CC</td>
+  <td>T.B. Cochran</td>
+</tr>
+<tr class='tablerow'>
+  <td>1924</td>
+  <td>Brook Hollow GC</td>
+  <td>T.B. Cochran</td>
+</tr>
+<tr class='tablerow'>
+  <td>1923</td>
+  <td>Galveston CC</td>
+  <td>O.S. Carlton, Jr.</td>
+</tr>
+<tr class='tablerow'>
+  <td>1922</td>
+  <td>River Crest CC</td>
+  <td>C.L. Dexter, Jr.</td>
+</tr>
+<tr class='tablerow'>
+  <td>1921</td>
+  <td>Dallas CC</td>
+  <td>C.L. Dexter, Jr.</td>
+</tr>
+<tr class='tablerow'>
+  <td>1920</td>
+  <td>Houston CC</td>
+  <td>Louis Jacoby</td>
+</tr>
+<tr class='tablerow'>
+  <td>1919</td>
+  <td>San Antonio CC</td>
+  <td>George V. Rotan</td>
+</tr>
+<tr class='tablerow'>
+  <td>1918</td>
+  <td>No Championships Held – WWI</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1917</td>
+  <td>River Crest CC</td>
+  <td>B.H. Brown</td>
+</tr>
+<tr class='tablerow'>
+  <td>1916</td>
+  <td>Houston CC</td>
+  <td>G. Aldredge</td>
+</tr>
+<tr class='tablerow'>
+  <td>1915</td>
+  <td>Dallas CC</td>
+  <td>George V. Rotan</td>
+</tr>
+<tr class='tablerow'>
+  <td>1914</td>
+  <td>San Antonio CC</td>
+  <td>George V. Rotan</td>
+</tr>
+<tr class='tablerow'>
+  <td>1913</td>
+  <td>Houston CC</td>
+  <td>George V. Rotan</td>
+</tr>
+<tr class='tablerow'>
+  <td>1912</td>
+  <td>Dallas CC</td>
+  <td>George V. Rotan</td>
+</tr>
+<tr class='tablerow'>
+  <td>1911</td>
+  <td>Houston CC</td>
+  <td>R.H. Connerly</td>
+</tr>
+<tr class='tablerow'>
+  <td>1910</td>
+  <td>Austin CC</td>
+  <td>R.H. Connerly</td>
+</tr>
+<tr class='tablerow'>
+  <td>1909</td>
+  <td>Galveston CC</td>
+  <td>R.H. Connerly</td>
+</tr>
+<tr class='tablerow'>
+  <td>1908</td>
+  <td>Fort Worth GC</td>
+  <td>R.H. Connerly</td>
+</tr>
+<tr class='tablerow'>
+  <td>1907</td>
+  <td>San Antonio CC</td>
+  <td>Thomas Chilton</td>
+</tr>
+<tr class='tablerow'>
+  <td>1906</td>
+  <td>Dallas CC</td>
+  <td>H.L. Edwards</td>
+</tr>
+</table>
+
+<div class='tablehead'>
+  <h3>South Senior Amateur</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Senior Division</th>
+  <th class='fontbold'>Super Senior Division</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>Gus Wortham Park GC
+Final <a href="https://www.golfgenius.com/pages/3940457">Results</a></td>
+  <td>Mike Booker</td>
+  <td>Charles Reeve</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>Beaumont CC
+Final <a href="https://www.golfgenius.com/pages/3434520">Results</a></td>
+  <td>Mike Booker</td>
+  <td>Mike Vacek</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>Kissing Tree GC
+Final <a href="https://www.golfgenius.com/pages/2865138">Results</a></td>
+  <td>David Ortego</td>
+  <td>Mike Vacek</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>No Championship Held – Covid-19</td>
+  <td>–</td>
+  <td>–</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>River Crossing Club
+Final <a href="https://www.txga.org/south-senior-amateur-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Scott Smith</td>
+  <td>Mike Arnold</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>Walden on Lake Conroe GC
+Final <a href="https://www.txga.org/south-senior-amateur-2018-leaderboard?swcfpc=1">Results</a></td>
+  <td>John Pierce</td>
+  <td>Kent Samuel</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>Golfcrest CC</td>
+  <td>Mike Booker</td>
+  <td>Mike Arnold</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>Cypresswood GC</td>
+  <td>Mike Booker</td>
+  <td>Peter Kirchner</td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>Woodforest GC</td>
+  <td>David Ortega</td>
+  <td>Chris Larson</td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>Raveneuax CC</td>
+  <td>Richard Hageman</td>
+  <td>Marshall Utterson</td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>Sugar Creek CC</td>
+  <td>Charlie Jabbia</td>
+  <td>L.D. Clopton</td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>The Club at Falcon Point</td>
+  <td>Mike Booker</td>
+  <td>Peter Kirchner</td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>The Woodlands CC</td>
+  <td>Michael Allen</td>
+  <td>Chip Puhl</td>
+</tr>
+<tr class='tablerow'>
+  <td>2010</td>
+  <td>Pine Forest CC</td>
+  <td>David Pocknall</td>
+  <td>Mike Schell</td>
+</tr>
+<tr class='tablerow'>
+  <td>2009</td>
+  <td>River Ridge GC</td>
+  <td>Dennis Emerson</td>
+  <td>Don Grider</td>
+</tr>
+</table>
+
+<div class='tablehead'>
+  <h3>Medalist North #3</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Open Division</th>
+  <th class='fontbold'>Senior Division</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>The Bridges GC
+Final <a href="https://www.golfgenius.com/pages/3904245">Results</a></td>
+  <td>William Teichman</td>
+  <td>Bill Jackson</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>The Courses at Watters Creek
+Final <a href="https://tga-2022medalistnorth3thecoursesatwatte1.golfgenius.com/pages/3351322">Results</a></td>
+  <td>Jeffrey Juillerat</td>
+  <td>Adrian Walmsley
+Randall Grimes</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>The Courses at Watters Creek
+Final <a href="https://www.golfgenius.com/pages/2793438">Results</a></td>
+  <td>Jonathan Paulson</td>
+  <td>Curtis Bortland</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>No Championship Held – COVID-19</td>
+  <td>–</td>
+  <td>–</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>Sherrill Park GC
+Final <a href="https://www.txga.org/medalist-north-3-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Brandon Lawson</td>
+  <td>John Schaefer</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>Sherrill Park GC
+Final <a href="https://www.txga.org/medalist-north-3-2018-leaderboard?swcfpc=1">Results</a></td>
+  <td>Marcus Cigna</td>
+  <td>Zeke Zietak</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>Sherrill Park GC</td>
+  <td>Ted Waldrip</td>
+  <td>Henry Coffman</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>Sherrill Park GC</td>
+  <td>John Schaefer</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>The Courses at Watters Creek</td>
+  <td>Jake Goodman</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>The GC of Dallas</td>
+  <td>Zach Hooper</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>Buffalo Creek GC</td>
+  <td>Ted Waldrip</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>Walnut Creek CC</td>
+  <td>John Bearrie</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>Waterchase GC</td>
+  <td>Ted Waldrip</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2010</td>
+  <td>Sherrill Park GC</td>
+  <td>John Schaefer</td>
+  <td></td>
+</tr>
+</table>
+
+<div class='tablehead'>
+  <h3>Womens Partnership Match Play</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Winners</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>The Hideout GC&R
+Final <a href="https://www.golfgenius.com/pages/4147804">Results</a></td>
+  <td>1st Flight: Karen Northcutt, Lettia Collins
+2nd Flight: Mary Ann Knipe, Lindy Fox
+3rd Flight: Katherine Biggs, Lorraine Werner
+4th Flight: Cindy Campbell, Vicki Jordan</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>Walden on Lake Conroe GC
+Final <a href="https://www.golfgenius.com/pages/3355189">Results</a></td>
+  <td>1st Flight: Karen Northcutt, Lettia Collins
+2nd Flight: Lisa Papes, Kelly Campbell
+3rd Flight: Angie Dusevic, Sara Devilliers
+4th Flight: Xuesong Hollier, Jill Rizzo
+5th Flight: Diane Gunn, Maede Miller
+6th Flight: Beth Belovsky, Bobbie Proctor</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>Riverhill CC
+Final <a href="https://www.golfgenius.com/pages/2952517">Results</a></td>
+  <td>Mary Dees
+Emilie Wilshire</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>No Championship Held – Covid-19</td>
+  <td>–</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>Golfcrest CC
+Final <a href="https://www.txga.org/womens-partnership-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Margaret Bosman
+Lorraine Werner</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>Fair Oaks Ranch G&CC (Live Oak)
+Final <a href="https://www.txga.org/womens-partnership-2018-leaderboard?swcfpc=1">Results</a></td>
+  <td>Camm Dougherty
+Leslie McCallick</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>The Clubs of Prestonwood (Hills)
+Final <a href="https://www.golfgenius.com/pages/4263843">Results</a></td>
+  <td>Camm Dougherty
+Leslie McCallick</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>Crown Colony CC</td>
+  <td>Lyn Jones
+Liza Robinson</td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>Horseshoe Bay Resort (Ram Rock)</td>
+  <td>Sissy Davies
+Diane Dill</td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>Riverbend CC</td>
+  <td>Chris Johnson
+Bonnie Longaker</td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>The Club at Sonterra</td>
+  <td>Julie Robichaux
+Diane Henry</td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>Corpus Christi CC</td>
+  <td>Camm Dougherty
+Leslie McCallick</td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>Ridgewood CC</td>
+  <td>Dianne Roberts
+Ethel Wright</td>
+</tr>
+<tr class='tablerow'>
+  <td>2010</td>
+  <td>Canyon Creek CC</td>
+  <td>Dianne Roberts
+Ethel Wright</td>
+</tr>
+<tr class='tablerow'>
+  <td>2009</td>
+  <td>Eagle’s Bluff CC</td>
+  <td>Sondra Swan
+Joyce Libbey</td>
+</tr>
+<tr class='tablerow'>
+  <td>2008</td>
+  <td>Bentwater Yacht & CC (Weiskopf)</td>
+  <td>P.J. Wright
+Diane Sloan</td>
+</tr>
+<tr class='tablerow'>
+  <td>2007</td>
+  <td>Silverhorn CC</td>
+  <td>Pam Sexton
+Pilar Velazquez</td>
+</tr>
+<tr class='tablerow'>
+  <td>2006</td>
+  <td>Stonebriar CC</td>
+  <td>Joanne Burleson
+Chris Braatz</td>
+</tr>
+<tr class='tablerow'>
+  <td>2005</td>
+  <td>The Hills CC (Flintrock Falls)</td>
+  <td>Alli Jarrett
+Sis Singletary</td>
+</tr>
+<tr class='tablerow'>
+  <td>2004</td>
+  <td>The Woodlands (Palmer)</td>
+  <td>Julie Robichaux
+Diane Henry</td>
+</tr>
+<tr class='tablerow'>
+  <td>2003</td>
+  <td>Dallas Athletic Club</td>
+  <td>Jacque Cooper
+Yvonne Gilmore</td>
+</tr>
+<tr class='tablerow'>
+  <td>2002</td>
+  <td>Riverhill CC</td>
+  <td>Sue Alt
+Mary Lucas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2001</td>
+  <td>Ridgewood CC</td>
+  <td>Marti Ross
+Tina MacDonald</td>
+</tr>
+<tr class='tablerow'>
+  <td>2000</td>
+  <td>Willow Brook CC</td>
+  <td>Jeanne Ballard
+Charlotte McSpadden</td>
+</tr>
+<tr class='tablerow'>
+  <td>1999</td>
+  <td>The Club at Sonterra</td>
+  <td>Jam Casey
+Joyce Kerin</td>
+</tr>
+</table>
+
+<div class='tablehead'>
+  <h3>Texas Super Senior Amateur</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Super Senior Division</th>
+  <th class='fontbold'>Legends Division</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>White Bluff Resort (New)
+Final <a href="https://www.golfgenius.com/pages/4041216">Results</a></td>
+  <td>Chuck Gardner
+Texarkana</td>
+  <td>Bill Holstead
+Wichita Falls</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>Sugar Creek CC (Trent/Jones)
+Final <a href="https://www.golfgenius.com/pages/3434413">Results</a></td>
+  <td>Chuck Gardner
+Texarkana</td>
+  <td>Wayne Franklin
+Abilene</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>Ridglea CC (North)
+Final <a href="https://www.golfgenius.com/pages/2963864">Results</a></td>
+  <td>Wayne Wright
+Aledo</td>
+  <td>Mike Rice
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>No Championship Held – Covid-19</td>
+  <td>–</td>
+  <td>–</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>Ridgewood CC
+Final <a href="https://www.txga.org/texas-super-senior-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Ed Brooks
+Fort Worth</td>
+  <td>Richard Lundy
+Amarillo</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>White Wing GC
+Final <a href="https://www.txga.org/texas-super-senior-2018-leaderboard?swcfpc=1">Results</a></td>
+  <td>Mickey Jones
+Odessa</td>
+  <td>Don Grider
+Georgetown</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>Pine Dunes GC</td>
+  <td>Wayne Wright
+Aledo</td>
+  <td>Don Grider
+Georgetown</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>Las Colinas CC</td>
+  <td>Jerry Hudgins
+Kingwood</td>
+  <td>Andy Wall
+Tyler</td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>Fair Oaks Ranch G&CC</td>
+  <td>John Grace
+Fort Worth</td>
+  <td>Bob Hullender
+San Antonio</td>
+</tr>
+</table>
+
+<div class='tablehead'>
+  <h3>Medalist Gulf Coast #3</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Open Division</th>
+  <th class='fontbold'>Senior Division</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>Atascocita GC
+Final <a href="https://www.golfgenius.com/pages/3904673">Results</a></td>
+  <td>Cameron Carter
+Seguin</td>
+  <td>Ron Byrd
+The Woodlands</td>
+</tr>
+</table>
+
+<div class='tablehead'>
+  <h3>Bluebonnet Championship</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Boys 15-18</th>
+  <th class='fontbold'>Boys 14 & Under</th>
+  <th class='fontbold'>Girls 12-18</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>Brownwood CC
+Final <a href="https://www.golfgenius.com/pages/9077289058610217896">Results</a></td>
+  <td>Nathan Miller</td>
+  <td>Henry Jackson</td>
+  <td>Shyla Brown</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>Brownwood CC
+Final <a href="https://www.txga.org/2022-bluebonnetchampionship-leaderboard/?swcfpc=1">Results</a></td>
+  <td>Connor Henry</td>
+  <td>Jack Clancy</td>
+  <td>Farah O’Keefe</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>Brownwood CC
+Final <a href="https://www.txga.org/2021-bluebonnetchampionship-leaderboard/?swcfpc=1">Results</a></td>
+  <td>Matthew Comegys</td>
+  <td>Rhett O’Rear</td>
+  <td>Mimi Burton</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>Brownwood CC
+Final <a href="https://www.txga.org/2020-bluebonnetchampionship-leaderboard?swcfpc=1">Results</a></td>
+  <td>Matthew Comegys</td>
+  <td>Bowen Ballis</td>
+  <td>Ryann Hoea</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>Brownwood CC
+Final <a href="https://www.txga.org/ljt-bluebonnet-championship-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Brody Hanley</td>
+  <td>Trenton Mierl</td>
+  <td>MacKenzie Moore</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>Brownwood CC
+Final <a href="https://www.txga.org/ljt-bluebonnet-championship-2018-leaderboard?swcfpc=1">Results</a></td>
+  <td>Luke Dossey</td>
+  <td>Kaelen Dulaney</td>
+  <td>Calynne Rosholt</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>Brownwood CC</td>
+  <td>Damin Strydom</td>
+  <td>Evan Vo</td>
+  <td>Elina Sinz</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>Brownwood CC</td>
+  <td>McClure Meissner</td>
+  <td>Vishnu Sadagopan</td>
+  <td>Sara Camarena</td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>Brownwood CC</td>
+  <td>Cole Hammer</td>
+  <td>Junmin Lee</td>
+  <td>Greta Bruner</td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>Brownwood CC</td>
+  <td>Ryan Grider</td>
+  <td>Pierceson Coody</td>
+  <td>Hailee Cooper</td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>Brownwood CC</td>
+  <td>Charles Kim</td>
+  <td>Noah Goodwin</td>
+  <td>Maddie Luitwieler</td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>Brownwood CC</td>
+  <td>Jordan Sanders</td>
+  <td>Cooper Dossey</td>
+  <td>Julie Beck</td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>Brownwood CC</td>
+  <td>Scott Scheffler</td>
+  <td>Daniel Martinez</td>
+  <td>15-18: Callie Scheffler
+14&U: Megan Spinn</td>
+</tr>
+<tr class='tablerow'>
+  <td>2010</td>
+  <td>Brownwood CC</td>
+  <td>Tayler Termeer</td>
+  <td>Eric Valenzuela</td>
+  <td>15-18: Taylor Moreno
+14&U: Libby Thomas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2009</td>
+  <td>Brownwood CC</td>
+  <td>Cody Wing</td>
+  <td>Stratton Nolen</td>
+  <td>15-18: Katie Grady
+14&U: Maddie Szeryk</td>
+</tr>
+<tr class='tablerow'>
+  <td>2008</td>
+  <td>Brownwood CC</td>
+  <td>Mauricio Garza</td>
+  <td>Hunter Zetsche</td>
+  <td>15-18: Kelsey Kirkpatrick
+14&U: MacKenzie Boydston</td>
+</tr>
+<tr class='tablerow'>
+  <td>2007</td>
+  <td>Brownwood CC</td>
+  <td>Brendan Redfern</td>
+  <td>Eli Juren</td>
+  <td>Carol Blanton</td>
+</tr>
+</table>
+
+<div class='tablehead'>
+  <h3>Medalist Hill Country #3</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Open Division</th>
+  <th class='fontbold'>Senior Division</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>Lady Bird Johnson GC
+Final <a href="https://www.golfgenius.com/pages/3904484">Results</a></td>
+  <td>Luke Condon</td>
+  <td>Tray Tyner</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>Frio Valley Ranch
+Final <a href="https://tga-2022medalisthillcountry3friovalleyra.golfgenius.com/pages/3353906">Results</a></td>
+  <td>Kiley Hardy</td>
+  <td>James Duttweiler</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>Frio Valley Ranch
+Final <a href="https://www.golfgenius.com/pages/2793488">Results</a></td>
+  <td>Blake Benson</td>
+  <td>Brad Greebon</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>Canceled Due to COVID-19</td>
+  <td>–</td>
+  <td>–</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>Vaaler Creek GC
+Final <a href="https://www.txga.org/medalist-hill-country-3-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Daniel Gurtner</td>
+  <td>Brad Gray</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>The Club at Sonterra
+Final <a href="https://www.txga.org/medalist-hill-country-3-2018-leaderboard?swcfpc=1">Results</a></td>
+  <td>Mark Miller</td>
+  <td>Rob Ormand</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>The Club at Sonterra</td>
+  <td>Jake Goodman</td>
+  <td>Bill Woodley</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>The Club at Sonterra</td>
+  <td>John Pierce</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>Teravista GC</td>
+  <td>Brian Marchiori</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>The Club at Comanche Trace</td>
+  <td>Ross Wilhelm</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>The Club at Comanche Trace</td>
+  <td>Pat Youngs</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>The Club at Comanche Trace</td>
+  <td>Trevor Hyde</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>The Club at Comanche Trace</td>
+  <td>Ed Sanchez</td>
+  <td></td>
+</tr>
+</table>
+
+<div class='tablehead'>
+  <h3>Medalist Hill Country #2</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Open Division</th>
+  <th class='fontbold'>Senior Division</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>Lighthouse CC
+Final <a href="https://www.golfgenius.com/pages/3924614">Results</a></td>
+  <td>Austen Fulmer</td>
+  <td>Boyd Bruchmiller</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>Vaaler Creek GC
+Final <a href="https://tga-medalisthillcountry2-vaalercreekgolf.golfgenius.com/pages/3351226">Results</a></td>
+  <td>Jermain Rakoczy</td>
+  <td>Brad Greebon</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>Forest Creek GC
+Final <a href="https://www.golfgenius.com/pages/2795170">Results</a></td>
+  <td>Austen Fulmer</td>
+  <td>Chris Hartenstein</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>Forest Creek GC
+Final <a href="https://www.txga.org/medalist-hill-country-2-2020-leaderboard/?swcfpc=1">Results</a></td>
+  <td>Alex Woodward</td>
+  <td>Chris Hartenstein</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>Grey Rock GC
+Final <a href="https://www.txga.org/medalist-hill-country-2-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Jay Reynolds</td>
+  <td>Brad Gray</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>Grey Rock GC
+Final <a href="https://www.txga.org/medalist-hill-country-2-2018-leaderboard?swcfpc=1">Results</a></td>
+  <td>Daniel Martinez</td>
+  <td>Larry Nunez</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>Onion Creek Club</td>
+  <td>Jay Reynolds</td>
+  <td>Chris Landherr</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>Onion Creek Club</td>
+  <td>Jay Reynolds</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>The Club at Comanche Trace</td>
+  <td>Bob Kearney</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>Lakecliff CC</td>
+  <td>Michael Randle</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>Lakecliff CC</td>
+  <td>Daniel Martinez</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>Canyon Springs GC</td>
+  <td>Carlos De Leon</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>Riverhill CC</td>
+  <td>Nikolas Arrenbrecht</td>
+  <td></td>
+</tr>
+</table>
+
+<div class='tablehead'>
+  <h3>Texas League Play</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>League Play Champion</th>
+  <th class='fontbold'>Club City</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>DeCordova Bend CC
+Final <a href="https://www.golfgenius.com/pages/4236188">Results</a></td>
+  <td>Granbury</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>Odessa CC (Old)
+Final <a href="https://www.golfgenius.com/pages/3609177">Results</a></td>
+  <td>Odessa</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>Green Tree CC
+Final <a href="https://www.golfgenius.com/pages/3026069">Results</a></td>
+  <td>Midland</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>Nutcracker GC
+Final <a href="https://www.txga.org/texas-league-play-2020-leaderboard-copy?swcfpc=1">Results</a></td>
+  <td>Granbury</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>Odessa CC
+Final <a href="https://www.txga.org/texas-league-play-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Odessa</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>DeCordova Bend CC
+Final <a href="https://www.txga.org/texas-league-play-2018-leaderboard?swcfpc=1">Results</a></td>
+  <td>Granbury</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>The GC of Houston</td>
+  <td>Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>Dallas Athletic Club</td>
+  <td>Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>Tierra Verde GC</td>
+  <td>Arlington</td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>Tierra Verde GC</td>
+  <td>Arlington</td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>Tierra Verde GC</td>
+  <td>Arlington</td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>Green Tree CC</td>
+  <td>Midland</td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>Dallas Athletic Club</td>
+  <td>Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2010</td>
+  <td>Dallas Athletic Club</td>
+  <td>Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2009</td>
+  <td>Woodforest GC</td>
+  <td>Montgomery</td>
+</tr>
+<tr class='tablerow'>
+  <td>2008</td>
+  <td>DeCordova Bend CC</td>
+  <td>Granbury – Spring Season</td>
+</tr>
+<tr class='tablerow'>
+  <td>2008</td>
+  <td>Woodforest GC</td>
+  <td>Montgomery – Fall Season</td>
+</tr>
+<tr class='tablerow'>
+  <td>2007</td>
+  <td>DeCordova Bend CC</td>
+  <td>Granbury</td>
+</tr>
+<tr class='tablerow'>
+  <td>2006</td>
+  <td>Brook Hollow GC</td>
+  <td>Dallas</td>
+</tr>
+</table>
+
+<div class='tablehead'>
+  <h3>Veritex Bank Byron Nelson Junio</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Champion</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>Lakewood CC
+Final <a href="https://www.golfgenius.com/pages/9578400065823736518">Results</a></td>
+  <td>Preston Stout</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>Lakewood CC
+Final <a href="https://www.txga.org/2022-vbbyronnelsonjuniorchampionship-leaderboard/?swcfpc=1">Results</a></td>
+  <td>Preston Stout</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>Lakewood CC
+Final <a href="https://www.golfgenius.com/pages/6940319287882056359">Results</a></td>
+  <td>Preston Stout</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>Lakewood CC
+Final <a href="https://www.txga.org/2020-veritexbankbyronnelsonjuniorchampionship-leaderboard/?swcfpc=1">Results</a></td>
+  <td>J. Holland Humphries</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>Lakewood CC
+Final <a href="https://www.txga.org/ljt-veritex-bank-byron-nelson-junior-championship-2019-leaderboard/?swcfpc=1">Results</a></td>
+  <td>Gaven Lane</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>Lakewood CC</td>
+  <td>Pierceson Coody</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>Lakewood CC</td>
+  <td>Luke Dossey</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>Lakewood CC</td>
+  <td>Levi Valadez</td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>Lakewood CC</td>
+  <td>Ryan Grider</td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>Lakewood CC</td>
+  <td>Chandler Phillips</td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>Lakewood CC</td>
+  <td>Hunter Shattuck</td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>Mira Vista CC</td>
+  <td>Benjamin Arnett</td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>Lakewood CC</td>
+  <td>Vincent Martino</td>
+</tr>
+<tr class='tablerow'>
+  <td>2010</td>
+  <td>Lakewood CC</td>
+  <td>Jordan Spieth</td>
+</tr>
+<tr class='tablerow'>
+  <td>2009</td>
+  <td>Lakewood CC</td>
+  <td>Jordan Spieth</td>
+</tr>
+<tr class='tablerow'>
+  <td>2008</td>
+  <td>Lakewood CC</td>
+  <td>Jordan Spieth</td>
+</tr>
+<tr class='tablerow'>
+  <td>2007</td>
+  <td>Lakewood CC</td>
+  <td>Cody Gribble</td>
+</tr>
+<tr class='tablerow'>
+  <td>2006</td>
+  <td>Lakewood CC</td>
+  <td>Alex Moon</td>
+</tr>
+<tr class='tablerow'>
+  <td>2005</td>
+  <td>Lakewood CC</td>
+  <td>Eric Durbin</td>
+</tr>
+<tr class='tablerow'>
+  <td>2004</td>
+  <td>Lakewood CC</td>
+  <td>Charlie Holland</td>
+</tr>
+<tr class='tablerow'>
+  <td>2003</td>
+  <td>Lakewood CC</td>
+  <td>K.T. Livingston</td>
+</tr>
+<tr class='tablerow'>
+  <td>2002</td>
+  <td>Lakewood CC</td>
+  <td>Justin Fraley</td>
+</tr>
+<tr class='tablerow'>
+  <td>2001</td>
+  <td>Lakewood CC</td>
+  <td>Ryan Baca</td>
+</tr>
+<tr class='tablerow'>
+  <td>2000</td>
+  <td>Lakewood CC</td>
+  <td>Ryan Baca</td>
+</tr>
+</table>
+
+<div class='tablehead'>
+  <h3>Medalist Hill Country #1</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Open Division</th>
+  <th class='fontbold'>Senior Division</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>Frio Valley Ranch
+Final <a href="https://www.golfgenius.com/pages/3904424">Results</a></td>
+  <td>Brandon Rougeau</td>
+  <td>John Donahue</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>The Club at Comanche Trace
+Final <a href="https://tga-medalisthillcountry1-theclubatcomanc.golfgenius.com/pages/3351153">Results</a></td>
+  <td>Paul Bryant</td>
+  <td>James Duttweiler</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>The Club at Comanche Trace
+Final <a href="https://www.golfgenius.com/pages/2801618">Results</a></td>
+  <td>Todd Albert</td>
+  <td>John Long</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>The Bandit GC
+Final <a href="https://www.txga.org/medalist-hill-country-1-2020-leaderboard/?swcfpc=1">Results</a></td>
+  <td>Darren Cook</td>
+  <td>Charles Young</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>The Club at Comanche Trace
+Final <a href="https://www.txga.org/medalist-hill-country-1-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Alan Crosswell-Karam</td>
+  <td>Craig Hurlbert</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>Onion Creek Club</td>
+  <td>Clint White</td>
+  <td>Rob Ormand</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>The Club at Comanche Trace</td>
+  <td>Jay Reynolds</td>
+  <td>Ron Hackelman</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>The Club at Comanche Trace</td>
+  <td>Jordan Cowart</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>The Club at Sonterra</td>
+  <td>Jacob Davis</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>The Club at Sonterra</td>
+  <td>Ross Wilhelm</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>The Club at Sonterra</td>
+  <td>Austin Jordan</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>Scott Schreiner GC</td>
+  <td>Trevor Hyde</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>River Crossing Club</td>
+  <td>Terrence Miskell</td>
+  <td></td>
+</tr>
+</table>
+
+<div class='tablehead'>
+  <h3>Texas Junior Amateur</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Boys 15-18</th>
+  <th class='fontbold'>Boys 14 & Under</th>
+  <th class='fontbold'>Girls 15-18</th>
+  <th class='fontbold'>Girls 14 & Under</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>White Bluff Resort
+Final <a href="https://www.golfgenius.com/pages/9233835460642505452">Results</a></td>
+  <td>Price Hill</td>
+  <td>Henry Jackson</td>
+  <td>Kaylee Yuan</td>
+  <td>Megan Lee</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>Horseshoe Bay Resort
+Final <a href="https://www.txga.org/2022-texasjunioramateur-leaderboard/?swcfpc=1">Results</a></td>
+  <td>Jaivir Pande</td>
+  <td>Jack Clancy</td>
+  <td>Kate Pickrell</td>
+  <td>Yixen (Emily) Zhang</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>The Club of Kingwood
+Final <a href="https://www.txga.org/2021-texasjunioramateur-leaderboard/?swcfpc=1">Results</a></td>
+  <td>Aaron Pounds</td>
+  <td>Austin Hofferkamp</td>
+  <td>Maelynn Kim</td>
+  <td>Adrienne Ahn</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>Horseshoe Bay Resort
+Final <a href="https://www.txga.org/2020-texasjunioramateur-leaderboard/?gn_builder=1&swcfpc=1">Results</a></td>
+  <td>Zach Heffernan</td>
+  <td>Brooks Simmons</td>
+  <td>Lauren Nguyen</td>
+  <td>Sidney Robertson</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>The Clubs of Kingwood
+Final <a href="https://www.txga.org/ljt-texas-junior-amateur-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Zach Heffernan</td>
+  <td>Ben Delarosa</td>
+  <td>Nicole Vivier</td>
+  <td>Syndney Givens</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>Horseshoe Bay Resort</td>
+  <td>Jacob Sosa</td>
+  <td>Jase Summy</td>
+  <td>Macy Fox</td>
+  <td>Symran Shah</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>Horseshoe Bay Resort</td>
+  <td>Jansen Smith</td>
+  <td>Gaven Lane</td>
+  <td>Sadie Englemann</td>
+  <td>Lauren Nguyen</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>The Woodlands CC</td>
+  <td>Logan Pate</td>
+  <td>Evan Vo</td>
+  <td>Hailey Jones</td>
+  <td>Gabriella Tomanka</td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>Horseshoe Bay Resort</td>
+  <td>Mason Greenburg</td>
+  <td>Jenson Rogenes</td>
+  <td>Hailey Jones</td>
+  <td>Valerie Routzong</td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>Horseshoe Bay Resort</td>
+  <td>Zach Tracy</td>
+  <td>Parker Coody</td>
+  <td>Hailee Cooper</td>
+  <td>Jackie Barry</td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>Horseshoe Bay Resort</td>
+  <td>Maxwell Miller</td>
+  <td>Garrett Reband</td>
+  <td>Annika Clark</td>
+  <td>Ariana Saenz</td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>Horseshoe Bay Resort</td>
+  <td>Wes Artac</td>
+  <td>Ashton Radvansky</td>
+  <td>Courtney Dow</td>
+  <td>Marissa Marquez</td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>Horseshoe Bay Resort</td>
+  <td>Stratton Nolan</td>
+  <td>Phillip Delisi</td>
+  <td>Lindsey McCurdy</td>
+  <td>Kaitlynn Papp</td>
+</tr>
+<tr class='tablerow'>
+  <td>2010</td>
+  <td>Horseshoe Bay Resort</td>
+  <td>Curtis Reed</td>
+  <td>William Martinez</td>
+  <td>Jessica LaBarbera</td>
+  <td>Courtney Dow</td>
+</tr>
+<tr class='tablerow'>
+  <td>2009</td>
+  <td>Jimmy Clay & Roy Kizer GC</td>
+  <td>Gabriel Anthony</td>
+  <td>Stratton Nolan</td>
+  <td>Elena Warren</td>
+  <td>Eji Kwon</td>
+</tr>
+<tr class='tablerow'>
+  <td>2008</td>
+  <td>Barton Creek Resort</td>
+  <td>Jade Scott</td>
+  <td>Cole Kennedy</td>
+  <td>Sandra Lee</td>
+  <td>Grace Choi</td>
+</tr>
+<tr class='tablerow'>
+  <td>2007</td>
+  <td>Barton Creek Resort</td>
+  <td>Zach Fischer</td>
+  <td>Jordan Spieth</td>
+  <td>Gabriella Dominguez</td>
+  <td>Christine Lin</td>
+</tr>
+<tr class='tablerow'>
+  <td>2006</td>
+  <td>Barton Creek Resort</td>
+  <td>Alex Moon</td>
+  <td>Brendan Redfern</td>
+  <td>Kelsey Vines</td>
+  <td>Emily Collins</td>
+</tr>
+<tr class='tablerow'>
+  <td>2005</td>
+  <td>Barton Creek Resort</td>
+  <td>Will Griffin</td>
+  <td>Justin Wileman</td>
+  <td>Kelsey Vines</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2004</td>
+  <td></td>
+  <td>Dustin Morris</td>
+  <td></td>
+  <td>Daphne Vines</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2003</td>
+  <td></td>
+  <td>Clay Hodge</td>
+  <td></td>
+  <td>Leisl Hasbrouck</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2002</td>
+  <td></td>
+  <td>Kyle Roberts</td>
+  <td></td>
+  <td>Leisl Hasbrouck</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2001</td>
+  <td></td>
+  <td>Jace Moore</td>
+  <td></td>
+  <td>Christine Kovalcik</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2000</td>
+  <td></td>
+  <td>Justin Fraley</td>
+  <td></td>
+  <td>Afton Messenger</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1999</td>
+  <td></td>
+  <td>Dwayne Morley</td>
+  <td></td>
+  <td>Ashley Rollins</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1998</td>
+  <td></td>
+  <td>Tim Sanchez</td>
+  <td></td>
+  <td>Jacqueline Ey</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1997</td>
+  <td></td>
+  <td>Corbin King</td>
+  <td></td>
+  <td>Christi Cano</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1996</td>
+  <td></td>
+  <td>Charleton Dechert</td>
+  <td></td>
+  <td>Angela Stanford</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1995</td>
+  <td></td>
+  <td>Hunter Haas</td>
+  <td></td>
+  <td>Courtney McGowan</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1994</td>
+  <td></td>
+  <td>Hunter Haas</td>
+  <td></td>
+  <td>Courtney McGowan</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1993</td>
+  <td></td>
+  <td>Andy Addudell</td>
+  <td></td>
+  <td>Sorrel Richmond</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1992</td>
+  <td></td>
+  <td>Greg Harper</td>
+  <td></td>
+  <td>Kelly Kingston</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1991</td>
+  <td></td>
+  <td>Patrick Barley</td>
+  <td></td>
+  <td>Jenny Bartley</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1990</td>
+  <td></td>
+  <td>Jason Bryant</td>
+  <td></td>
+  <td>Heather Haas</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1989</td>
+  <td></td>
+  <td>Jon Bohannon</td>
+  <td></td>
+  <td>Jennifer Turner</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1988</td>
+  <td></td>
+  <td>Cade Stone</td>
+  <td></td>
+  <td>Laura Myers</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1987</td>
+  <td></td>
+  <td>Hans Haas</td>
+  <td></td>
+  <td>Bronwyn Burke</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1986</td>
+  <td></td>
+  <td>Charlie Rudd</td>
+  <td></td>
+  <td>Barbara Blackwell</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1985</td>
+  <td></td>
+  <td>Omar Uresti</td>
+  <td></td>
+  <td>Michelle Hapack</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1984</td>
+  <td></td>
+  <td>Craig Jones</td>
+  <td></td>
+  <td>Kelly Green</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1983</td>
+  <td></td>
+  <td>Clark Dennis</td>
+  <td></td>
+  <td>Buffy Klein</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1982</td>
+  <td></td>
+  <td>Stuart Hendley</td>
+  <td></td>
+  <td>Kimberly Davis</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1981</td>
+  <td></td>
+  <td>Scott Verplank</td>
+  <td></td>
+  <td>Amy Dover</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1980</td>
+  <td></td>
+  <td>Jeff Maggert</td>
+  <td></td>
+  <td>Rita Moore</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1979</td>
+  <td></td>
+  <td>Tommy Hathaway</td>
+  <td></td>
+  <td>Kim Shipman</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1978</td>
+  <td></td>
+  <td>Mike Neece</td>
+  <td></td>
+  <td>Jackie Bertram</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1977</td>
+  <td></td>
+  <td>Andy Dillard</td>
+  <td></td>
+  <td>Kim Bauer</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1976</td>
+  <td></td>
+  <td>Mark Hendrix</td>
+  <td></td>
+  <td>Missie McGeorge</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1975</td>
+  <td></td>
+  <td>Steve Bowman</td>
+  <td></td>
+  <td>Sandra Yount</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1974</td>
+  <td></td>
+  <td>Jeff New</td>
+  <td></td>
+  <td>Lisa Perkinson</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1973</td>
+  <td></td>
+  <td>Lindy Miller</td>
+  <td></td>
+  <td>Linda Hart</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1972</td>
+  <td></td>
+  <td>Dale Blackburn</td>
+  <td></td>
+  <td>Mary Beth Morgan</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1971</td>
+  <td></td>
+  <td>Keith Fergus</td>
+  <td></td>
+  <td>Brenda Goldsmith</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1970</td>
+  <td></td>
+  <td>Wally Payne</td>
+  <td></td>
+  <td>Nancy Hager</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1969</td>
+  <td></td>
+  <td>Ben Crenshaw</td>
+  <td></td>
+  <td>Frances Collins</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1968</td>
+  <td></td>
+  <td>Bruce Leitzke</td>
+  <td></td>
+  <td>Nancy Hager</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1967</td>
+  <td></td>
+  <td>Ben Crenshaw</td>
+  <td></td>
+  <td>Nancy Hager</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1966</td>
+  <td></td>
+  <td>Terry Jastrow</td>
+  <td></td>
+  <td>Lou Dill</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1965</td>
+  <td></td>
+  <td>Sandy Adelman</td>
+  <td></td>
+  <td>Kathy Ahern</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1964</td>
+  <td></td>
+  <td>Lester Lundell</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1963</td>
+  <td></td>
+  <td>Hal Underwood</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1962</td>
+  <td></td>
+  <td>Davis Eichelberger</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1961</td>
+  <td></td>
+  <td>Bill Wade</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1960</td>
+  <td></td>
+  <td>Mark Hopkins</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1959</td>
+  <td></td>
+  <td>Robert Wittig</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1958</td>
+  <td></td>
+  <td>Mike Hornsby</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1957</td>
+  <td></td>
+  <td>Christie Flanagan</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1956</td>
+  <td></td>
+  <td>Billy Martindale</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1955</td>
+  <td></td>
+  <td>Hal Kuntz</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1954</td>
+  <td></td>
+  <td>Billy Green</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1953</td>
+  <td></td>
+  <td>Dick Goerich</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1952</td>
+  <td></td>
+  <td>Stan Mosel</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1951</td>
+  <td></td>
+  <td>Joe Conrad</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1950</td>
+  <td></td>
+  <td>Wesley Ellis, Jr.</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1949</td>
+  <td></td>
+  <td>Morris Williams, Jr.,</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1948</td>
+  <td></td>
+  <td>L.M. Crannell, Jr.</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1947</td>
+  <td></td>
+  <td>Billy Maxwell</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1946</td>
+  <td></td>
+  <td>Gene Towry</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1945</td>
+  <td></td>
+  <td>Herbert Reid, Jr.</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1944</td>
+  <td></td>
+  <td>Joe Ruby</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1943</td>
+  <td></td>
+  <td>L.M. Crannell, Jr.</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1942</td>
+  <td></td>
+  <td>James McNair</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1941</td>
+  <td></td>
+  <td>Stanley Callahan</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1940</td>
+  <td></td>
+  <td>Jimmy Chasey</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1939</td>
+  <td></td>
+  <td>Joe Moore, Jr.</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1938</td>
+  <td></td>
+  <td>Buck Luce</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1937</td>
+  <td></td>
+  <td>Buck Luce</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1936</td>
+  <td></td>
+  <td>Lee Brandt, Jr.</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1935</td>
+  <td></td>
+  <td>Buck Luce</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1934</td>
+  <td></td>
+  <td>Don Schumacher</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1933</td>
+  <td></td>
+  <td>Tom Lawrence</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1932</td>
+  <td></td>
+  <td>Jack Lee</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1931</td>
+  <td></td>
+  <td>Bernard Schriever</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1930</td>
+  <td></td>
+  <td>Jerry Hill</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1929</td>
+  <td></td>
+  <td>Loraine Young</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1928</td>
+  <td></td>
+  <td>Joe Greenwood, Jr.</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1927</td>
+  <td></td>
+  <td>Hugh Carpenter</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+</table>
+
+<div class='tablehead'>
+  <h3>Texas Father-Son</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Winners</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>Tapatio Springs Resort
+Final <a href="https://www.golfgenius.com/pages/4012056">Results</a></td>
+  <td>Brian Comegys
+Wick Comegys</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>Wichita Falls CC
+Final <a href="https://www.golfgenius.com/pages/3577223">Results</a></td>
+  <td>Kyle Kelting
+Derick Kelting</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>Crown Colony CC
+Final <a href="https://www.golfgenius.com/pages/2938405">Results</a></td>
+  <td>Kyle Kelting
+Derick Kelting</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>Omni Barton Creek (Fazio Foothills)
+Final <a href="https://www.txga.org/texas-father-son-leaderboard-2020/?swcfpc=1">Results</a></td>
+  <td>Matt and Will Griffin
+Kyle and Derick Kelting</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>The Club at Comanche Trace (Hills/Valley)
+Final <a href="https://www.txga.org/texas-father-son-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Matt Griffin
+Will Griffin</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>Stonebriar GC (Dye/Blue)
+Final <a href="https://www.txga.org/texas-father-son-2018-leaderboard?swcfpc=1">Results</a></td>
+  <td>Cameron Brown
+Dean Brown</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>Moody Gardens GC</td>
+  <td>Cameron Brown
+Dean Brown</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>Horseshoe Bay Resort (Apple Rock)</td>
+  <td>Mark Lindberg
+Andrew Lindberg</td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>The Woodlands CC</td>
+  <td>Will Doughtie
+Tom Doughtie</td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>Boot Ranch</td>
+  <td>Randy Lee
+Walker Lee</td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>The Clubs of Kingwood</td>
+  <td>Juan Salcedo
+Juan Jose Salcedo</td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>The Club at Comanche Trace</td>
+  <td>Randy Rawls
+Hunter Rawls</td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>Stonebriar CC</td>
+  <td>Matt Griffin
+Will Griffin</td>
+</tr>
+<tr class='tablerow'>
+  <td>2010</td>
+  <td>Miramont CC</td>
+  <td>Craig Rumora
+Jordan Rumora</td>
+</tr>
+<tr class='tablerow'>
+  <td>2009</td>
+  <td>Eagle’s Bluff CC</td>
+  <td>Steve Gill
+Brett Gill</td>
+</tr>
+<tr class='tablerow'>
+  <td>2008</td>
+  <td>Crown Colony CC</td>
+  <td>Juan Salcedo
+Juan Jose Salcedo</td>
+</tr>
+<tr class='tablerow'>
+  <td>2007</td>
+  <td>Horseshoe Bay Resort</td>
+  <td>C. Malcolm Holland
+Charlie Holland</td>
+</tr>
+<tr class='tablerow'>
+  <td>2006</td>
+  <td>Beaumont CC</td>
+  <td>Steve Gill
+Brett Gill</td>
+</tr>
+<tr class='tablerow'>
+  <td>2005</td>
+  <td>Riverhill CC</td>
+  <td>Steve Gill
+Brett Gill</td>
+</tr>
+<tr class='tablerow'>
+  <td>2004</td>
+  <td>Columbia Lakes</td>
+  <td>Tom Doughtie
+Will Doughtie</td>
+</tr>
+<tr class='tablerow'>
+  <td>2003</td>
+  <td>Wichita Falls CC</td>
+  <td>Tom Doughtie
+Will Doughtie</td>
+</tr>
+<tr class='tablerow'>
+  <td>2002</td>
+  <td>Diamondback GC</td>
+  <td>Tom Doughtie
+Will Doughtie</td>
+</tr>
+<tr class='tablerow'>
+  <td>2001</td>
+  <td>Eagle’s Bluff CC</td>
+  <td>Tom Doughtie
+Will Doughtie</td>
+</tr>
+<tr class='tablerow'>
+  <td>2000</td>
+  <td>The Bandit GC</td>
+  <td>David Leestma
+Ben Leestma</td>
+</tr>
+<tr class='tablerow'>
+  <td>1999</td>
+  <td>Crown Colony CC</td>
+  <td>David Bright
+Steven Bright</td>
+</tr>
+<tr class='tablerow'>
+  <td>1998</td>
+  <td>Horseshoe Bay Resort</td>
+  <td>Magnus Liljenberg
+Aaron Saint</td>
+</tr>
+<tr class='tablerow'>
+  <td>1997</td>
+  <td>Crown Colony CC</td>
+  <td>Jon Schultz
+Mark Schultz</td>
+</tr>
+<tr class='tablerow'>
+  <td>1996</td>
+  <td>Circle C GC</td>
+  <td>Ken Mitchell
+Dirk Mitchell</td>
+</tr>
+<tr class='tablerow'>
+  <td>1995</td>
+  <td>Berry Creek CC</td>
+  <td>Ed Brooks
+Jason Brooks</td>
+</tr>
+<tr class='tablerow'>
+  <td>1994</td>
+  <td>Circle C GC</td>
+  <td>Ed Brooks
+Jason Brooks</td>
+</tr>
+<tr class='tablerow'>
+  <td>1993</td>
+  <td>Berry Creek CC</td>
+  <td>Frank Looney
+Matt Looney</td>
+</tr>
+<tr class='tablerow'>
+  <td>1992</td>
+  <td>Bentwater Yacht & CC</td>
+  <td>Dan Nichol
+Jason Nichol</td>
+</tr>
+<tr class='tablerow'>
+  <td>1991</td>
+  <td>Thortree CC</td>
+  <td>Don Addington
+Rob Addington</td>
+</tr>
+<tr class='tablerow'>
+  <td>1990</td>
+  <td>Wildflower CC</td>
+  <td>Jim La Rose
+Mike La Rose</td>
+</tr>
+<tr class='tablerow'>
+  <td>1989</td>
+  <td>Horseshoe Bay Resort</td>
+  <td>Houston Goodspeed
+Chris Goodspeed</td>
+</tr>
+<tr class='tablerow'>
+  <td>1988</td>
+  <td>Horseshoe Bay Resort</td>
+  <td>Don Riddle
+Todd Riddle</td>
+</tr>
+<tr class='tablerow'>
+  <td>1987</td>
+  <td>Horseshoe Bay Resort</td>
+  <td>George McCall
+Shawn McCall</td>
+</tr>
+<tr class='tablerow'>
+  <td>1986</td>
+  <td>Del Lago CC</td>
+  <td>Sid Seligmann
+Larry Seligmann</td>
+</tr>
+<tr class='tablerow'>
+  <td>1985</td>
+  <td>Tapatio Springs CC</td>
+  <td>Sid Seligmann
+Larry Seligmann</td>
+</tr>
+<tr class='tablerow'>
+  <td>1984</td>
+  <td>Tapatio Springs CC</td>
+  <td>Floyd Addington
+Don Addington</td>
+</tr>
+<tr class='tablerow'>
+  <td>1983</td>
+  <td>Mill Creek CC</td>
+  <td>George McCall
+Shawn McCall</td>
+</tr>
+<tr class='tablerow'>
+  <td>1982</td>
+  <td>Austin CC</td>
+  <td>Gene Aune
+Greg Aune</td>
+</tr>
+<tr class='tablerow'>
+  <td>1981</td>
+  <td>Austin CC</td>
+  <td>J.R. Ferguson
+Don Ferguson</td>
+</tr>
+</table>
+
+<div class='tablehead'>
+  <h3>Texas Four-Ball</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Champions</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>Pinecrest CC
+Final <a href="https://www.golfgenius.com/pages/4267122">Results</a></td>
+  <td>Rory Smith
+Aaron Hickman</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>The Club at Comanche Trace
+Final <a href="https://www.golfgenius.com/pages/3753813">Results</a></td>
+  <td>Chase Clayton
+Josh Logan</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>Horseshoe Bay Resort (Apple Rock)
+Final <a href="https://www.golfgenius.com/pages/2863285">Results</a></td>
+  <td>Colby Amparan
+Gary Ezmerlian</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>Bentwater Yacht & CC (Weiskopf)
+Final <a href="https://www.golfgenius.com/pages/2531966">Results</a></td>
+  <td>Russell Williams
+Jason Schultz</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>Wichita Falls CC
+Final <a href="https://www.txga.org/texas-four-ball-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Joshua Irving
+Will Osborne</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>Maridoe GC
+Final <a href="https://www.txga.org/texas-four-ball-2018-leaderboard?swcfpc=1">Results</a></td>
+  <td>Jace Moore
+Jordan Woolf</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>Crown Colony CC</td>
+  <td>Will Osborne
+Joshua Irving</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>The Clubs of Cordillera Ranch</td>
+  <td>Trey Hallmark
+Terrence Miskell</td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>Traditions Club</td>
+  <td>John Bearrie
+Aaron Hickman</td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>The Clubs of Kingwood
+(Deerwood Club)</td>
+  <td>Brian Madison
+Casey Holloman</td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>Horseshoe Bay Resort (Summit)</td>
+  <td>Josh Swanson
+Joe Bendetti</td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>Crown Colony CC</td>
+  <td>John Bearrie
+Aaron Hickman</td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>The Club at Comanche Trace</td>
+  <td>John Bearrie
+Aaron Hickman</td>
+</tr>
+<tr class='tablerow'>
+  <td>2010</td>
+  <td>Stonebriar CC</td>
+  <td>Rob Couture
+Dru Fenimore</td>
+</tr>
+<tr class='tablerow'>
+  <td>2009</td>
+  <td>The Woodlands CC</td>
+  <td>Seth Thornton
+Nick Kondra</td>
+</tr>
+<tr class='tablerow'>
+  <td>2008</td>
+  <td>The Club at Sonterra</td>
+  <td>Rob Couture
+Blanton Hansen</td>
+</tr>
+<tr class='tablerow'>
+  <td>2007</td>
+  <td>Horseshoe Bay Resort</td>
+  <td>Terrence Miskell
+Trip Kuehne</td>
+</tr>
+<tr class='tablerow'>
+  <td>2006</td>
+  <td>Gleneagles CC</td>
+  <td>Artie Starrs
+David Leachman</td>
+</tr>
+<tr class='tablerow'>
+  <td>2005</td>
+  <td>The Club at Comanche Trace</td>
+  <td>Kent Weise
+Chris James</td>
+</tr>
+<tr class='tablerow'>
+  <td>2004</td>
+  <td>The Club at Comanche Trace</td>
+  <td>Titus Harris, III
+Terrence Miskell</td>
+</tr>
+<tr class='tablerow'>
+  <td>2003</td>
+  <td>The Club at Comanche Trace</td>
+  <td>Terrence Miskell
+Titus Harris, III</td>
+</tr>
+<tr class='tablerow'>
+  <td>2002</td>
+  <td>Riverhill CC</td>
+  <td>Chris Goodspeed
+Bill Steen</td>
+</tr>
+<tr class='tablerow'>
+  <td>2001</td>
+  <td>Riverhill CC</td>
+  <td>Alan Hill
+Jeff Harvey</td>
+</tr>
+<tr class='tablerow'>
+  <td>2000</td>
+  <td>Riverhill CC</td>
+  <td>Rick Gorbell
+Chuck Gardner</td>
+</tr>
+<tr class='tablerow'>
+  <td>1999</td>
+  <td>Riverhill CC</td>
+  <td>Magnus Liljenberg
+Jeff Hiemenz</td>
+</tr>
+<tr class='tablerow'>
+  <td>1998</td>
+  <td>Riverhill CC</td>
+  <td>Mike Allen
+Billy Clagett</td>
+</tr>
+<tr class='tablerow'>
+  <td>1997</td>
+  <td>Riverhill CC</td>
+  <td>Chris Goodspeed
+Bill Steen</td>
+</tr>
+<tr class='tablerow'>
+  <td>1996</td>
+  <td>Riverhill CC</td>
+  <td>Chris Goodspeed
+Bill Steen</td>
+</tr>
+<tr class='tablerow'>
+  <td>1995</td>
+  <td>Riverhill CC</td>
+  <td>Reggie Howell
+Eric Joseph</td>
+</tr>
+<tr class='tablerow'>
+  <td>1994</td>
+  <td>Riverhill CC</td>
+  <td>Gary Hardin
+Mark Walton</td>
+</tr>
+<tr class='tablerow'>
+  <td>1993</td>
+  <td>Riverhill CC</td>
+  <td>Wade Smith
+Greg Cole</td>
+</tr>
+<tr class='tablerow'>
+  <td>1992</td>
+  <td>Riverhill CC</td>
+  <td>Sam Susser
+Lane Fowler</td>
+</tr>
+<tr class='tablerow'>
+  <td>1991</td>
+  <td>Riverhill CC</td>
+  <td>Steve Thompson
+Ron Folk</td>
+</tr>
+<tr class='tablerow'>
+  <td>1990</td>
+  <td>Riverhill CC</td>
+  <td>Fred Kyselka
+Bill Dodd</td>
+</tr>
+<tr class='tablerow'>
+  <td>1989</td>
+  <td>Riverhill CC</td>
+  <td>Bill Holstead
+John Pigg</td>
+</tr>
+<tr class='tablerow'>
+  <td>1988</td>
+  <td>Riverhill CC</td>
+  <td>David Ojala
+Robert McKinney</td>
+</tr>
+<tr class='tablerow'>
+  <td>1987</td>
+  <td>Riverhill CC</td>
+  <td>Randy Sonnier
+David Ojala</td>
+</tr>
+<tr class='tablerow'>
+  <td>1986</td>
+  <td>Riverhill CC</td>
+  <td>Jimmy Chapman
+Scott Fitzgerald</td>
+</tr>
+<tr class='tablerow'>
+  <td>1985</td>
+  <td>Riverhill CC</td>
+  <td>Jim Mundell
+John Shepperson</td>
+</tr>
+<tr class='tablerow'>
+  <td>1984</td>
+  <td>Riverhill CC</td>
+  <td>Randy Sonnier
+Woody Thames</td>
+</tr>
+<tr class='tablerow'>
+  <td>1983</td>
+  <td>Riverhill CC</td>
+  <td>Jim Mundell
+John Shepperson</td>
+</tr>
+<tr class='tablerow'>
+  <td>1982</td>
+  <td>Riverhill CC</td>
+  <td>Jim Savage
+Jim Mundell</td>
+</tr>
+<tr class='tablerow'>
+  <td>1981</td>
+  <td>Riverhill CC</td>
+  <td>Jess Claiborne
+Bill Holstead</td>
+</tr>
+<tr class='tablerow'>
+  <td>1980</td>
+  <td>Riverhill CC</td>
+  <td>Jess Claiborne
+Bill Holstead</td>
+</tr>
+<tr class='tablerow'>
+  <td>1979</td>
+  <td>Riverhill CC</td>
+  <td>Jess Claiborne
+Bill Holstead</td>
+</tr>
+<tr class='tablerow'>
+  <td>1978</td>
+  <td>Riverhill CC</td>
+  <td>Bill Penn
+Roane Puett</td>
+</tr>
+<tr class='tablerow'>
+  <td>1977</td>
+  <td>Dallas Athletic Club</td>
+  <td>Jimmy Wheeler
+Mike DeLarios</td>
+</tr>
+<tr class='tablerow'>
+  <td>1976</td>
+  <td>Dallas Athletic Club</td>
+  <td>Jimmy Wheeler
+Wade Adams</td>
+</tr>
+</table>
+
+<div class='tablehead'>
+  <h3>Texas Mid-Amateur</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Champion</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>Midland CC
+Final <a href="https://www.golfgenius.com/pages/4181904">Results</a></td>
+  <td>Josh Pasco
+Midland</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>Abilene CC
+Final <a href="https://www.golfgenius.com/pages/3814453">Results</a></td>
+  <td>Ryan O’Rear
+Georgetown</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>The Club at Houston Oaks
+Final <a href="https://www.golfgenius.com/pages/3196531">Results</a></td>
+  <td>Frederick Janneck
+Fort Worth</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>Oak Hills CC
+Final <a href="https://www.txga.org/texas-mid-amateur-leaderboard-2020/?swcfpc=1">Results</a></td>
+  <td>Ryan O’Rear
+Leander</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>Maridoe GC
+Final <a href="https://www.txga.org/texas-mid-amateur-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Christopher Wheeler
+Addison</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>River Oaks CC
+Final <a href="https://www.txga.org/texas-mid-amateur-2018-leaderboard?swcfpc=1">Results</a></td>
+  <td>Colby Harwell
+San Antonio</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>The Club at Comanche Trace</td>
+  <td>Colby Harwell
+San Antonio</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>Spanish Oaks GC</td>
+  <td>Joshua Irving
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>Royal Oaks CC</td>
+  <td>Scott Abbott
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>Escondido GC</td>
+  <td>Terence Begnel
+Midland</td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>The Clubs of Cordillera Ranch</td>
+  <td>Clay Hodge
+Bryan</td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>Dallas Athletic Club</td>
+  <td>John Bearrie
+Arlington</td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>The Club at Carlton Woods</td>
+  <td>Beau Davis
+Abilene</td>
+</tr>
+<tr class='tablerow'>
+  <td>2010</td>
+  <td>Boot Ranch</td>
+  <td>Mike Minicucci
+Austin</td>
+</tr>
+<tr class='tablerow'>
+  <td>2009</td>
+  <td>Austin CC</td>
+  <td>Cameron Osler
+Austin</td>
+</tr>
+<tr class='tablerow'>
+  <td>2008</td>
+  <td>Lakewood CC</td>
+  <td>Rob Couture
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2007</td>
+  <td>Miramont CC</td>
+  <td>Terrence Miskell
+New Braunfels</td>
+</tr>
+<tr class='tablerow'>
+  <td>2006</td>
+  <td>Champions GC</td>
+  <td>Jonathan Mathias
+San Antonio</td>
+</tr>
+<tr class='tablerow'>
+  <td>2005</td>
+  <td>Brook Hollow GC</td>
+  <td>Dan Dunkelberg
+Fort Worth</td>
+</tr>
+<tr class='tablerow'>
+  <td>2004</td>
+  <td>Cimarron Hills CC</td>
+  <td>Alan Hill
+Spring Branch</td>
+</tr>
+<tr class='tablerow'>
+  <td>2003</td>
+  <td>Hollytree CC</td>
+  <td>Mike Booker
+The Woodlands</td>
+</tr>
+<tr class='tablerow'>
+  <td>2002</td>
+  <td>Pine Forest CC</td>
+  <td>Chip Carter
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2001</td>
+  <td>Las Colinas CC</td>
+  <td>Kyle Coody
+Plano</td>
+</tr>
+<tr class='tablerow'>
+  <td>2000</td>
+  <td>Mira Vista CC</td>
+  <td>Dan Dunkelberg
+Fort Worth</td>
+</tr>
+<tr class='tablerow'>
+  <td>1999</td>
+  <td>The Quarry GC</td>
+  <td>Alan Hill
+San Antonio</td>
+</tr>
+<tr class='tablerow'>
+  <td>1998</td>
+  <td>Wichita Falls CC</td>
+  <td>Bob Kearney
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>1997</td>
+  <td>Lakewood CC</td>
+  <td>Jim Mundell
+San Angelo</td>
+</tr>
+<tr class='tablerow'>
+  <td>1996</td>
+  <td>Bentwater Yacht & CC</td>
+  <td>Robert McKinney
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>1995</td>
+  <td>Midland CC</td>
+  <td>Dean Overturf
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1994</td>
+  <td>Crown Colony CC</td>
+  <td>John Grace
+Fort Worth</td>
+</tr>
+<tr class='tablerow'>
+  <td>1993</td>
+  <td>Gleneagles CC</td>
+  <td>John Grace
+Fort Worth</td>
+</tr>
+<tr class='tablerow'>
+  <td>1992</td>
+  <td>Fairway Oaks CC</td>
+  <td>John Grace
+Fort Worth</td>
+</tr>
+<tr class='tablerow'>
+  <td>1991</td>
+  <td>Bent Tree CC</td>
+  <td>John Grace
+Fort Worth</td>
+</tr>
+<tr class='tablerow'>
+  <td>1990</td>
+  <td>Hollytree CC</td>
+  <td>Bill Holstead
+Wichita Falls</td>
+</tr>
+<tr class='tablerow'>
+  <td>1989</td>
+  <td>Deerwood GC</td>
+  <td>David Ojala
+Kingwood</td>
+</tr>
+<tr class='tablerow'>
+  <td>1988</td>
+  <td>Hackberry Creek CC</td>
+  <td>Butch Links
+Gainesville</td>
+</tr>
+<tr class='tablerow'>
+  <td>1987</td>
+  <td>Hollytree CC</td>
+  <td>Mike McClung
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1986</td>
+  <td>Horseshoe Bay Resort</td>
+  <td>Mike Hoyle
+Arlington</td>
+</tr>
+<tr class='tablerow'>
+  <td>1985</td>
+  <td>Kingwood CC</td>
+  <td>Randy Sonnier
+The Woodlands</td>
+</tr>
+<tr class='tablerow'>
+  <td>1984</td>
+  <td>Del Lago CC</td>
+  <td>Butch Links
+Gainesville</td>
+</tr>
+</table>
+
+<div class='tablehead'>
+  <h3>Texas Mid-Amateur Match Play</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Champion</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>Cross Timbers GC
+Final <a href="https://www.golfgenius.com/pages/4219908">Results</a></td>
+  <td>Aaron Hickman
+Tyler</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>Denton CC
+Final <a href="https://www.golfgenius.com/pages/3583865">Results</a></td>
+  <td>Jason Schultz
+Allen</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>Trinity Forest GC
+Final <a href="https://www.txga.org/2021-texas-mid-amateur-match-play-leaderboard/?swcfpc=1">Results</a></td>
+  <td>Christopher Wheeler
+Addison</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>Willow Brook CC
+Final <a href="https://www.txga.org/texas-mid-amateur-match-play-leaderboard-2020?swcfpc=1">Results</a></td>
+  <td>Aaron Hickman
+Tyler</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>Shadow Hawk CC
+Final <a href="https://www.txga.org/texas-mid-amateur-match-play-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Colby Harwell
+San Antonio</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>Vaquero Club
+Final <a href="https://www.txga.org/texas-mid-amateur-match-play-2018-leaderboard?swcfpc=1">Results</a></td>
+  <td>Anthony Estorga
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>San Antonio CC</td>
+  <td>Colby Harwell
+San Antonio</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>Northwood Club</td>
+  <td>Zach Atkinson
+Colleyville</td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>Lakeside CC</td>
+  <td>Justin Kaplan
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>Traditions Club</td>
+  <td>Mike Peck
+Irving</td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>Oak Hills CC</td>
+  <td>Mike Booker
+The Woodlands</td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>Gleneagles CC (Queens)</td>
+  <td>Lucas Boyd
+Plano</td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>Escondido</td>
+  <td>Jess Bonneau
+Cypress</td>
+</tr>
+<tr class='tablerow'>
+  <td>2010</td>
+  <td>Dallas Athletic Club</td>
+  <td>John Bearrie
+Arlington</td>
+</tr>
+<tr class='tablerow'>
+  <td>2009</td>
+  <td>Walden on Lake Conroe GC</td>
+  <td>Steve Galko
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2008</td>
+  <td>UT Golf Club</td>
+  <td>Terrence Miskell
+New Braunfels</td>
+</tr>
+<tr class='tablerow'>
+  <td>2007</td>
+  <td>Redstone GC</td>
+  <td>Jon Mathias
+San Antonio</td>
+</tr>
+<tr class='tablerow'>
+  <td>2006</td>
+  <td>Bent Tree CC</td>
+  <td>Alan Clark
+Ennis</td>
+</tr>
+<tr class='tablerow'>
+  <td>2005</td>
+  <td>BraeBurn CC</td>
+  <td>Steve Gill
+Sugar Land</td>
+</tr>
+<tr class='tablerow'>
+  <td>2004</td>
+  <td>Spanish Oaks GC</td>
+  <td>Greg Martin
+Austin</td>
+</tr>
+<tr class='tablerow'>
+  <td>2003</td>
+  <td>Great Hills GC</td>
+  <td>Bob Kearney
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>2002</td>
+  <td>Stonebriar CC</td>
+  <td>Chuck Garner
+Austin</td>
+</tr>
+<tr class='tablerow'>
+  <td>2001</td>
+  <td>Whitestone GC</td>
+  <td>Chip Stewart
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2000</td>
+  <td>Meadowbrook Farms GC</td>
+  <td>Pat Youngs
+League City</td>
+</tr>
+<tr class='tablerow'>
+  <td>1999</td>
+  <td>Hollytree CC</td>
+  <td>Bob Kearney
+Houston</td>
+</tr>
+</table>
+
+<div class='tablehead'>
+  <h3>Texas Senior Amateur</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Champion</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>Amarillo CC
+Final <a href="https://www.golfgenius.com/pages/4363746">Results</a></td>
+  <td>Gary Durbin
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>Champions GC (Jackrabbit)
+Final <a href="https://tga-85thtexassenioramateur.golfgenius.com/pages/3583207">Results</a></td>
+  <td>Sandy Pierce
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>Westwood GC
+Final <a href="https://www.golfgenius.com/pages/2938560">Results</a></td>
+  <td>Gary Durbin
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>Ridgewood CC
+Final <a href="https://www.txga.org/texas-senior-amateur-leaderboard-2020?swcfpc=1">Results</a></td>
+  <td>John Derrick
+Waco</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>Deerwood Club
+Final <a href="https://www.golfgenius.com/v2tournaments/1343802?player_stats_for_portal=true&round_index=3">Results</a></td>
+  <td>Gary Durbin
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>The Hills CC (Signature)
+Final <a href="http://chrome-extension//efaidnbmnnnibpcajpcglclefindmkaj/https://www.amateurgolf.com/images/uploads/00047657.pdf">Results</a></td>
+  <td>Lewis Stephenson
+Mansfield</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>Royal Oaks CC</td>
+  <td>Ed Brooks
+Fort Worth</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>Escondido G&LC</td>
+  <td>Lewis Stephenson
+Mansfield</td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>Oak Hills CC</td>
+  <td>Mike Booker
+The Woodlands</td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>Shady Oaks CC</td>
+  <td>Senior – Ron Kilby
+Super Senior – Jody Vasquez</td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>Willow Brook CC</td>
+  <td>Senior – Mike Peck
+Super Senior – Mike Arnold</td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>Miramont CC</td>
+  <td>Senior – Chuck Palmer
+Super Senior – Michael Hopson</td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>Bent Tree CC</td>
+  <td>Senior – Ron Kilby
+Super Senior – Michael Hastings</td>
+</tr>
+<tr class='tablerow'>
+  <td>2010</td>
+  <td>Odessa CC</td>
+  <td>Senior – John Grace
+Super Senior – Donny Anderson</td>
+</tr>
+<tr class='tablerow'>
+  <td>2009</td>
+  <td>The Club at Comanche Trace</td>
+  <td>Senior – David Pocknall
+Super Senior – Andy Wall</td>
+</tr>
+<tr class='tablerow'>
+  <td>2008</td>
+  <td>Royal Oaks CC (Houston)</td>
+  <td>Senior – Tom Doughtie
+Super Senior – Joe Cadle</td>
+</tr>
+<tr class='tablerow'>
+  <td>2007</td>
+  <td>Dallas Athletic Club</td>
+  <td>Senior – Mike Arnold
+Super Senior – Andy Wall</td>
+</tr>
+<tr class='tablerow'>
+  <td>2006</td>
+  <td>San Antonio CC</td>
+  <td>Senior – Chris Larsen
+Super Senior – Mike Rice</td>
+</tr>
+<tr class='tablerow'>
+  <td>2005</td>
+  <td>Bentwater Yacht & CC</td>
+  <td>Senior – Mike Rice
+Super Senior – Mike Rice</td>
+</tr>
+<tr class='tablerow'>
+  <td>2004</td>
+  <td>Tapatio Springs Resort</td>
+  <td>Senior – Andy Wall
+Super Senior – Tom Miller</td>
+</tr>
+<tr class='tablerow'>
+  <td>2003</td>
+  <td>Willow Brook CC</td>
+  <td>Senior – Mike Hopson
+Super Senior – Chuck Ribelin</td>
+</tr>
+<tr class='tablerow'>
+  <td>2002</td>
+  <td>Ridglea CC</td>
+  <td>Senior – Billy Clagett
+Super Senior – Thomas Mattox</td>
+</tr>
+<tr class='tablerow'>
+  <td>2001</td>
+  <td>Brook Hollow CC</td>
+  <td>Senior – Joe Cadle
+Super Senior – Don Addington</td>
+</tr>
+<tr class='tablerow'>
+  <td>2000</td>
+  <td>Horseshoe Bay Resort</td>
+  <td>Senior – Bob Hullender
+Super Senior – Carey Schulten</td>
+</tr>
+<tr class='tablerow'>
+  <td>1999</td>
+  <td>Las Colinas CC</td>
+  <td>Senior – Mike Rice
+Super Senior – Meil Laminack</td>
+</tr>
+<tr class='tablerow'>
+  <td>1998</td>
+  <td>Oak Hills CC</td>
+  <td>Senior – Don Addington
+Super Senior – Don Addington</td>
+</tr>
+<tr class='tablerow'>
+  <td>1997</td>
+  <td>Corpus Christi CC</td>
+  <td>Don Addington
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1996</td>
+  <td>Abilene CC</td>
+  <td>Joe Cadle
+Wichita Falls</td>
+</tr>
+<tr class='tablerow'>
+  <td>1995</td>
+  <td>Wichita Falls CC</td>
+  <td>Mike Rice
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>1994</td>
+  <td>Brookhaven CC</td>
+  <td>Bob Hullender
+San Antonio</td>
+</tr>
+<tr class='tablerow'>
+  <td>1993</td>
+  <td>Willow Brook CC</td>
+  <td>Bink Michella
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1992</td>
+  <td>Corpus Christi CC</td>
+  <td>Bob Hullender
+San Antonio</td>
+</tr>
+<tr class='tablerow'>
+  <td>1991</td>
+  <td>Abiline CC</td>
+  <td>Don Webster
+Austin</td>
+</tr>
+<tr class='tablerow'>
+  <td>1990</td>
+  <td>Wichita Falls CC</td>
+  <td>Don Addington
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1989</td>
+  <td>Beaumont CC</td>
+  <td>Bill Pen
+Austin</td>
+</tr>
+<tr class='tablerow'>
+  <td>1988</td>
+  <td>The Club at Sonterra</td>
+  <td>Don Addington
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1987</td>
+  <td>Lubbock CC</td>
+  <td>Don Addington
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1986</td>
+  <td>Hollytree CC</td>
+  <td>Don Addington
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1985</td>
+  <td>Harlingen CC</td>
+  <td>Lee Fischer
+Harlingen</td>
+</tr>
+<tr class='tablerow'>
+  <td>1984</td>
+  <td>Wichita Falls CC</td>
+  <td>Bill Trombley
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1983</td>
+  <td>Crown Colony CC</td>
+  <td>Bill Trombley
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1982</td>
+  <td>Abilene CC</td>
+  <td>Ed Hopkins
+Whitney</td>
+</tr>
+<tr class='tablerow'>
+  <td>1981</td>
+  <td>Brookhaven CC</td>
+  <td>Tee Avarello
+Fort Worth</td>
+</tr>
+<tr class='tablerow'>
+  <td>1980</td>
+  <td>Corpus Christi CC</td>
+  <td>Tee Avarello
+Fort Worth</td>
+</tr>
+<tr class='tablerow'>
+  <td>1979</td>
+  <td>Midland CC</td>
+  <td>Bill Trombley
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1978</td>
+  <td>Dallas Athletic Club</td>
+  <td>Bill Trombley
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1977</td>
+  <td>Harlingen CC</td>
+  <td>Bill Trombley
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1976</td>
+  <td>Wichita Falls CC</td>
+  <td>Joe Clayton
+Baytown</td>
+</tr>
+<tr class='tablerow'>
+  <td>1975</td>
+  <td>Lakewood CC</td>
+  <td>Frank Guernsey
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>1974</td>
+  <td>Galveston CC</td>
+  <td>Frank Guernsey
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>1973</td>
+  <td>Beaumont CC</td>
+  <td>Joe Clayton
+Baytown</td>
+</tr>
+<tr class='tablerow'>
+  <td>1972</td>
+  <td>Ridgewood CC</td>
+  <td>Aubrey L. Wolf
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>1971</td>
+  <td>Dallas Athletic Club</td>
+  <td>Bud McKinney
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1970</td>
+  <td>Midland CC</td>
+  <td>Col. D.W. Eisenhart
+San Antonio</td>
+</tr>
+<tr class='tablerow'>
+  <td>1969</td>
+  <td>Corpus Christi CC</td>
+  <td>Raleigh Selby
+Overton</td>
+</tr>
+<tr class='tablerow'>
+  <td>1968</td>
+  <td>Glen Lakes CC (Dallas)</td>
+  <td>Web Wilder
+San Antonio</td>
+</tr>
+<tr class='tablerow'>
+  <td>1967</td>
+  <td>Corpus Christi CC</td>
+  <td>Web Wilder
+San Antonio</td>
+</tr>
+<tr class='tablerow'>
+  <td>1966</td>
+  <td>Beaumont CC</td>
+  <td>Bud McKinney
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1965</td>
+  <td>San Antonio CC</td>
+  <td>Frank Sparks
+Pasadena</td>
+</tr>
+<tr class='tablerow'>
+  <td>1964</td>
+  <td>River Oaks CC</td>
+  <td>Bud McKinney
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1963</td>
+  <td>San Antonio CC</td>
+  <td>Maj.Gen. John F. Bohlender
+San Antonio</td>
+</tr>
+<tr class='tablerow'>
+  <td>1962</td>
+  <td>San Antonio CC</td>
+  <td>Raymond Marshall
+Lubbock</td>
+</tr>
+<tr class='tablerow'>
+  <td>1961</td>
+  <td>Dallas Athletic Club</td>
+  <td>Pete Edwards
+Lubbock</td>
+</tr>
+<tr class='tablerow'>
+  <td>1960</td>
+  <td>Corpus Christi CC</td>
+  <td>Hezzie Carson
+San Angelo</td>
+</tr>
+<tr class='tablerow'>
+  <td>1959</td>
+  <td>San Antonio CC</td>
+  <td>Raymond Marschall
+Lubbock</td>
+</tr>
+<tr class='tablerow'>
+  <td>1958</td>
+  <td>San Antonio CC</td>
+  <td>M.C. Kelley
+Baytown</td>
+</tr>
+<tr class='tablerow'>
+  <td>1957</td>
+  <td>San Antonio CC</td>
+  <td>E.E. Tyler
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>1956</td>
+  <td>San Antonio CC</td>
+  <td>J.L. Stark
+San Antonio</td>
+</tr>
+<tr class='tablerow'>
+  <td>1955</td>
+  <td>San Antonio CC</td>
+  <td>Bartlett Cocke
+San Antonio</td>
+</tr>
+<tr class='tablerow'>
+  <td>1954</td>
+  <td>San Antonio CC</td>
+  <td>John Marston
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1953</td>
+  <td>San Antonio CC</td>
+  <td>Col. W.R. Stickman
+San Antonio</td>
+</tr>
+<tr class='tablerow'>
+  <td>1952</td>
+  <td>San Antonio CC</td>
+  <td>H.L. Scallorn
+Abilene</td>
+</tr>
+<tr class='tablerow'>
+  <td>1951</td>
+  <td>San Antonio CC</td>
+  <td>John Marston
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1950</td>
+  <td>San Antonio CC</td>
+  <td>C.M. Trout
+Lubbock</td>
+</tr>
+<tr class='tablerow'>
+  <td>1949</td>
+  <td>San Antonio CC</td>
+  <td>Ed Anderson
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>1948</td>
+  <td>San Antonio CC</td>
+  <td>Ike Handy
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>1947</td>
+  <td>San Antonio CC</td>
+  <td>W.C. Hunt
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>1946</td>
+  <td>San Antonio CC</td>
+  <td>H.L. Scallorn
+Abilene</td>
+</tr>
+<tr class='tablerow'>
+  <td>1945</td>
+  <td>San Antonio CC</td>
+  <td>K.D. Harrison
+San Antonio</td>
+</tr>
+<tr class='tablerow'>
+  <td>1944</td>
+  <td>San Antonio CC</td>
+  <td>R.H. Nix
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1943</td>
+  <td>San Antonio CC</td>
+  <td>W.C. Hunt
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>1942</td>
+  <td>San Antonio CC</td>
+  <td>R.H. Nix
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1941</td>
+  <td>San Antonio CC</td>
+  <td>R.H. Nix
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1940</td>
+  <td>San Antonio CC</td>
+  <td>George Rotan
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>1939</td>
+  <td>San Antonio CC</td>
+  <td>George Rotan
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>1938</td>
+  <td>San Antonio CC</td>
+  <td>Ernest L. Brown
+San Antonio</td>
+</tr>
+<tr class='tablerow'>
+  <td>1937</td>
+  <td>San Antonio CC</td>
+  <td>Capt. B.R. Luscomb
+San Antonio</td>
+</tr>
+</table>
+
+<div class='tablehead'>
+  <h3>Texas Shootout</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>North Team</th>
+  <th class='fontbold'>South Team</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>Galveston Country Club
+
+North Wins 42.50-29.50
+Final <a href="https://www.golfgenius.com/pages/4353533">Results</a></td>
+  <td>Captain: Mike Peck
+Anthony Estorga, Bart Goodwin, Chuck Gardner, CJ Brock, Gant Bills, Kyle Kelting, Marcus Jones, Matthew Sullivan, Rory Smith, Ryan Zamorano, Scott Maurer</td>
+  <td>Captain: Gary Durbin
+Andrew Grice, Austen Fulmer, Bobby Baugh, Brent Barclay, Broc Haymon, Logan Thomason, Michael Milstead, Randy Lance, Tray Tyner, Trey Cassity, Jonathan Alden</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>Grand Pines GC
+
+South Wins 36.50-35.50
+Final <a href="https://www.golfgenius.com/pages/3748266">Results</a></td>
+  <td>Captain: Lewis Stephenson
+Scott Mauer, Trey Todd, Josh Pasco, Colby Amparan, Chuck Gardner, Neal Barfield, John Derrick, Jason Schultz, Rob Couture, Joe Seth Murphy, Kevin Doskocil</td>
+  <td>Captain: Pat Youngs
+Randy Lance, Padden Nelson, Austen Fulmer, Joey Guillon, Andrew Hydorn, Jed Shreve, Sandy Pierce, Dan Depasquale, Casey Carnes, Andrew Grice, Clay Fullick</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>Royal Oaks CC
+
+North Wins 38.5-33.5
+Final <a href="https://www.golfgenius.com/pages/3240453">Results</a></td>
+  <td>Gant Bills, Rob Couture, Gary Ezmerlian, Chuck Gardener, Sean Heidrick, Aaron Hickman, Freddie Janneck, Robert Johnson, Kyle Kelting, Lee Sandlin, Lewis Stephenson, Chris Wheeler</td>
+  <td>Todd Albert, Brent Batson, Coy Breen, Casey Carnes, Gary Durbin, Clay Fullick, John Hunter, Kevin Liberto, Paul McNamara, David Ortego, John Pierce, Jed Shreve</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>Traditions Club
+
+North Wins 43-29
+Final <a href="https://www.golfgenius.com/pages/2695969">Results</a></td>
+  <td>Anthony Estorga, John Derrick, Sean Heidrick, Bill Jackson, Robert Johnson, Marcus Jones, Mike Lohner, Scott Maurer, Paul McNamara, Blake Parks, Mike Peck, Chris Wheeler</td>
+  <td>Buzz Baker, Donald Dean, Craig Hurlbert, Andy Hydorn, Justin Kaplan, Kevin Liberto, Bryan Mitchell, Padden Nelson, Ryan O’Rear, Jason Schnitzer, Shawn Stoute, Toby Zeringue</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>Willow Brook CC
+
+South Wins 37-35
+Final <a href="https://www.txga.org/texas-shootout-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Scott Abott, Gant Bills, Ken Coutant, Dave Davis, Kip Estep, Anthony Estorga, Jeff Howards, Brandon Immel, Marcus Jones, Mike Lohner, Scott Maurer, Chris Wheeler</td>
+  <td>John Dowdall, Gary Durbin, Braden Graham, Will Griffin, Kurt Lilly, Scott Loving, Ross Mackay, Bryan Mitchell, John Pierce, Alex Woodward, Devin Young, Pay Youngs</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>The Club at Houston Oaks
+Hockley
+
+North Wins 38-34</td>
+  <td>Captain: Lewis Stephenson
+Scott Abbott, Tate Allred, Jay Csipkes, Anthony Estorga, Jake Istnick, Mike Lohner, Chuck Palmer, Micah Rodgers, John Stollenwerck, Chris Wheeler, Wayne Wiright</td>
+  <td>Captain: John Pierce
+Bobby Baugh, Jess Bonneau, Ryan Clarke, Jacob Davis, Chris Hartentstein, Broc Hayman, John Hunter, Davis Leiss, Josh Luong, Devaughn Robinson, Grant Schroeder</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>Maridoe GC
+Carrollton
+
+North Wins 43.5-28.5</td>
+  <td>Captain: Lewis Stephenson
+Scott Abbott, Gant Bills, Rob Couture, Dave Davis, Kevin Doskocil, Brad Gibson, Jerry Hudgins, Josh Irving, Will Osborne, Chuck Palmer, Scott Volpitto</td>
+  <td>Captain: John Pierce
+Jon Alden, Timm Hamm, Chris Hartenstein, Alan Hill, Bryant Lach, Randy Lance, John McClure, Steve Paterson, Ed Sanchez, Trevor Sauntry, Tony Soerries</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>Champions Golf Club
+Houston
+
+South Wins 38-33</td>
+  <td>Captain: Mike Peck
+Zach Atkinson, C.J. Brock, Rob Couture, Dave Davis, Gary Ezmerlian, Brad Gibson, John Grace, Aaron Hickman, Rick Sulzer, Chris Wheeler, Wayne Wright</td>
+  <td>Captain: Mike Booker
+Bobby Baugh, Nicholas Cristea, Patrick Datz, John Dowdall, Gary Durbin, Robert Evans, John Hunter, John Pierce, Jay Reynolds, Danny Simmerman, Seth Stuart</td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>Dallas National GC
+Dallas
+
+North Wins 38-34</td>
+  <td>Captain: Mike Peck
+Scott Abbott, Zach Atkinson, Rob Couture, Brad Gibson, Aaron Hickman, Clay Hodge, Jerry Hudgins, Josh Irving, Will Osborne, Chuck Palmer, Lewis Stephenson</td>
+  <td>Captain: Mike Booker
+Nicholas Cristea, Taylor Dio, John Hunter, Justin Kaplan, Randy Lance, Ivan Lawson, David Leiss, Scott Loving, Larry Nunez, Jay Reynolds, Ross Wilhelm</td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>Miramont GC
+Bryan
+
+South Wins 39.5-32.5</td>
+  <td>Captain: Aaron Hickman
+Zach Atkinson, John Bearrie, Ken Coutant, Rob Couture, Brad Gibson, Jerry Hudgins, Josh Irving, Mike Peck, Lewis Stephenson, Hollis Sullivan, Ted Waldrip</td>
+  <td>Captain: Trevor Hyde
+Jess Bonneau, Mike Booker, Brandon Burke, Chris Causey, Richard Hageman, John Hunter, Trevor Hyde, Bob Kearney, Rob Kilby, Randy Lance, Brian Noonan, Tony Soerries</td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>Northwood Club
+Dallas
+
+North Wins 40-32</td>
+  <td>Captain: Carey Schulten
+Zach Atkinson, John Bearrie, Colby Harwell, Aaron Hickman, Bill Holstead, Jerry Hudgins, Doug Manor, Scott Maurer, Mike Peck, Michael Pruitt, Lee Sandlin, Brandon Scott</td>
+  <td>Captain: Loren Singletary
+James Bartell, Jess Bonneau, Mike Booker, Clay Hodge, John Hunter, Bob Kearney, Ron Kilby, Tom McGraw, Brian Noonan, John Perez, David Pocknall, Tony Soerries</td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>Whispering Pines GC
+Trinity
+
+South Wins 44-28</td>
+  <td>Captain: Marion Dantzler
+Phil Austin, John Bearrie, Lucas Boyd, Mike Calef, Colby Harwell, Aaron Hickman, Jerry Hudgins, Chuck Palmer, Lee Sandlin, Brandon Scott, Lewis Stephenson, Chris Wheeler</td>
+  <td>Captain: Woody Fail
+Joe Bendetti, Mike Booker, Nicholas Cristea, John Dowdall, Gary Durbin, Chris Forbes, Trevor Hyde, Bob Kearney, Randy Lance, David Pocknall, Mike Rice, Trevor Sauntry</td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>San Antonio CC
+San Antonio
+
+South Wins 36.5-35.5</td>
+  <td>Captain: Mickey Jones
+John Bearrie, Lucas Boyd, Rob Couture, Colby Harwell, Aaron Hickman, Reggie Howell, Clarke Kincaid, Danny Lovell, Andy McCabe, Mac McGee, Jack Medick, Lee Sandlin</td>
+  <td>Captain: Jon Shipley
+Michael Allen, Jeff Bellnap, Mike Booker, Nicholas Cristea, Kyle Flodder, Chris Forbes, Kip Guidry, Trevor Hyde, Ron Kilby, Adam Lowe, David Pocknall, Mike Rice</td>
+</tr>
+<tr class='tablerow'>
+  <td>2010</td>
+  <td>The Club at Carlton Woods
+The Woodlands
+
+South Wins 37.5-34.5</td>
+  <td>Captain: Jim Todd
+John Bearrie, Rob Couture, John Derrick, Aaron Hickman, Reggie Howell, Luke Kane, Andy McCabe, Jim Mundell, Chuck Palmer, Mike Puls, Lewis Stephenson, Ted Waldrip</td>
+  <td>Captain: John Semander
+Mike Booker, Tim Carlton, Nick Cristea, John Dowdall, Kip Guidry, Rich Hageman, Randy Lance, Mike Minicucci, Jeff New, David Pocknall, Seth Thornton, Pat Youngs</td>
+</tr>
+<tr class='tablerow'>
+  <td>2009</td>
+  <td>Shadow Hawk GC
+Richmond
+
+North Wins 38.5-21.5</td>
+  <td>Captain: A.J. Triggs
+Henry Coffman, John Bearrie, Bart Goodwin, David Ward, Collin Stoops, Rob Couture, Lewis Stephenson, Bill Steen, Tom Doughtie, Chuck Palmer</td>
+  <td>Captain: Charlie Milstead
+Aaron Hickman, Kyle Flodder, David Leiss, Randy Lance, Pat Youngs, John Dowdall, Kip Guidry, Owen Joyner, David Pocknall, Tom McGraw</td>
+</tr>
+<tr class='tablerow'>
+  <td>2008</td>
+  <td>Escondido G&LC
+Horseshoe Bay
+
+North Wins 33-27</td>
+  <td>Captain: A.J. Triggs
+Rob Couture, Steve Galko, Andy McCabe, Collin Stoops, Bill Steen, John Bearrie, Lewis Stephenson, Bill Jackson, Tom Doughtie, Bill Caveness</td>
+  <td>Captain: Loren Singletary
+Aaron Hickman, Owen Joyner, Grady Bruce, Randy Lance, John Pierce, John Dowdall, David Leiss, Mike Rice, Tom McGraw, Ron Kilby</td>
+</tr>
+<tr class='tablerow'>
+  <td>2007</td>
+  <td>The Clubs of Cordillera Ranch
+Boerne
+
+North Wins 27.5-20.5</td>
+  <td>Captain: Bob Romero
+John Bearrie, Rob Couture, Steve Galko, Aaron Hickman, Chris Goodspeed, Neal Barfield, Michael Puls, John McClure</td>
+  <td>Captain: Guy Mason
+John Dowdall, Jonathon Shipley, Robert McKinney, Ron Kilby, Buzz Baker, David Pfueffer, John Pierce, Tom McGraw</td>
+</tr>
+<tr class='tablerow'>
+  <td>2006</td>
+  <td>Whispering Pines GC
+Trinity
+
+South Wins 25-23</td>
+  <td>Captain: Ryan Finn
+Dan Dunkelberg, Dru Fenimore, John Bearrie, Alan Clark, Rob Couture, Darin Newhouse, John McClure, David Leachman</td>
+  <td>Captain: Jeff Morton
+Jonathan Mathias, Ron Schroeder, Randy Lance, Alan Hill, John Dowdall, Kip Guidry, David Leiss, John Pierce</td>
+</tr>
+<tr class='tablerow'>
+  <td>2005</td>
+  <td>Colonial CC
+Fort Worth
+
+North Wins 26-22</td>
+  <td>Captain: Ryan Finn
+Steve Galko, Dan Dunkelberg, Mike Healer, Bob Neal, Chuck Palmer, Mark Lindberg, Jim Nuemann, Roger Marcincuk</td>
+  <td>Captain: Jeff Morton
+Terrence Miskell, Ron Schroeder, Steve Gill, Stephen Paterson, Chris James, Jonathon Mathias, Todd Hensarling, Jeff New</td>
+</tr>
+<tr class='tablerow'>
+  <td>2004</td>
+  <td>Whispering Pines GC
+Trinity
+
+South Wins 33.5-14.5</td>
+  <td>Captain: Ryan Finn
+Darin Newhouse, Jim Spagnolo, Andy Kampen, Ryan Hill, Bob Neal, Steve Galko, Jeff Makahon, Sam Manning</td>
+  <td>Captain: Jeff Morton
+Terrence Miskell, Titus Harris, Pat Youngs, Greg Martin, Scott Loving, Trevor Hyde, David Pocknall, Bob Kearney</td>
+</tr>
+<tr class='tablerow'>
+  <td>2003</td>
+  <td>Terra Vista GC
+Round Rock
+
+South Wins 26.5-21.5</td>
+  <td>Captain: Ryan Finn
+Lelan Chiles, Dan Dunkleberg, Sam Manning, Michael LaRose, John Bearie, Steve Galko, Andy Kampen, Alex Buecking</td>
+  <td>Captain: Jeff Morton
+Bob Kearney, Mike Booker, Robby McWilliams, Ron Schroder, Steve Trafton, Mark Johnson, Rodney Thompson, Steven Colwick</td>
+</tr>
+</table>
+
+<div class='tablehead'>
+  <h3>North Amateur</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Champion</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>Thorntree GC
+Final <a href="https://www.golfgenius.com/pages/3997959">Results</a></td>
+  <td>Andrew Chow
+Coppell</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>Harbor Lakes GC
+Final <a href="https://www.golfgenius.com/pages/3599002">Results</a></td>
+  <td>Jason Schultz
+Allen</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>The Bridges GC
+Final <a href="https://www.golfgenius.com/pages/3061680">Results</a></td>
+  <td>Jason Schultz
+Allen</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>No Championship Held – COVID-19</td>
+  <td>–</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>The Courses at Watters Creek
+Final <a href="https://www.txga.org/north-amateur-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Will Adams
+Odessa</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>Stonebridge Ranch CC (Dye)
+Final <a href="https://www.txga.org/north-amateur-2018-leaderboard?swcfpc=1">Results</a></td>
+  <td>Travis Woolf
+Fort Worth</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>Timarron CC</td>
+  <td>Max Kettler
+Southlake</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>Hurricane Creek CC</td>
+  <td>Hunter Shattack
+Jacksonville</td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>Gentle Creek GC</td>
+  <td>Josh Irving
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>The Courses at Watters Creek</td>
+  <td>John Stollenwerck
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>Walnut Creek CC</td>
+  <td>Luke Neeley
+Mansfield</td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>Texas Star GC</td>
+  <td>Chris Gilbert
+McKinney</td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>Gleneagles CC (Queens)</td>
+  <td>Danny Lovell
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2010</td>
+  <td>The Honors GC of Dallas</td>
+  <td>Alex Moon
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2009</td>
+  <td>Tierra Verde GC</td>
+  <td>Rob Couture
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2008</td>
+  <td>Firewheel Golf Park</td>
+  <td>John Bearrie
+Arlington</td>
+</tr>
+<tr class='tablerow'>
+  <td>2007</td>
+  <td>Woodbridge GC</td>
+  <td>Justin Fraley
+Rowlett</td>
+</tr>
+<tr class='tablerow'>
+  <td>2006</td>
+  <td>Heritage Ranch G&CC</td>
+  <td>Charlie Holland
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2005</td>
+  <td>Pine Dunes Resort & GC</td>
+  <td>Steve Galko
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2004</td>
+  <td>Trophy Club CC</td>
+  <td>Chuck Palmer
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2003</td>
+  <td>The Tribute GC</td>
+  <td>Steve Galko
+Dallas</td>
+</tr>
+</table>
+
+<div class='tablehead'>
+  <h3>South Amateur</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Champion</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>The Wilderness GC
+Final <a href="https://www.golfgenius.com/pages/3963083">Results</a></td>
+  <td>Terrin Anderson
+Montgomery</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>Victoria CC
+Final <a href="https://www.golfgenius.com/pages/3644988">Results</a></td>
+  <td>Bryan Comegys
+Austin</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>Galveston CC
+Final <a href="https://www.golfgenius.com/pages/3055314">Results</a></td>
+  <td>Padden Nelson
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>No Championship Held – Covid-19</td>
+  <td>–</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>Sterling CC
+Final <a href="https://www.txga.org/south-amateur-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Cody Banach
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>Fair Oaks Ranch G&CC (Live Oak)
+Final <a href="https://www.txga.org/south-amateur-2018-leaderboard?swcfpc=1">Results</a></td>
+  <td>Jacob Davis
+Cibolo</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>Horseshoe Bay Resort (Slick Rock)</td>
+  <td>Tim Hamm
+Austin</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>Wolfdancer GC</td>
+  <td>Danny Simmerman
+Shavano Park</td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>La Cantera Resort</td>
+  <td>Nick Thornton
+Boerne</td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>The Club at Comanche Trace</td>
+  <td>Jordan Sanders
+Cedar Park</td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>Deerwood Club</td>
+  <td>Tony Soerries
+Montgomery</td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>River Ridge GC</td>
+  <td>Albert Miner
+Katy</td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>Quail Valley GC</td>
+  <td>Mike Booker
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>2010</td>
+  <td>High Meadow Ranch GC</td>
+  <td>James Kwan
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>2009</td>
+  <td>Black Horse GC</td>
+  <td>Michael Whitehead
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>2008</td>
+  <td>Avery Ranch GC</td>
+  <td>John Pierce
+San Antonio</td>
+</tr>
+<tr class='tablerow'>
+  <td>2007</td>
+  <td>Magnolia Creek GC</td>
+  <td>Michael Whitehead
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>2006</td>
+  <td>Walden on Lake Conroe GC</td>
+  <td>Ron Schroeder
+Montgomery</td>
+</tr>
+<tr class='tablerow'>
+  <td>2005</td>
+  <td>Pine Forest CC</td>
+  <td>Jonathan Mathias
+San Antonio</td>
+</tr>
+<tr class='tablerow'>
+  <td>2004</td>
+  <td>Deerwood CC</td>
+  <td>Mike Booker
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>2003</td>
+  <td>Inwood Forest CC</td>
+  <td>Andrew Cooper
+The Woodlands</td>
+</tr>
+</table>
+
+<div class='tablehead'>
+  <h3>North Four-Ball</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Champions</th>
+</tr>
+<tr class='tablerow'>
+  <td>2024</td>
+  <td>Whitestone GC
+Final <a href="https://www.golfgenius.com/pages/4664689">Results</a></td>
+  <td>Bobby Massa
+Ryan Zamorano</td>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>The Courses at Watters Creek
+Final <a href="https://www.golfgenius.com/pages/3942591">Results</a></td>
+  <td>Bobby Massa
+Ryan Zamorano</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>Tempest GC
+Final <a href="https://www.golfgenius.com/pages/3354106">Results</a></td>
+  <td>Bobby Massa
+Christopher Wheeler</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>Brookhaven CC
+Final <a href="https://www.golfgenius.com/pages/2792240">Results</a></td>
+  <td>Derek Abel
+Christopher Wheeler</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>Stonebridge Ranch CC (Dye)
+Final <a href="https://www.txga.org/north-four-ball-2020-leaderboard/?swcfpc=1">Results</a></td>
+  <td>Nick Hance
+Matthew Griggs</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>Walnut Creek CC (Pecan)
+Final <a href="https://www.txga.org/north-four-ball-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Dru Fenimore
+Jason Schultz</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>Texas Star GC
+Final <a href="https://www.txga.org/north-four-ball-2018-leaderboard?swcfpc=1">Results</a></td>
+  <td>Will Osborne
+Joshua Irving</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>Sky Creek Ranch GC</td>
+  <td>Will Osborne
+Joshua Irving</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>Waterchase GC</td>
+  <td>Brad Gibson
+Zach Atkinson</td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>Tierra Verde GC</td>
+  <td>Michael Ray
+Joshua Irving</td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>Hurricane Creek CC</td>
+  <td>Peyton Cook
+Scott Maurer</td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>Stonebriar CC (Fazio)</td>
+  <td>Peyton Cook
+Scott Maurer</td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>The Honors GC of Dallas</td>
+  <td>Patrick Cawthorne
+Lewis Stephenson</td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>The GC of Dallas</td>
+  <td>Paul Atkinson
+Zach Atkinson</td>
+</tr>
+<tr class='tablerow'>
+  <td>2010</td>
+  <td>Mira Vista CC</td>
+  <td>Jason Felps
+Colby Harwell</td>
+</tr>
+<tr class='tablerow'>
+  <td>2009</td>
+  <td>Texas Star GC</td>
+  <td>Bell Steen, Rick Houston
+Senior Division: Chuck Palmer, Jim Parrish</td>
+</tr>
+<tr class='tablerow'>
+  <td>2008</td>
+  <td>Castle Hills CC</td>
+  <td>Casey Weiss, Luke Kane
+Senior Division: Chip Stewart, Larry Thomas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2007</td>
+  <td>Eagle’s Bluff CC</td>
+  <td>Jason Felps
+Ken Patterson</td>
+</tr>
+<tr class='tablerow'>
+  <td>2006</td>
+  <td>Sky Creek Ranch GC</td>
+  <td>Stephen Love
+Joe Owen</td>
+</tr>
+<tr class='tablerow'>
+  <td>2005</td>
+  <td>Links at Waterchase</td>
+  <td>Roger Marcincuk
+Kevin Pedigo</td>
+</tr>
+<tr class='tablerow'>
+  <td>2004</td>
+  <td>Links at Lands End</td>
+  <td>Greg Boots
+Alex Buecking</td>
+</tr>
+<tr class='tablerow'>
+  <td>2003</td>
+  <td>Robson Ranch GC</td>
+  <td>Greg Boots
+Alex Buecking</td>
+</tr>
+</table>
+
+<div class='tablehead'>
+  <h3>South Four-Ball</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Champions</th>
+</tr>
+<tr class='tablerow'>
+  <td>2024</td>
+  <td>Bearkat Course
+Final <a href="https://www.golfgenius.com/pages/4554848">Results</a></td>
+  <td>Robert Gwin
+Clay Fullick</td>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>Vaaler Creek GC
+Final <a href="https://www.golfgenius.com/pages/3962446">Results</a></td>
+  <td>Jonathan Alden
+Austen Fulmer</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>Sterling CC
+Final <a href="https://www.golfgenius.com/pages/3365340">Results</a></td>
+  <td>Matt Williams
+Ryan Haselden</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>Quail Valley GC (El Dorado)
+Final <a href="https://www.golfgenius.com/pages/2791491">Results</a></td>
+  <td>Todd Albert
+Kevin Liberto</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>The Clubs of Kingwood (Lake)
+Final <a href="https://www.txga.org/south-four-ball-2020-leaderboard/?swcfpc=1">Results</a></td>
+  <td>Shawn Stoute
+Toby Zeringue</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>Sugar Creek CC (Trent/Jones)
+Final <a href="https://www.txga.org/south-four-ball-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Robert Skeen
+Davaughn Robinson</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>Teravista GC
+Final <a href="https://www.txga.org/south-four-ball-2018-leaderboard?swcfpc=1">Results</a></td>
+  <td>Braden Graham
+Luke Antonelli</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>Bentwater Yacht & CC</td>
+  <td>Grant Schroeder
+Sam Hochhauser</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>Clubs of Kingwood</td>
+  <td>Mark Mattox
+Ed Martinez</td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>Willow Creek GC</td>
+  <td>John Dowdall
+Randy Lance</td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>Quail Valley GC</td>
+  <td>John Dowdall
+Randy Lance</td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>Golfcrest CC</td>
+  <td>Dennis Bosworth
+Shaun Helmle</td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>Magnolia Creek GC</td>
+  <td>John Dowdall
+Kip Guidry</td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>Pine Forest CC</td>
+  <td>David Pocknall
+Trevor Hyde</td>
+</tr>
+<tr class='tablerow'>
+  <td>2010</td>
+  <td>The Club at Falcon Point</td>
+  <td>Giles Kibbe
+Chris Davis</td>
+</tr>
+<tr class='tablerow'>
+  <td>2009</td>
+  <td>Sienna Plantation</td>
+  <td>James Dalthrop + Tim Thompson
+Senior Division: Dave Bozeman + Sandy McCall</td>
+</tr>
+<tr class='tablerow'>
+  <td>2008</td>
+  <td>South Shore Harbour</td>
+  <td>Jonathon Shipley + John Dowdall
+Senior Division: Bob Smith + Doug Escue</td>
+</tr>
+<tr class='tablerow'>
+  <td>2007</td>
+  <td>River Ridge GC</td>
+  <td>Trevor Hyde
+Sean Westacott</td>
+</tr>
+<tr class='tablerow'>
+  <td>2006</td>
+  <td>River Ridge GC</td>
+  <td>Trevor Hyde
+Sean Westacott</td>
+</tr>
+<tr class='tablerow'>
+  <td>2005</td>
+  <td>Cypresswood GC</td>
+  <td>David Pocknall
+Tod Hensarling</td>
+</tr>
+<tr class='tablerow'>
+  <td>2004</td>
+  <td>Avery Ranch GC</td>
+  <td>Wayne Smith
+Keith Lundquist</td>
+</tr>
+<tr class='tablerow'>
+  <td>2003</td>
+  <td>Palms at Pleasure Island</td>
+  <td>Giles Kibbe
+Dan Ducote</td>
+</tr>
+</table>
+
+<div class='tablehead'>
+  <h3>North Mid-Amateur</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Champion</th>
+</tr>
+<tr class='tablerow'>
+  <td>2024</td>
+  <td>The Courses at Watters Creek
+Final <a href="https://www.golfgenius.com/pages/4556721">Results</a></td>
+  <td>Chris Wheeler</td>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>Rockwall G&AC
+Final <a href="https://www.golfgenius.com/pages/3947107">Results</a></td>
+  <td>C.J. Brock</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>Paris G&CC
+Final <a href="https://www.golfgenius.com/pages/3415067">Results</a></td>
+  <td>Jason Schultz</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>Twin Creeks GC
+Final <a href="https://www.golfgenius.com/pages/2831145">Results</a></td>
+  <td>Paul McNamara</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>No Championship Held – Covid-19</td>
+  <td>–</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>Waterchase GC
+Final <a href="https://www.txga.org/north-mid-amateur-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Anthony Estorga</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>Diamond Oaks CC
+Final <a href="https://www.txga.org/north-mid-amateur-2018-leaderboard?swcfpc=1">Results</a></td>
+  <td>Zach Atkinson</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>Tierra Verde GC</td>
+  <td>Gant Bills</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>Firewheel Golf Park</td>
+  <td>Aaron Hickman</td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>Trophy Club CC</td>
+  <td>Zach Atkinson</td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>Prestonwood</td>
+  <td>Lewis Stephenson</td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>Trophy Club CC (Hogan)</td>
+  <td>Zach Atkinson</td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>Old American GC</td>
+  <td>Mike Calef</td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>Trophy Club CC</td>
+  <td>Aaron Hickman</td>
+</tr>
+<tr class='tablerow'>
+  <td>2010</td>
+  <td>Hurricane Creek CC</td>
+  <td>Rob Couture</td>
+</tr>
+<tr class='tablerow'>
+  <td>2009</td>
+  <td>Southern Oaks GC</td>
+  <td>Rob Couture</td>
+</tr>
+<tr class='tablerow'>
+  <td>2008</td>
+  <td>Split Rail GC</td>
+  <td>Rob Couture</td>
+</tr>
+<tr class='tablerow'>
+  <td>2007</td>
+  <td>Texas Star GC</td>
+  <td>Rob Couture</td>
+</tr>
+<tr class='tablerow'>
+  <td>2006</td>
+  <td>Buffalo Creek GC</td>
+  <td>Jeff Makahon</td>
+</tr>
+<tr class='tablerow'>
+  <td>2005</td>
+  <td>Gleneagles CC (Kings)</td>
+  <td>Steve Galko</td>
+</tr>
+<tr class='tablerow'>
+  <td>2004</td>
+  <td>Oak Cliff CC</td>
+  <td>Chuck Palmer</td>
+</tr>
+<tr class='tablerow'>
+  <td>2003</td>
+  <td>Texas Star GC</td>
+  <td>Andy Kampen</td>
+</tr>
+</table>
+
+<div class='tablehead'>
+  <h3>South Mid-Amateur</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Champion</th>
+</tr>
+<tr class='tablerow'>
+  <td>2024</td>
+  <td>South Shore Harbour CC
+Final <a href="https://www.golfgenius.com/pages/4574971">Results</a></td>
+  <td>Nathan Sheen</td>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>The Clubs of Kingwood (Forest)
+Final <a href="https://www.golfgenius.com/pages/3991140">Results</a></td>
+  <td>Logan Thomason</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>Forest Creek GC
+Final <a href="https://www.golfgenius.com/pages/3365899">Results</a></td>
+  <td>Daniel Depasquale</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>Bentwater Yacht & CC (Weiskopf)
+Final <a href="https://www.golfgenius.com/pages/2793702">Results</a></td>
+  <td>Robert Gwin</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>No Championship Held – Covid-19</td>
+  <td>–</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>Grey Rock GC
+Final <a href="https://www.txga.org/south-mid-amateur-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Devin Young</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>The Club at Falcon Point
+Final <a href="https://www.txga.org/south-mid-amateur-2018-leaderboard?swcfpc=1">Results</a></td>
+  <td>Broc Haymon</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>Magnolia Creek GC</td>
+  <td>Broc Hayman</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>Eagle Pointe GC</td>
+  <td>Danny Simmerman</td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>Lakecliff CC</td>
+  <td>Jay Reynolds</td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>Sterling CC</td>
+  <td>Tony Soerries</td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>Grey Rock GC</td>
+  <td>Ed Sanchez</td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>The Club at Sonterra</td>
+  <td>David Pocknall</td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>Riverbend CC</td>
+  <td>Mick McCaffrey</td>
+</tr>
+<tr class='tablerow'>
+  <td>2010</td>
+  <td>Magnolia Creek GC</td>
+  <td>Randy Lance</td>
+</tr>
+<tr class='tablerow'>
+  <td>2009</td>
+  <td>Pine Forest CC</td>
+  <td>David Pocknall</td>
+</tr>
+<tr class='tablerow'>
+  <td>2008</td>
+  <td>Lake Windcrest GC</td>
+  <td>David Pocknall</td>
+</tr>
+<tr class='tablerow'>
+  <td>2007</td>
+  <td>Cypresswood GC</td>
+  <td>John Dowdall</td>
+</tr>
+<tr class='tablerow'>
+  <td>2006</td>
+  <td>Woodforest GC</td>
+  <td>Randy Lance</td>
+</tr>
+<tr class='tablerow'>
+  <td>2005</td>
+  <td>Timber Creek GC</td>
+  <td>Mike Booker</td>
+</tr>
+<tr class='tablerow'>
+  <td>2004</td>
+  <td>High Meadow Ranch GC</td>
+  <td>Greg Martin</td>
+</tr>
+<tr class='tablerow'>
+  <td>2003</td>
+  <td>Redstone GC</td>
+  <td>Rodney Thompson</td>
+</tr>
+</table>
+
+<div class='tablehead'>
+  <h3>West Texas Amateur</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Champion</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>Diamondback National CC
+Final <a href="https://www.golfgenius.com/pages/4199988">Results</a></td>
+  <td>Will Adams
+Odessa</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>Odessa CC (Old)
+Final <a href="https://www.txga.org/22-west-texas-amateur-leaderboard/?swcfpc=1">Results</a></td>
+  <td>Casey Carnes
+Schertz</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>Abilene CC (South)
+Final <a href="https://www.txga.org/west-texas-amateur-leaderboard-2021/?swcfpc=1">Results</a></td>
+  <td>Garrett Leek
+Brock</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>Bentwood CC
+Final <a href="https://www.txga.org/west-texas-amateur-leaderboard-2020?swcfpc=1">Results</a></td>
+  <td>J.T. Pittman
+Monahans</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>Midland CC
+Final <a href="https://www.txga.org/west-texas-amateur-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Jackson Markham
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>Amarillo CC
+Final <a href="https://www.txga.org/west-texas-amateur-2018-leaderboard?swcfpc=1">Results</a></td>
+  <td>David Bolen
+Lubbock</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>Lubbock CC</td>
+  <td>David Bolen
+Lubbock</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>The Rawls Course</td>
+  <td>Andrew Wyatt
+Midland</td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>Odessa CC</td>
+  <td>Mark Jones, Jr.
+Odessa</td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>Wichita Falls CC</td>
+  <td>Wes Artac
+Kingwood</td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>San Angelo CC</td>
+  <td>Logan Philley
+Robert Lee</td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>Diamondback GC</td>
+  <td>Mike Calef
+Irving</td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>Abilene CC</td>
+  <td>Beau Davis
+Fort Worth</td>
+</tr>
+<tr class='tablerow'>
+  <td>2010</td>
+  <td></td>
+  <td>Luke Kane</td>
+</tr>
+<tr class='tablerow'>
+  <td>2009</td>
+  <td></td>
+  <td>Alex Moon</td>
+</tr>
+<tr class='tablerow'>
+  <td>2008</td>
+  <td></td>
+  <td>Trey Todd</td>
+</tr>
+<tr class='tablerow'>
+  <td>2007</td>
+  <td></td>
+  <td>Colton Williams</td>
+</tr>
+<tr class='tablerow'>
+  <td>2006</td>
+  <td></td>
+  <td>Tom Doughtie</td>
+</tr>
+<tr class='tablerow'>
+  <td>2005</td>
+  <td></td>
+  <td>Trey Todd</td>
+</tr>
+<tr class='tablerow'>
+  <td>2004</td>
+  <td></td>
+  <td>Jason Lindgren</td>
+</tr>
+<tr class='tablerow'>
+  <td>2003</td>
+  <td></td>
+  <td>Will Doughtie</td>
+</tr>
+<tr class='tablerow'>
+  <td>2002</td>
+  <td></td>
+  <td>Doug Hopton Jones</td>
+</tr>
+<tr class='tablerow'>
+  <td>2001</td>
+  <td></td>
+  <td>Conway Jordan</td>
+</tr>
+<tr class='tablerow'>
+  <td>2000</td>
+  <td></td>
+  <td>Craig McAlpine</td>
+</tr>
+<tr class='tablerow'>
+  <td>1999</td>
+  <td></td>
+  <td>Tim Phillips</td>
+</tr>
+<tr class='tablerow'>
+  <td>1998</td>
+  <td></td>
+  <td>Michael Pruitt</td>
+</tr>
+<tr class='tablerow'>
+  <td>1997</td>
+  <td></td>
+  <td>Conway Jordan</td>
+</tr>
+<tr class='tablerow'>
+  <td>1996</td>
+  <td></td>
+  <td>John Grace</td>
+</tr>
+<tr class='tablerow'>
+  <td>1995</td>
+  <td></td>
+  <td>Ed Brooks</td>
+</tr>
+<tr class='tablerow'>
+  <td>1994</td>
+  <td></td>
+  <td>Jason Brooks</td>
+</tr>
+<tr class='tablerow'>
+  <td>1993</td>
+  <td></td>
+  <td>Jaxon Brigman</td>
+</tr>
+<tr class='tablerow'>
+  <td>1992</td>
+  <td></td>
+  <td>Mickey Scott</td>
+</tr>
+<tr class='tablerow'>
+  <td>1991</td>
+  <td></td>
+  <td>Jaxon Brigman</td>
+</tr>
+<tr class='tablerow'>
+  <td>1990</td>
+  <td></td>
+  <td>Tom Doughtie</td>
+</tr>
+<tr class='tablerow'>
+  <td>1989</td>
+  <td></td>
+  <td>Tom Doughtie</td>
+</tr>
+<tr class='tablerow'>
+  <td>1988</td>
+  <td></td>
+  <td>Scott Haynie</td>
+</tr>
+<tr class='tablerow'>
+  <td>1987</td>
+  <td></td>
+  <td>Bob Estes</td>
+</tr>
+<tr class='tablerow'>
+  <td>1986</td>
+  <td></td>
+  <td>Mike Sandley</td>
+</tr>
+<tr class='tablerow'>
+  <td>1985</td>
+  <td></td>
+  <td>Steve Whiteside</td>
+</tr>
+<tr class='tablerow'>
+  <td>1984</td>
+  <td></td>
+  <td>Arnold Salinas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1983</td>
+  <td></td>
+  <td>Jerry Boeka</td>
+</tr>
+<tr class='tablerow'>
+  <td>1982</td>
+  <td></td>
+  <td>John Slaughter</td>
+</tr>
+<tr class='tablerow'>
+  <td>1981</td>
+  <td></td>
+  <td>David Daniel</td>
+</tr>
+<tr class='tablerow'>
+  <td>1980</td>
+  <td></td>
+  <td>Bill DeTournillion, Jr.</td>
+</tr>
+<tr class='tablerow'>
+  <td>1979</td>
+  <td></td>
+  <td>Bill Holstead</td>
+</tr>
+<tr class='tablerow'>
+  <td>1978</td>
+  <td></td>
+  <td>Bill Holstead</td>
+</tr>
+<tr class='tablerow'>
+  <td>1977</td>
+  <td></td>
+  <td>John Horne</td>
+</tr>
+<tr class='tablerow'>
+  <td>1976</td>
+  <td></td>
+  <td>Jeff Mitchell</td>
+</tr>
+<tr class='tablerow'>
+  <td>1975</td>
+  <td></td>
+  <td>Jeff Mitchell</td>
+</tr>
+<tr class='tablerow'>
+  <td>1974</td>
+  <td></td>
+  <td>Dick Weston</td>
+</tr>
+<tr class='tablerow'>
+  <td>1973</td>
+  <td></td>
+  <td>John Granger</td>
+</tr>
+<tr class='tablerow'>
+  <td>1972</td>
+  <td></td>
+  <td>John Farquhar</td>
+</tr>
+<tr class='tablerow'>
+  <td>1971</td>
+  <td></td>
+  <td>John Farquhar</td>
+</tr>
+<tr class='tablerow'>
+  <td>1970</td>
+  <td></td>
+  <td>Robert McKinney</td>
+</tr>
+<tr class='tablerow'>
+  <td>1969</td>
+  <td></td>
+  <td>Robert McKinney</td>
+</tr>
+<tr class='tablerow'>
+  <td>1968</td>
+  <td></td>
+  <td>Jerry Barrier</td>
+</tr>
+<tr class='tablerow'>
+  <td>1967</td>
+  <td></td>
+  <td>Bill Holstead</td>
+</tr>
+<tr class='tablerow'>
+  <td>1966</td>
+  <td></td>
+  <td>Dave Lawson</td>
+</tr>
+<tr class='tablerow'>
+  <td>1965</td>
+  <td></td>
+  <td>Hal Underwood</td>
+</tr>
+<tr class='tablerow'>
+  <td>1964</td>
+  <td></td>
+  <td>Eddie Smith</td>
+</tr>
+<tr class='tablerow'>
+  <td>1963</td>
+  <td></td>
+  <td>Jack Williams</td>
+</tr>
+<tr class='tablerow'>
+  <td>1962</td>
+  <td></td>
+  <td>Ross Mitchell</td>
+</tr>
+<tr class='tablerow'>
+  <td>1961</td>
+  <td></td>
+  <td>Ed Hopkins</td>
+</tr>
+<tr class='tablerow'>
+  <td>1960</td>
+  <td></td>
+  <td>Dean Strack</td>
+</tr>
+<tr class='tablerow'>
+  <td>1959</td>
+  <td></td>
+  <td>Charles Coody</td>
+</tr>
+<tr class='tablerow'>
+  <td>1958</td>
+  <td></td>
+  <td>Ray Ferguson</td>
+</tr>
+<tr class='tablerow'>
+  <td>1957</td>
+  <td></td>
+  <td>Jack Williams</td>
+</tr>
+<tr class='tablerow'>
+  <td>1956</td>
+  <td></td>
+  <td>Arlyn Scott</td>
+</tr>
+<tr class='tablerow'>
+  <td>1955</td>
+  <td></td>
+  <td>Jimmie Russell</td>
+</tr>
+<tr class='tablerow'>
+  <td>1954</td>
+  <td></td>
+  <td>Ernie Vossler</td>
+</tr>
+<tr class='tablerow'>
+  <td>1953</td>
+  <td></td>
+  <td>Jack Williams</td>
+</tr>
+<tr class='tablerow'>
+  <td>1952</td>
+  <td></td>
+  <td>Don Cherry</td>
+</tr>
+<tr class='tablerow'>
+  <td>1951</td>
+  <td></td>
+  <td>Don Cherry</td>
+</tr>
+<tr class='tablerow'>
+  <td>1950</td>
+  <td></td>
+  <td>Bob French</td>
+</tr>
+<tr class='tablerow'>
+  <td>1949</td>
+  <td></td>
+  <td>Bob French</td>
+</tr>
+<tr class='tablerow'>
+  <td>1948</td>
+  <td></td>
+  <td>Billy Maxwell</td>
+</tr>
+<tr class='tablerow'>
+  <td>1947</td>
+  <td></td>
+  <td>Doug Jones</td>
+</tr>
+<tr class='tablerow'>
+  <td>1946</td>
+  <td></td>
+  <td>Doug Jones</td>
+</tr>
+<tr class='tablerow'>
+  <td>1942-1945</td>
+  <td>No Championships Held – WWII</td>
+  <td>–</td>
+</tr>
+<tr class='tablerow'>
+  <td>1941</td>
+  <td></td>
+  <td>J.T. Hammett</td>
+</tr>
+<tr class='tablerow'>
+  <td>1940</td>
+  <td></td>
+  <td>Morris Norton</td>
+</tr>
+<tr class='tablerow'>
+  <td>1939</td>
+  <td></td>
+  <td>Iverson Martin</td>
+</tr>
+<tr class='tablerow'>
+  <td>1938</td>
+  <td></td>
+  <td>Joe Bihl</td>
+</tr>
+<tr class='tablerow'>
+  <td>1937</td>
+  <td></td>
+  <td>Morris Norton</td>
+</tr>
+<tr class='tablerow'>
+  <td>1936</td>
+  <td></td>
+  <td>Morris Norton</td>
+</tr>
+<tr class='tablerow'>
+  <td>1935</td>
+  <td></td>
+  <td>Johnnie Marsten</td>
+</tr>
+<tr class='tablerow'>
+  <td>1934</td>
+  <td></td>
+  <td>Carnes Wilson</td>
+</tr>
+<tr class='tablerow'>
+  <td>1933</td>
+  <td></td>
+  <td>Carnes Wilson</td>
+</tr>
+<tr class='tablerow'>
+  <td>1932</td>
+  <td></td>
+  <td>James Phillips</td>
+</tr>
+<tr class='tablerow'>
+  <td>1931</td>
+  <td></td>
+  <td>Charles Quails</td>
+</tr>
+<tr class='tablerow'>
+  <td>1930</td>
+  <td></td>
+  <td>Dennis Lavender</td>
+</tr>
+<tr class='tablerow'>
+  <td>1929</td>
+  <td></td>
+  <td>N.C. Bussey</td>
+</tr>
+<tr class='tablerow'>
+  <td>1928</td>
+  <td></td>
+  <td>Dennis Lavender</td>
+</tr>
+<tr class='tablerow'>
+  <td>1927</td>
+  <td></td>
+  <td>Buddy Raines</td>
+</tr>
+<tr class='tablerow'>
+  <td>1926</td>
+  <td></td>
+  <td>Al Badger</td>
+</tr>
+<tr class='tablerow'>
+  <td>1925</td>
+  <td></td>
+  <td>Alex Collins</td>
+</tr>
+</table>
+
+<div class='tablehead'>
+  <h3>Tournament of Champions</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Open Division</th>
+  <th class='fontbold'>Senior Division</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>Champions Golf Club
+Final <a href="https://www.golfgenius.com/pages/4181170">Results</a></td>
+  <td>Luke Condon
+Kaufman</td>
+  <td>Tray Tyner
+Kerrville</td>
+</tr>
+</table>
+
+<div class='tablehead'>
+  <h3>Medalist North #1</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Open Division</th>
+  <th class='fontbold'>Senior Division</th>
+</tr>
+<tr class='tablerow'>
+  <td>2024</td>
+  <td>Grapevine GC
+Final <a href="https://www.golfgenius.com/pages/4553163">Results</a></td>
+  <td>Brad Phelps</td>
+  <td>Donald O’Connor</td>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>Indian Creek GC (Lakes)
+Final <a href="https://www.golfgenius.com/pages/3902404">Results</a></td>
+  <td>Ben Carter</td>
+  <td>John Stollenwerck</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>The GC of Dallas
+Final <a href="https://tga-medalistnorth1-thegolfclubofdallas.golfgenius.com/pages/3349651">Results</a></td>
+  <td>Riley Goff
+Jeffrey Juillerat</td>
+  <td>Dick Stone</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>The Courses at Watters Creek
+Final <a href="https://www.golfgenius.com/pages/2792396">Results</a></td>
+  <td>Matthew Barth
+Rodrigo Medina Vasquez</td>
+  <td>John Schaefer</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>The GC at Fossil Creek
+Final <a href="https://www.txga.org/medalist-north-1-2020-leaderboard/?swcfpc=1">Results</a></td>
+  <td>Chaz Cobb</td>
+  <td>Jim Quinn</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>The Courses at Watters Creek
+Final <a href="https://www.txga.org/medalist-north-1-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Bill Sharpe</td>
+  <td>Jim Quinn</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>Thorntree CC
+Final <a href="https://www.txga.org/medalist-north-1-2018-leaderboard?swcfpc=1">Results</a></td>
+  <td>Michael Anthony Rome</td>
+  <td>Marshall Morgan</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>The Courses at Watters Creek</td>
+  <td>Bill Steen</td>
+  <td>Doug Hopkins-Jones</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>Sky Creek Ranch GC</td>
+  <td>Joshua Irving</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>The Tribute at The Colony GC</td>
+  <td>Jered Taylor</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>The Tribute at The Colony GC</td>
+  <td>Ted Waldrip</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>Waterview GC</td>
+  <td>A.J. Morris</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>Pecan Hollow GC</td>
+  <td>John Bearrie</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>Fossil Creek GC</td>
+  <td>Aaron Hickman</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2010</td>
+  <td>The Lakes at Castle Hills</td>
+  <td>Drew Carlson</td>
+  <td></td>
+</tr>
+</table>
+
+<div class='tablehead'>
+  <h3>Medalist North #2</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Open Division</th>
+  <th class='fontbold'>Senior Division</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>Waterview GC
+Final <a href="https://www.golfgenius.com/pages/3902606">Results</a></td>
+  <td>Jeff Dodson</td>
+  <td>John Stollenwerck</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>Waterchase GC
+Final <a href="https://tga-medalistnorth2waterchasegolfclub.golfgenius.com/pages/3354787">Results</a></td>
+  <td>Jeffrey Juillerat</td>
+  <td>Bob Neal</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>The GC of Dallas
+Final <a href="https://www.golfgenius.com/pages/2799206">Results</a></td>
+  <td>Jonathan Keane</td>
+  <td>John Schaefer</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>No Championship Held – COVID-19</td>
+  <td>–</td>
+  <td>–</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>Thorntree CC
+Final <a href="https://www.txga.org/medalist-north-2-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Cameron Kirkpatrick</td>
+  <td>Brad Gray</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>The Courses at Watters Creek
+Final <a href="https://www.txga.org/medalist-north-2-2018-leaderboard?swcfpc=1">Results</a></td>
+  <td>Andrew Lindberg</td>
+  <td>Bradley Kropp</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>The GC of Dallas</td>
+  <td>David Richards</td>
+  <td>Bill Ashley</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>The GC of Dallas</td>
+  <td>Christopher McKay</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>The GC of Dallas</td>
+  <td>Clint White</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>Grapevine GC</td>
+  <td>Michael Pruitt</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>The Tribute at The Colony GC</td>
+  <td>Seol Mun</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>Twin Creeks GC</td>
+  <td>Ted Waldrip</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>Mansfield National GC</td>
+  <td>Ted Waldrip</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2010</td>
+  <td>Firewheel Golf Park</td>
+  <td>Lee Sandlin</td>
+  <td></td>
+</tr>
+</table>
+
+<div class='tablehead'>
+  <h3>Medalist Country #1</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Open Division</th>
+  <th class='fontbold'>Senior Division</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>Frio Valley Ranch
+Final <a href="https://www.golfgenius.com/pages/3904424">Results</a></td>
+  <td>Brandon Rougeau</td>
+  <td>John Donahue</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>The Club at Comanche Trace
+Final <a href="https://tga-medalisthillcountry1-theclubatcomanc.golfgenius.com/pages/3351153">Results</a></td>
+  <td>Paul Bryant</td>
+  <td>James Duttweiler</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>The Club at Comanche Trace
+Final <a href="https://www.golfgenius.com/pages/2801618">Results</a></td>
+  <td>Todd Albert</td>
+  <td>John Long</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>The Bandit GC
+Final <a href="https://www.txga.org/medalist-hill-country-1-2020-leaderboard/?swcfpc=1">Results</a></td>
+  <td>Darren Cook</td>
+  <td>Charles Young</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>The Club at Comanche Trace
+Final <a href="https://www.txga.org/medalist-hill-country-1-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Alan Crosswell-Karam</td>
+  <td>Craig Hurlbert</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>Onion Creek Club</td>
+  <td>Clint White</td>
+  <td>Rob Ormand</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>The Club at Comanche Trace</td>
+  <td>Jay Reynolds</td>
+  <td>Ron Hackelman</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>The Club at Comanche Trace</td>
+  <td>Jordan Cowart</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>The Club at Sonterra</td>
+  <td>Jacob Davis</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>The Club at Sonterra</td>
+  <td>Ross Wilhelm</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>The Club at Sonterra</td>
+  <td>Austin Jordan</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>Scott Schreiner GC</td>
+  <td>Trevor Hyde</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>River Crossing Club</td>
+  <td>Terrence Miskell</td>
+  <td></td>
+</tr>
+</table>
+
+<div class='tablehead'>
+  <h3>Medalist Country #2</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Open Division</th>
+  <th class='fontbold'>Senior Division</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>Lighthouse CC
+Final <a href="https://www.golfgenius.com/pages/3924614">Results</a></td>
+  <td>Austen Fulmer</td>
+  <td>Boyd Bruchmiller</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>Vaaler Creek GC
+Final <a href="https://tga-medalisthillcountry2-vaalercreekgolf.golfgenius.com/pages/3351226">Results</a></td>
+  <td>Jermain Rakoczy</td>
+  <td>Brad Greebon</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>Forest Creek GC
+Final <a href="https://www.golfgenius.com/pages/2795170">Results</a></td>
+  <td>Austen Fulmer</td>
+  <td>Chris Hartenstein</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>Forest Creek GC
+Final <a href="https://www.txga.org/medalist-hill-country-2-2020-leaderboard/?swcfpc=1">Results</a></td>
+  <td>Alex Woodward</td>
+  <td>Chris Hartenstein</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>Grey Rock GC
+Final <a href="https://www.txga.org/medalist-hill-country-2-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Jay Reynolds</td>
+  <td>Brad Gray</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>Grey Rock GC
+Final <a href="https://www.txga.org/medalist-hill-country-2-2018-leaderboard?swcfpc=1">Results</a></td>
+  <td>Daniel Martinez</td>
+  <td>Larry Nunez</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>Onion Creek Club</td>
+  <td>Jay Reynolds</td>
+  <td>Chris Landherr</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>Onion Creek Club</td>
+  <td>Jay Reynolds</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>The Club at Comanche Trace</td>
+  <td>Bob Kearney</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>Lakecliff CC</td>
+  <td>Michael Randle</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>Lakecliff CC</td>
+  <td>Daniel Martinez</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>Canyon Springs GC</td>
+  <td>Carlos De Leon</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>Riverhill CC</td>
+  <td>Nikolas Arrenbrecht</td>
+  <td></td>
+</tr>
+</table>
+
+<div class='tablehead'>
+  <h3>Medalist Country #3</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Open Division</th>
+  <th class='fontbold'>Senior Division</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>Lady Bird Johnson GC
+Final <a href="https://www.golfgenius.com/pages/3904484">Results</a></td>
+  <td>Luke Condon</td>
+  <td>Tray Tyner</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>Frio Valley Ranch
+Final <a href="https://tga-2022medalisthillcountry3friovalleyra.golfgenius.com/pages/3353906">Results</a></td>
+  <td>Kiley Hardy</td>
+  <td>James Duttweiler</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>Frio Valley Ranch
+Final <a href="https://www.golfgenius.com/pages/2793488">Results</a></td>
+  <td>Blake Benson</td>
+  <td>Brad Greebon</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>Canceled Due to COVID-19</td>
+  <td>–</td>
+  <td>–</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>Vaaler Creek GC
+Final <a href="https://www.txga.org/medalist-hill-country-3-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Daniel Gurtner</td>
+  <td>Brad Gray</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>The Club at Sonterra
+Final <a href="https://www.txga.org/medalist-hill-country-3-2018-leaderboard?swcfpc=1">Results</a></td>
+  <td>Mark Miller</td>
+  <td>Rob Ormand</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>The Club at Sonterra</td>
+  <td>Jake Goodman</td>
+  <td>Bill Woodley</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>The Club at Sonterra</td>
+  <td>John Pierce</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>Teravista GC</td>
+  <td>Brian Marchiori</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>The Club at Comanche Trace</td>
+  <td>Ross Wilhelm</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>The Club at Comanche Trace</td>
+  <td>Pat Youngs</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>The Club at Comanche Trace</td>
+  <td>Trevor Hyde</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>The Club at Comanche Trace</td>
+  <td>Ed Sanchez</td>
+  <td></td>
+</tr>
+</table>
+
+<div class='tablehead'>
+  <h3>Medalist Gulf Coast #1</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Open Division</th>
+  <th class='fontbold'>Senior Division</th>
+</tr>
+<tr class='tablerow'>
+  <td>2024</td>
+  <td>Pearland GC
+Final <a href="https://www.golfgenius.com/pages/4553309">Results</a></td>
+  <td>Wesley Walker</td>
+  <td>Marshall Piper</td>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>Panorama GC
+Final <a href="https://www.golfgenius.com/pages/3904582">Results</a></td>
+  <td>Carson Cooper</td>
+  <td>William Shock</td>
+</tr>
+</table>
+
+<div class='tablehead'>
+  <h3>Medalist Gulf Coast #2</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Open Division</th>
+  <th class='fontbold'>Senior Division</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>Quail Valley GC
+Final Results</td>
+  <td>Padden Nelson</td>
+  <td>William Shock</td>
+</tr>
+</table>
+
+<div class='tablehead'>
+  <h3>Template</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Senior Division</th>
+  <th class='fontbold'>Super Senior Division</th>
+</tr>
+</table>
+

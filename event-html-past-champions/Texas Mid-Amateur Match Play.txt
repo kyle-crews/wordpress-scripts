@@ -1,0 +1,170 @@
+<div class='tablehead'>
+  <h3>Texas Mid-Amateur Match Play</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Champion</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>Cross Timbers GC
+Final <a href="https://www.golfgenius.com/pages/4219908">Results</a></td>
+  <td>Aaron Hickman
+Tyler</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>Denton CC
+Final <a href="https://www.golfgenius.com/pages/3583865">Results</a></td>
+  <td>Jason Schultz
+Allen</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>Trinity Forest GC
+Final <a href="https://www.txga.org/2021-texas-mid-amateur-match-play-leaderboard/?swcfpc=1">Results</a></td>
+  <td>Christopher Wheeler
+Addison</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>Willow Brook CC
+Final <a href="https://www.txga.org/texas-mid-amateur-match-play-leaderboard-2020?swcfpc=1">Results</a></td>
+  <td>Aaron Hickman
+Tyler</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>Shadow Hawk CC
+Final <a href="https://www.txga.org/texas-mid-amateur-match-play-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Colby Harwell
+San Antonio</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>Vaquero Club
+Final <a href="https://www.txga.org/texas-mid-amateur-match-play-2018-leaderboard?swcfpc=1">Results</a></td>
+  <td>Anthony Estorga
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>San Antonio CC</td>
+  <td>Colby Harwell
+San Antonio</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>Northwood Club</td>
+  <td>Zach Atkinson
+Colleyville</td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>Lakeside CC</td>
+  <td>Justin Kaplan
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>Traditions Club</td>
+  <td>Mike Peck
+Irving</td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>Oak Hills CC</td>
+  <td>Mike Booker
+The Woodlands</td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>Gleneagles CC (Queens)</td>
+  <td>Lucas Boyd
+Plano</td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>Escondido</td>
+  <td>Jess Bonneau
+Cypress</td>
+</tr>
+<tr class='tablerow'>
+  <td>2010</td>
+  <td>Dallas Athletic Club</td>
+  <td>John Bearrie
+Arlington</td>
+</tr>
+<tr class='tablerow'>
+  <td>2009</td>
+  <td>Walden on Lake Conroe GC</td>
+  <td>Steve Galko
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2008</td>
+  <td>UT Golf Club</td>
+  <td>Terrence Miskell
+New Braunfels</td>
+</tr>
+<tr class='tablerow'>
+  <td>2007</td>
+  <td>Redstone GC</td>
+  <td>Jon Mathias
+San Antonio</td>
+</tr>
+<tr class='tablerow'>
+  <td>2006</td>
+  <td>Bent Tree CC</td>
+  <td>Alan Clark
+Ennis</td>
+</tr>
+<tr class='tablerow'>
+  <td>2005</td>
+  <td>BraeBurn CC</td>
+  <td>Steve Gill
+Sugar Land</td>
+</tr>
+<tr class='tablerow'>
+  <td>2004</td>
+  <td>Spanish Oaks GC</td>
+  <td>Greg Martin
+Austin</td>
+</tr>
+<tr class='tablerow'>
+  <td>2003</td>
+  <td>Great Hills GC</td>
+  <td>Bob Kearney
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>2002</td>
+  <td>Stonebriar CC</td>
+  <td>Chuck Garner
+Austin</td>
+</tr>
+<tr class='tablerow'>
+  <td>2001</td>
+  <td>Whitestone GC</td>
+  <td>Chip Stewart
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2000</td>
+  <td>Meadowbrook Farms GC</td>
+  <td>Pat Youngs
+League City</td>
+</tr>
+<tr class='tablerow'>
+  <td>1999</td>
+  <td>Hollytree CC</td>
+  <td>Bob Kearney
+Houston</td>
+</tr>
+</table>
+

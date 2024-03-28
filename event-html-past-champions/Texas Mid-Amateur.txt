@@ -1,0 +1,260 @@
+<div class='tablehead'>
+  <h3>Texas Mid-Amateur</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Champion</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>Midland CC
+Final <a href="https://www.golfgenius.com/pages/4181904">Results</a></td>
+  <td>Josh Pasco
+Midland</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>Abilene CC
+Final <a href="https://www.golfgenius.com/pages/3814453">Results</a></td>
+  <td>Ryan O’Rear
+Georgetown</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>The Club at Houston Oaks
+Final <a href="https://www.golfgenius.com/pages/3196531">Results</a></td>
+  <td>Frederick Janneck
+Fort Worth</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>Oak Hills CC
+Final <a href="https://www.txga.org/texas-mid-amateur-leaderboard-2020/?swcfpc=1">Results</a></td>
+  <td>Ryan O’Rear
+Leander</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>Maridoe GC
+Final <a href="https://www.txga.org/texas-mid-amateur-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Christopher Wheeler
+Addison</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>River Oaks CC
+Final <a href="https://www.txga.org/texas-mid-amateur-2018-leaderboard?swcfpc=1">Results</a></td>
+  <td>Colby Harwell
+San Antonio</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>The Club at Comanche Trace</td>
+  <td>Colby Harwell
+San Antonio</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>Spanish Oaks GC</td>
+  <td>Joshua Irving
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>Royal Oaks CC</td>
+  <td>Scott Abbott
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>Escondido GC</td>
+  <td>Terence Begnel
+Midland</td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>The Clubs of Cordillera Ranch</td>
+  <td>Clay Hodge
+Bryan</td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>Dallas Athletic Club</td>
+  <td>John Bearrie
+Arlington</td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>The Club at Carlton Woods</td>
+  <td>Beau Davis
+Abilene</td>
+</tr>
+<tr class='tablerow'>
+  <td>2010</td>
+  <td>Boot Ranch</td>
+  <td>Mike Minicucci
+Austin</td>
+</tr>
+<tr class='tablerow'>
+  <td>2009</td>
+  <td>Austin CC</td>
+  <td>Cameron Osler
+Austin</td>
+</tr>
+<tr class='tablerow'>
+  <td>2008</td>
+  <td>Lakewood CC</td>
+  <td>Rob Couture
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2007</td>
+  <td>Miramont CC</td>
+  <td>Terrence Miskell
+New Braunfels</td>
+</tr>
+<tr class='tablerow'>
+  <td>2006</td>
+  <td>Champions GC</td>
+  <td>Jonathan Mathias
+San Antonio</td>
+</tr>
+<tr class='tablerow'>
+  <td>2005</td>
+  <td>Brook Hollow GC</td>
+  <td>Dan Dunkelberg
+Fort Worth</td>
+</tr>
+<tr class='tablerow'>
+  <td>2004</td>
+  <td>Cimarron Hills CC</td>
+  <td>Alan Hill
+Spring Branch</td>
+</tr>
+<tr class='tablerow'>
+  <td>2003</td>
+  <td>Hollytree CC</td>
+  <td>Mike Booker
+The Woodlands</td>
+</tr>
+<tr class='tablerow'>
+  <td>2002</td>
+  <td>Pine Forest CC</td>
+  <td>Chip Carter
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2001</td>
+  <td>Las Colinas CC</td>
+  <td>Kyle Coody
+Plano</td>
+</tr>
+<tr class='tablerow'>
+  <td>2000</td>
+  <td>Mira Vista CC</td>
+  <td>Dan Dunkelberg
+Fort Worth</td>
+</tr>
+<tr class='tablerow'>
+  <td>1999</td>
+  <td>The Quarry GC</td>
+  <td>Alan Hill
+San Antonio</td>
+</tr>
+<tr class='tablerow'>
+  <td>1998</td>
+  <td>Wichita Falls CC</td>
+  <td>Bob Kearney
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>1997</td>
+  <td>Lakewood CC</td>
+  <td>Jim Mundell
+San Angelo</td>
+</tr>
+<tr class='tablerow'>
+  <td>1996</td>
+  <td>Bentwater Yacht & CC</td>
+  <td>Robert McKinney
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>1995</td>
+  <td>Midland CC</td>
+  <td>Dean Overturf
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1994</td>
+  <td>Crown Colony CC</td>
+  <td>John Grace
+Fort Worth</td>
+</tr>
+<tr class='tablerow'>
+  <td>1993</td>
+  <td>Gleneagles CC</td>
+  <td>John Grace
+Fort Worth</td>
+</tr>
+<tr class='tablerow'>
+  <td>1992</td>
+  <td>Fairway Oaks CC</td>
+  <td>John Grace
+Fort Worth</td>
+</tr>
+<tr class='tablerow'>
+  <td>1991</td>
+  <td>Bent Tree CC</td>
+  <td>John Grace
+Fort Worth</td>
+</tr>
+<tr class='tablerow'>
+  <td>1990</td>
+  <td>Hollytree CC</td>
+  <td>Bill Holstead
+Wichita Falls</td>
+</tr>
+<tr class='tablerow'>
+  <td>1989</td>
+  <td>Deerwood GC</td>
+  <td>David Ojala
+Kingwood</td>
+</tr>
+<tr class='tablerow'>
+  <td>1988</td>
+  <td>Hackberry Creek CC</td>
+  <td>Butch Links
+Gainesville</td>
+</tr>
+<tr class='tablerow'>
+  <td>1987</td>
+  <td>Hollytree CC</td>
+  <td>Mike McClung
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1986</td>
+  <td>Horseshoe Bay Resort</td>
+  <td>Mike Hoyle
+Arlington</td>
+</tr>
+<tr class='tablerow'>
+  <td>1985</td>
+  <td>Kingwood CC</td>
+  <td>Randy Sonnier
+The Woodlands</td>
+</tr>
+<tr class='tablerow'>
+  <td>1984</td>
+  <td>Del Lago CC</td>
+  <td>Butch Links
+Gainesville</td>
+</tr>
+</table>
+

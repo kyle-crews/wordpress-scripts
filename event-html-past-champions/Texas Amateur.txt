@@ -1,0 +1,659 @@
+<div class='tablehead'>
+  <h3>Texas Amateur</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Champion</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>The Clubs at Houston Oaks
+Final <a href="https://www.golfgenius.com/pages/4007865">Results</a></td>
+  <td>Bret Gray
+Universal City</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>Willow Brook CC
+Final <a href="https://www.golfgenius.com/pages/3400984">Results</a></td>
+  <td>Holden Wisener
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>Midland CC
+Final <a href="https://www.txga.org/112th-texas-amateur-leaderboard/?swcfpc=1">Results</a></td>
+  <td>Austyn Reily
+Pottsboro</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>Boot Ranch
+Final <a href="https://www.txga.org/111th-texas-amateur-leaderboard-2020/?swcfpc=1">Results</a></td>
+  <td>Trey Bosco
+Austin</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>Dallas Athletic Club (Blue)
+Final <a href="https://www.golfgenius.com/pages/1936494?no_header=true&banner=false&show_tv_button=exclude">Results</a></td>
+  <td>Ryan Grider
+Lewisville</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>Whispering Pines GC
+Final <a href="http://chrome-extension//efaidnbmnnnibpcajpcglclefindmkaj/https://www.txga.org/wp-content/uploads/sites/10/2020/05/Texas-Am-2018-Leaderboard.pdf?swcfpc=1">Results</a></td>
+  <td>Mitchell Meissner
+San Antonio</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>Lakewood CC</td>
+  <td>Zander Lozano
+San Antonio</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>Oak Hills CC</td>
+  <td>Frederick Wedel
+The Woodlands</td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>Bent Tree CC</td>
+  <td>Michael Cotton
+Katy</td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>Brook Hollow GC</td>
+  <td>Will Zalatoris
+Plano</td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>Lakeside CC</td>
+  <td>Doug Manor
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>The Honors GC of Dallas</td>
+  <td>Thomas Birdsey
+Trophy Club</td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>Austin CC</td>
+  <td>Kelly Kraft
+Denton</td>
+</tr>
+<tr class='tablerow'>
+  <td>2010</td>
+  <td>Royal Oaks CC (Dallas)</td>
+  <td>Chris Ward
+McKinney</td>
+</tr>
+<tr class='tablerow'>
+  <td>2009</td>
+  <td>Miramont CC</td>
+  <td>James Sacheck
+The Woodlands</td>
+</tr>
+<tr class='tablerow'>
+  <td>2008</td>
+  <td>Houston CC</td>
+  <td>Kelly Kraft
+Denton</td>
+</tr>
+<tr class='tablerow'>
+  <td>2007</td>
+  <td>Whispering Pines GC</td>
+  <td>Charlie Holland
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2006</td>
+  <td>Dallas CC</td>
+  <td>Paul Haley
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2005</td>
+  <td>Barton Creek (Canyons)</td>
+  <td>Kevin Schultz
+Richardson</td>
+</tr>
+<tr class='tablerow'>
+  <td>2004</td>
+  <td>The Club at Carlton Woods</td>
+  <td>Zach Atkinson
+Coppell</td>
+</tr>
+<tr class='tablerow'>
+  <td>2003</td>
+  <td>Dallas Athletic Club</td>
+  <td>Ryan Baca
+Richmond</td>
+</tr>
+<tr class='tablerow'>
+  <td>2002</td>
+  <td>Horseshoe Bay Resort</td>
+  <td>Ryan Baca
+Richmond</td>
+</tr>
+<tr class='tablerow'>
+  <td>2001</td>
+  <td>Houston CC</td>
+  <td>Bob Kearney
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>2000</td>
+  <td>Lakewood CC</td>
+  <td>Chip Carter
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1999</td>
+  <td>Deerwood CC</td>
+  <td>Robert McKinney
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>1998</td>
+  <td>Crown Colony CC</td>
+  <td>Chip Stewart
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1997</td>
+  <td>Midland CC</td>
+  <td>Ed Brooks
+Georgetown</td>
+</tr>
+<tr class='tablerow'>
+  <td>1996</td>
+  <td>Laredo CC</td>
+  <td>Bob Hullender
+San Antonio</td>
+</tr>
+<tr class='tablerow'>
+  <td>1995</td>
+  <td>BraeBurn CC</td>
+  <td>Brad Elder
+Plano</td>
+</tr>
+<tr class='tablerow'>
+  <td>1994</td>
+  <td>Mira Vista CC</td>
+  <td>John Grace
+Fort Worth</td>
+</tr>
+<tr class='tablerow'>
+  <td>1993</td>
+  <td>Horseshoe Bay Resort</td>
+  <td>Collin Stoops
+Richardson</td>
+</tr>
+<tr class='tablerow'>
+  <td>1992</td>
+  <td>Dallas Athletic Club</td>
+  <td>Chip Stewart
+Irving</td>
+</tr>
+<tr class='tablerow'>
+  <td>1991</td>
+  <td>The Hills of Lakeway</td>
+  <td>Randy Sonnier
+Kingwood</td>
+</tr>
+<tr class='tablerow'>
+  <td>1990</td>
+  <td>Stonebridge CC</td>
+  <td>Richard Ellis
+Plano</td>
+</tr>
+<tr class='tablerow'>
+  <td>1989</td>
+  <td>Hackberry Creek CC</td>
+  <td>Larry Seligman
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>1988</td>
+  <td>Lochinvar GC</td>
+  <td>Bob Estes
+Abilene</td>
+</tr>
+<tr class='tablerow'>
+  <td>1987</td>
+  <td>The Club at Sonterra</td>
+  <td>Jimmy Adams
+Beaumont</td>
+</tr>
+<tr class='tablerow'>
+  <td>1986</td>
+  <td>Deerwood CC</td>
+  <td>Randy Sonnier
+The Woodlands</td>
+</tr>
+<tr class='tablerow'>
+  <td>1985</td>
+  <td>The Hills of Lakeway</td>
+  <td>Scott Verplank
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1984</td>
+  <td>Horseshoe Bay Resort</td>
+  <td>Scott Verplank
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1983</td>
+  <td>Fairway Oaks CC</td>
+  <td>John Slaughter
+Abilene</td>
+</tr>
+<tr class='tablerow'>
+  <td>1982</td>
+  <td>Crown Colony CC</td>
+  <td>Scott Verplank
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1981</td>
+  <td>Houston CC</td>
+  <td>Mark Brooks
+Fort Worth</td>
+</tr>
+<tr class='tablerow'>
+  <td>1980</td>
+  <td>Brookhaven CC</td>
+  <td>Richard Ellis
+Plano</td>
+</tr>
+<tr class='tablerow'>
+  <td>1979</td>
+  <td>Wichita Falls CC</td>
+  <td>Mark Brooks
+Fort Worth</td>
+</tr>
+<tr class='tablerow'>
+  <td>1978</td>
+  <td>Walden on Lake Conroe GC</td>
+  <td>Bob Gibbons
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1977</td>
+  <td>Riverhill CC</td>
+  <td>Terry Snodgrass
+Arlington</td>
+</tr>
+<tr class='tablerow'>
+  <td>1976</td>
+  <td>Woodhaven CC</td>
+  <td>John Disosway
+San Antonio</td>
+</tr>
+<tr class='tablerow'>
+  <td>1975</td>
+  <td>Austin CC</td>
+  <td>Robert Hoyt
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>1974</td>
+  <td>Royal Oaks CC (Dallas)</td>
+  <td>Mark Witt
+Irving</td>
+</tr>
+<tr class='tablerow'>
+  <td>1973</td>
+  <td>River Oaks CC</td>
+  <td>Tony Pfaff
+Austin</td>
+</tr>
+<tr class='tablerow'>
+  <td>1972</td>
+  <td>Oak Hills CC</td>
+  <td>Ben Crenshaw
+Austin</td>
+</tr>
+<tr class='tablerow'>
+  <td>1971</td>
+  <td>Midland CC</td>
+  <td>Bruce Lietzke
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>1970</td>
+  <td>Great Southwest GC</td>
+  <td>Bill Holstead, Jr.
+Wichita Falls</td>
+</tr>
+<tr class='tablerow'>
+  <td>1969</td>
+  <td>River Plantation G&CC</td>
+  <td>Bruce Ashworth
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>1968</td>
+  <td>River Plantation G&CC</td>
+  <td>Hal Underwood
+Del Rio</td>
+</tr>
+<tr class='tablerow'>
+  <td>1967</td>
+  <td>Pecan Valley CC</td>
+  <td>Lee McDowell
+Bryan</td>
+</tr>
+<tr class='tablerow'>
+  <td>1966</td>
+  <td>Pecan Valley CC</td>
+  <td>Hal Underwood
+Del Rio</td>
+</tr>
+<tr class='tablerow'>
+  <td>1965</td>
+  <td>Midland CC</td>
+  <td>Randy Petri
+Austin</td>
+</tr>
+<tr class='tablerow'>
+  <td>1964</td>
+  <td>Willow Brook CC</td>
+  <td>Marty Fleckman</td>
+</tr>
+<tr class='tablerow'>
+  <td>1963</td>
+  <td>Brook Hollow CC</td>
+  <td>Gene Teter</td>
+</tr>
+<tr class='tablerow'>
+  <td>1962</td>
+  <td>Corpus Christi CC</td>
+  <td>Richard Yates</td>
+</tr>
+<tr class='tablerow'>
+  <td>1961</td>
+  <td>Austin CC</td>
+  <td>John Paul Cain</td>
+</tr>
+<tr class='tablerow'>
+  <td>1960</td>
+  <td>Wichita Falls CC</td>
+  <td>Rufus King</td>
+</tr>
+<tr class='tablerow'>
+  <td>1959</td>
+  <td>Oak Hills CC</td>
+  <td>Charles Coody</td>
+</tr>
+<tr class='tablerow'>
+  <td>1958</td>
+  <td>San Angelo CC</td>
+  <td>Don Massengale</td>
+</tr>
+<tr class='tablerow'>
+  <td>1957</td>
+  <td>Corpus Christi CC</td>
+  <td>Mickey King</td>
+</tr>
+<tr class='tablerow'>
+  <td>1956</td>
+  <td>Dallas CC</td>
+  <td>David Goldman, Jr.</td>
+</tr>
+<tr class='tablerow'>
+  <td>1955</td>
+  <td>River Oaks CC</td>
+  <td>Spec Goldman</td>
+</tr>
+<tr class='tablerow'>
+  <td>1954</td>
+  <td>River Crest CC</td>
+  <td>Ernie Vossler</td>
+</tr>
+<tr class='tablerow'>
+  <td>1953</td>
+  <td>Austin CC</td>
+  <td>Jimmy Connolly</td>
+</tr>
+<tr class='tablerow'>
+  <td>1952</td>
+  <td>Corpus Christi CC</td>
+  <td>Bill Erfurth</td>
+</tr>
+<tr class='tablerow'>
+  <td>1951</td>
+  <td>Corsicana CC</td>
+  <td>Joe Conrad</td>
+</tr>
+<tr class='tablerow'>
+  <td>1950</td>
+  <td>Oak Hills CC</td>
+  <td>Morris Williams, Jr.</td>
+</tr>
+<tr class='tablerow'>
+  <td>1949</td>
+  <td>Dallas CC</td>
+  <td>Reynolds Smith</td>
+</tr>
+<tr class='tablerow'>
+  <td>1948</td>
+  <td>River Oaks CC</td>
+  <td>Dick McCreary</td>
+</tr>
+<tr class='tablerow'>
+  <td>1947</td>
+  <td>Wichita Falls CC</td>
+  <td>Earl Stewart, Jr.</td>
+</tr>
+<tr class='tablerow'>
+  <td>1946</td>
+  <td>Brook Hollow GC</td>
+  <td>Bobby Riegel</td>
+</tr>
+<tr class='tablerow'>
+  <td>1943-1945</td>
+  <td>No Championships Held – WWII</td>
+  <td>–</td>
+</tr>
+<tr class='tablerow'>
+  <td>1942</td>
+  <td>Lakewood CC</td>
+  <td>Ray Kenny</td>
+</tr>
+<tr class='tablerow'>
+  <td>1941</td>
+  <td>Beaumont CC</td>
+  <td>Billy Bob Coffey</td>
+</tr>
+<tr class='tablerow'>
+  <td>1940</td>
+  <td>San Angelo CC</td>
+  <td>Billy Bob Coffey</td>
+</tr>
+<tr class='tablerow'>
+  <td>1939</td>
+  <td>Brook Hollow CC</td>
+  <td>Don Schumacher</td>
+</tr>
+<tr class='tablerow'>
+  <td>1938</td>
+  <td>Colonial CC</td>
+  <td>Bobby Riegel</td>
+</tr>
+<tr class='tablerow'>
+  <td>1937</td>
+  <td>River Oaks CC</td>
+  <td>Reynolds Smith</td>
+</tr>
+<tr class='tablerow'>
+  <td>1936</td>
+  <td>San Antonio CC</td>
+  <td>Don Schumacher</td>
+</tr>
+<tr class='tablerow'>
+  <td>1935</td>
+  <td>Brook Hollow GC</td>
+  <td>Harry Todd</td>
+</tr>
+<tr class='tablerow'>
+  <td>1934</td>
+  <td>Brook Hollow GC</td>
+  <td>Reynolds Smith</td>
+</tr>
+<tr class='tablerow'>
+  <td>1933</td>
+  <td>Houston CC</td>
+  <td>Gus Moreland</td>
+</tr>
+<tr class='tablerow'>
+  <td>1932</td>
+  <td>Texarkana CC</td>
+  <td>Gus Moreland</td>
+</tr>
+<tr class='tablerow'>
+  <td>1931</td>
+  <td>Brook Hollow GC</td>
+  <td>Gus Moreland</td>
+</tr>
+<tr class='tablerow'>
+  <td>1930</td>
+  <td>River Oaks CC</td>
+  <td>W.C. Hunt</td>
+</tr>
+<tr class='tablerow'>
+  <td>1929</td>
+  <td>Brook Hollow GC</td>
+  <td>Dennis Lavender</td>
+</tr>
+<tr class='tablerow'>
+  <td>1928</td>
+  <td>Austin CC</td>
+  <td>Jack Speer</td>
+</tr>
+<tr class='tablerow'>
+  <td>1927</td>
+  <td>San Antonio CC</td>
+  <td>Lewis Levinson</td>
+</tr>
+<tr class='tablerow'>
+  <td>1926</td>
+  <td>River Oaks CC</td>
+  <td>O.S. Carlton, Jr.</td>
+</tr>
+<tr class='tablerow'>
+  <td>1925</td>
+  <td>Spring Lake CC</td>
+  <td>T.B. Cochran</td>
+</tr>
+<tr class='tablerow'>
+  <td>1924</td>
+  <td>Brook Hollow GC</td>
+  <td>T.B. Cochran</td>
+</tr>
+<tr class='tablerow'>
+  <td>1923</td>
+  <td>Galveston CC</td>
+  <td>O.S. Carlton, Jr.</td>
+</tr>
+<tr class='tablerow'>
+  <td>1922</td>
+  <td>River Crest CC</td>
+  <td>C.L. Dexter, Jr.</td>
+</tr>
+<tr class='tablerow'>
+  <td>1921</td>
+  <td>Dallas CC</td>
+  <td>C.L. Dexter, Jr.</td>
+</tr>
+<tr class='tablerow'>
+  <td>1920</td>
+  <td>Houston CC</td>
+  <td>Louis Jacoby</td>
+</tr>
+<tr class='tablerow'>
+  <td>1919</td>
+  <td>San Antonio CC</td>
+  <td>George V. Rotan</td>
+</tr>
+<tr class='tablerow'>
+  <td>1918</td>
+  <td>No Championships Held – WWI</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1917</td>
+  <td>River Crest CC</td>
+  <td>B.H. Brown</td>
+</tr>
+<tr class='tablerow'>
+  <td>1916</td>
+  <td>Houston CC</td>
+  <td>G. Aldredge</td>
+</tr>
+<tr class='tablerow'>
+  <td>1915</td>
+  <td>Dallas CC</td>
+  <td>George V. Rotan</td>
+</tr>
+<tr class='tablerow'>
+  <td>1914</td>
+  <td>San Antonio CC</td>
+  <td>George V. Rotan</td>
+</tr>
+<tr class='tablerow'>
+  <td>1913</td>
+  <td>Houston CC</td>
+  <td>George V. Rotan</td>
+</tr>
+<tr class='tablerow'>
+  <td>1912</td>
+  <td>Dallas CC</td>
+  <td>George V. Rotan</td>
+</tr>
+<tr class='tablerow'>
+  <td>1911</td>
+  <td>Houston CC</td>
+  <td>R.H. Connerly</td>
+</tr>
+<tr class='tablerow'>
+  <td>1910</td>
+  <td>Austin CC</td>
+  <td>R.H. Connerly</td>
+</tr>
+<tr class='tablerow'>
+  <td>1909</td>
+  <td>Galveston CC</td>
+  <td>R.H. Connerly</td>
+</tr>
+<tr class='tablerow'>
+  <td>1908</td>
+  <td>Fort Worth GC</td>
+  <td>R.H. Connerly</td>
+</tr>
+<tr class='tablerow'>
+  <td>1907</td>
+  <td>San Antonio CC</td>
+  <td>Thomas Chilton</td>
+</tr>
+<tr class='tablerow'>
+  <td>1906</td>
+  <td>Dallas CC</td>
+  <td>H.L. Edwards</td>
+</tr>
+</table>
+

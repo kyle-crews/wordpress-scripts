@@ -1,0 +1,798 @@
+<div class='tablehead'>
+  <h3>Texas Junior Amateur</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Boys 15-18</th>
+  <th class='fontbold'>Boys 14 & Under</th>
+  <th class='fontbold'>Girls 15-18</th>
+  <th class='fontbold'>Girls 14 & Under</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>White Bluff Resort
+Final <a href="https://www.golfgenius.com/pages/9233835460642505452">Results</a></td>
+  <td>Price Hill</td>
+  <td>Henry Jackson</td>
+  <td>Kaylee Yuan</td>
+  <td>Megan Lee</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>Horseshoe Bay Resort
+Final <a href="https://www.txga.org/2022-texasjunioramateur-leaderboard/?swcfpc=1">Results</a></td>
+  <td>Jaivir Pande</td>
+  <td>Jack Clancy</td>
+  <td>Kate Pickrell</td>
+  <td>Yixen (Emily) Zhang</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>The Club of Kingwood
+Final <a href="https://www.txga.org/2021-texasjunioramateur-leaderboard/?swcfpc=1">Results</a></td>
+  <td>Aaron Pounds</td>
+  <td>Austin Hofferkamp</td>
+  <td>Maelynn Kim</td>
+  <td>Adrienne Ahn</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>Horseshoe Bay Resort
+Final <a href="https://www.txga.org/2020-texasjunioramateur-leaderboard/?gn_builder=1&swcfpc=1">Results</a></td>
+  <td>Zach Heffernan</td>
+  <td>Brooks Simmons</td>
+  <td>Lauren Nguyen</td>
+  <td>Sidney Robertson</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>The Clubs of Kingwood
+Final <a href="https://www.txga.org/ljt-texas-junior-amateur-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Zach Heffernan</td>
+  <td>Ben Delarosa</td>
+  <td>Nicole Vivier</td>
+  <td>Syndney Givens</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>Horseshoe Bay Resort</td>
+  <td>Jacob Sosa</td>
+  <td>Jase Summy</td>
+  <td>Macy Fox</td>
+  <td>Symran Shah</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>Horseshoe Bay Resort</td>
+  <td>Jansen Smith</td>
+  <td>Gaven Lane</td>
+  <td>Sadie Englemann</td>
+  <td>Lauren Nguyen</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>The Woodlands CC</td>
+  <td>Logan Pate</td>
+  <td>Evan Vo</td>
+  <td>Hailey Jones</td>
+  <td>Gabriella Tomanka</td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>Horseshoe Bay Resort</td>
+  <td>Mason Greenburg</td>
+  <td>Jenson Rogenes</td>
+  <td>Hailey Jones</td>
+  <td>Valerie Routzong</td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>Horseshoe Bay Resort</td>
+  <td>Zach Tracy</td>
+  <td>Parker Coody</td>
+  <td>Hailee Cooper</td>
+  <td>Jackie Barry</td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>Horseshoe Bay Resort</td>
+  <td>Maxwell Miller</td>
+  <td>Garrett Reband</td>
+  <td>Annika Clark</td>
+  <td>Ariana Saenz</td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>Horseshoe Bay Resort</td>
+  <td>Wes Artac</td>
+  <td>Ashton Radvansky</td>
+  <td>Courtney Dow</td>
+  <td>Marissa Marquez</td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>Horseshoe Bay Resort</td>
+  <td>Stratton Nolan</td>
+  <td>Phillip Delisi</td>
+  <td>Lindsey McCurdy</td>
+  <td>Kaitlynn Papp</td>
+</tr>
+<tr class='tablerow'>
+  <td>2010</td>
+  <td>Horseshoe Bay Resort</td>
+  <td>Curtis Reed</td>
+  <td>William Martinez</td>
+  <td>Jessica LaBarbera</td>
+  <td>Courtney Dow</td>
+</tr>
+<tr class='tablerow'>
+  <td>2009</td>
+  <td>Jimmy Clay & Roy Kizer GC</td>
+  <td>Gabriel Anthony</td>
+  <td>Stratton Nolan</td>
+  <td>Elena Warren</td>
+  <td>Eji Kwon</td>
+</tr>
+<tr class='tablerow'>
+  <td>2008</td>
+  <td>Barton Creek Resort</td>
+  <td>Jade Scott</td>
+  <td>Cole Kennedy</td>
+  <td>Sandra Lee</td>
+  <td>Grace Choi</td>
+</tr>
+<tr class='tablerow'>
+  <td>2007</td>
+  <td>Barton Creek Resort</td>
+  <td>Zach Fischer</td>
+  <td>Jordan Spieth</td>
+  <td>Gabriella Dominguez</td>
+  <td>Christine Lin</td>
+</tr>
+<tr class='tablerow'>
+  <td>2006</td>
+  <td>Barton Creek Resort</td>
+  <td>Alex Moon</td>
+  <td>Brendan Redfern</td>
+  <td>Kelsey Vines</td>
+  <td>Emily Collins</td>
+</tr>
+<tr class='tablerow'>
+  <td>2005</td>
+  <td>Barton Creek Resort</td>
+  <td>Will Griffin</td>
+  <td>Justin Wileman</td>
+  <td>Kelsey Vines</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2004</td>
+  <td></td>
+  <td>Dustin Morris</td>
+  <td></td>
+  <td>Daphne Vines</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2003</td>
+  <td></td>
+  <td>Clay Hodge</td>
+  <td></td>
+  <td>Leisl Hasbrouck</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2002</td>
+  <td></td>
+  <td>Kyle Roberts</td>
+  <td></td>
+  <td>Leisl Hasbrouck</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2001</td>
+  <td></td>
+  <td>Jace Moore</td>
+  <td></td>
+  <td>Christine Kovalcik</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2000</td>
+  <td></td>
+  <td>Justin Fraley</td>
+  <td></td>
+  <td>Afton Messenger</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1999</td>
+  <td></td>
+  <td>Dwayne Morley</td>
+  <td></td>
+  <td>Ashley Rollins</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1998</td>
+  <td></td>
+  <td>Tim Sanchez</td>
+  <td></td>
+  <td>Jacqueline Ey</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1997</td>
+  <td></td>
+  <td>Corbin King</td>
+  <td></td>
+  <td>Christi Cano</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1996</td>
+  <td></td>
+  <td>Charleton Dechert</td>
+  <td></td>
+  <td>Angela Stanford</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1995</td>
+  <td></td>
+  <td>Hunter Haas</td>
+  <td></td>
+  <td>Courtney McGowan</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1994</td>
+  <td></td>
+  <td>Hunter Haas</td>
+  <td></td>
+  <td>Courtney McGowan</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1993</td>
+  <td></td>
+  <td>Andy Addudell</td>
+  <td></td>
+  <td>Sorrel Richmond</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1992</td>
+  <td></td>
+  <td>Greg Harper</td>
+  <td></td>
+  <td>Kelly Kingston</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1991</td>
+  <td></td>
+  <td>Patrick Barley</td>
+  <td></td>
+  <td>Jenny Bartley</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1990</td>
+  <td></td>
+  <td>Jason Bryant</td>
+  <td></td>
+  <td>Heather Haas</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1989</td>
+  <td></td>
+  <td>Jon Bohannon</td>
+  <td></td>
+  <td>Jennifer Turner</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1988</td>
+  <td></td>
+  <td>Cade Stone</td>
+  <td></td>
+  <td>Laura Myers</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1987</td>
+  <td></td>
+  <td>Hans Haas</td>
+  <td></td>
+  <td>Bronwyn Burke</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1986</td>
+  <td></td>
+  <td>Charlie Rudd</td>
+  <td></td>
+  <td>Barbara Blackwell</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1985</td>
+  <td></td>
+  <td>Omar Uresti</td>
+  <td></td>
+  <td>Michelle Hapack</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1984</td>
+  <td></td>
+  <td>Craig Jones</td>
+  <td></td>
+  <td>Kelly Green</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1983</td>
+  <td></td>
+  <td>Clark Dennis</td>
+  <td></td>
+  <td>Buffy Klein</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1982</td>
+  <td></td>
+  <td>Stuart Hendley</td>
+  <td></td>
+  <td>Kimberly Davis</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1981</td>
+  <td></td>
+  <td>Scott Verplank</td>
+  <td></td>
+  <td>Amy Dover</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1980</td>
+  <td></td>
+  <td>Jeff Maggert</td>
+  <td></td>
+  <td>Rita Moore</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1979</td>
+  <td></td>
+  <td>Tommy Hathaway</td>
+  <td></td>
+  <td>Kim Shipman</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1978</td>
+  <td></td>
+  <td>Mike Neece</td>
+  <td></td>
+  <td>Jackie Bertram</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1977</td>
+  <td></td>
+  <td>Andy Dillard</td>
+  <td></td>
+  <td>Kim Bauer</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1976</td>
+  <td></td>
+  <td>Mark Hendrix</td>
+  <td></td>
+  <td>Missie McGeorge</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1975</td>
+  <td></td>
+  <td>Steve Bowman</td>
+  <td></td>
+  <td>Sandra Yount</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1974</td>
+  <td></td>
+  <td>Jeff New</td>
+  <td></td>
+  <td>Lisa Perkinson</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1973</td>
+  <td></td>
+  <td>Lindy Miller</td>
+  <td></td>
+  <td>Linda Hart</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1972</td>
+  <td></td>
+  <td>Dale Blackburn</td>
+  <td></td>
+  <td>Mary Beth Morgan</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1971</td>
+  <td></td>
+  <td>Keith Fergus</td>
+  <td></td>
+  <td>Brenda Goldsmith</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1970</td>
+  <td></td>
+  <td>Wally Payne</td>
+  <td></td>
+  <td>Nancy Hager</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1969</td>
+  <td></td>
+  <td>Ben Crenshaw</td>
+  <td></td>
+  <td>Frances Collins</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1968</td>
+  <td></td>
+  <td>Bruce Leitzke</td>
+  <td></td>
+  <td>Nancy Hager</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1967</td>
+  <td></td>
+  <td>Ben Crenshaw</td>
+  <td></td>
+  <td>Nancy Hager</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1966</td>
+  <td></td>
+  <td>Terry Jastrow</td>
+  <td></td>
+  <td>Lou Dill</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1965</td>
+  <td></td>
+  <td>Sandy Adelman</td>
+  <td></td>
+  <td>Kathy Ahern</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1964</td>
+  <td></td>
+  <td>Lester Lundell</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1963</td>
+  <td></td>
+  <td>Hal Underwood</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1962</td>
+  <td></td>
+  <td>Davis Eichelberger</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1961</td>
+  <td></td>
+  <td>Bill Wade</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1960</td>
+  <td></td>
+  <td>Mark Hopkins</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1959</td>
+  <td></td>
+  <td>Robert Wittig</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1958</td>
+  <td></td>
+  <td>Mike Hornsby</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1957</td>
+  <td></td>
+  <td>Christie Flanagan</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1956</td>
+  <td></td>
+  <td>Billy Martindale</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1955</td>
+  <td></td>
+  <td>Hal Kuntz</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1954</td>
+  <td></td>
+  <td>Billy Green</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1953</td>
+  <td></td>
+  <td>Dick Goerich</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1952</td>
+  <td></td>
+  <td>Stan Mosel</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1951</td>
+  <td></td>
+  <td>Joe Conrad</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1950</td>
+  <td></td>
+  <td>Wesley Ellis, Jr.</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1949</td>
+  <td></td>
+  <td>Morris Williams, Jr.,</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1948</td>
+  <td></td>
+  <td>L.M. Crannell, Jr.</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1947</td>
+  <td></td>
+  <td>Billy Maxwell</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1946</td>
+  <td></td>
+  <td>Gene Towry</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1945</td>
+  <td></td>
+  <td>Herbert Reid, Jr.</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1944</td>
+  <td></td>
+  <td>Joe Ruby</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1943</td>
+  <td></td>
+  <td>L.M. Crannell, Jr.</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1942</td>
+  <td></td>
+  <td>James McNair</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1941</td>
+  <td></td>
+  <td>Stanley Callahan</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1940</td>
+  <td></td>
+  <td>Jimmy Chasey</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1939</td>
+  <td></td>
+  <td>Joe Moore, Jr.</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1938</td>
+  <td></td>
+  <td>Buck Luce</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1937</td>
+  <td></td>
+  <td>Buck Luce</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1936</td>
+  <td></td>
+  <td>Lee Brandt, Jr.</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1935</td>
+  <td></td>
+  <td>Buck Luce</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1934</td>
+  <td></td>
+  <td>Don Schumacher</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1933</td>
+  <td></td>
+  <td>Tom Lawrence</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1932</td>
+  <td></td>
+  <td>Jack Lee</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1931</td>
+  <td></td>
+  <td>Bernard Schriever</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1930</td>
+  <td></td>
+  <td>Jerry Hill</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1929</td>
+  <td></td>
+  <td>Loraine Young</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1928</td>
+  <td></td>
+  <td>Joe Greenwood, Jr.</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>1927</td>
+  <td></td>
+  <td>Hugh Carpenter</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+</table>
+

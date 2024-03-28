@@ -1,0 +1,99 @@
+<div class='tablehead'>
+  <h3>Medalist Hill Country #2</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Open Division</th>
+  <th class='fontbold'>Senior Division</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>Lighthouse CC
+Final <a href="https://www.golfgenius.com/pages/3924614">Results</a></td>
+  <td>Austen Fulmer</td>
+  <td>Boyd Bruchmiller</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>Vaaler Creek GC
+Final <a href="https://tga-medalisthillcountry2-vaalercreekgolf.golfgenius.com/pages/3351226">Results</a></td>
+  <td>Jermain Rakoczy</td>
+  <td>Brad Greebon</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>Forest Creek GC
+Final <a href="https://www.golfgenius.com/pages/2795170">Results</a></td>
+  <td>Austen Fulmer</td>
+  <td>Chris Hartenstein</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>Forest Creek GC
+Final <a href="https://www.txga.org/medalist-hill-country-2-2020-leaderboard/?swcfpc=1">Results</a></td>
+  <td>Alex Woodward</td>
+  <td>Chris Hartenstein</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>Grey Rock GC
+Final <a href="https://www.txga.org/medalist-hill-country-2-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Jay Reynolds</td>
+  <td>Brad Gray</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>Grey Rock GC
+Final <a href="https://www.txga.org/medalist-hill-country-2-2018-leaderboard?swcfpc=1">Results</a></td>
+  <td>Daniel Martinez</td>
+  <td>Larry Nunez</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>Onion Creek Club</td>
+  <td>Jay Reynolds</td>
+  <td>Chris Landherr</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>Onion Creek Club</td>
+  <td>Jay Reynolds</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>The Club at Comanche Trace</td>
+  <td>Bob Kearney</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>Lakecliff CC</td>
+  <td>Michael Randle</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>Lakecliff CC</td>
+  <td>Daniel Martinez</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>Canyon Springs GC</td>
+  <td>Carlos De Leon</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>Riverhill CC</td>
+  <td>Nikolas Arrenbrecht</td>
+  <td></td>
+</tr>
+</table>
+

@@ -1,0 +1,114 @@
+<div class='tablehead'>
+  <h3>Medalist North #1</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Open Division</th>
+  <th class='fontbold'>Senior Division</th>
+</tr>
+<tr class='tablerow'>
+  <td>2024</td>
+  <td>Grapevine GC
+Final <a href="https://www.golfgenius.com/pages/4553163">Results</a></td>
+  <td>Brad Phelps</td>
+  <td>Donald O’Connor</td>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>Indian Creek GC (Lakes)
+Final <a href="https://www.golfgenius.com/pages/3902404">Results</a></td>
+  <td>Ben Carter</td>
+  <td>John Stollenwerck</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>The GC of Dallas
+Final <a href="https://tga-medalistnorth1-thegolfclubofdallas.golfgenius.com/pages/3349651">Results</a></td>
+  <td>Riley Goff
+Jeffrey Juillerat</td>
+  <td>Dick Stone</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>The Courses at Watters Creek
+Final <a href="https://www.golfgenius.com/pages/2792396">Results</a></td>
+  <td>Matthew Barth
+Rodrigo Medina Vasquez</td>
+  <td>John Schaefer</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>The GC at Fossil Creek
+Final <a href="https://www.txga.org/medalist-north-1-2020-leaderboard/?swcfpc=1">Results</a></td>
+  <td>Chaz Cobb</td>
+  <td>Jim Quinn</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>The Courses at Watters Creek
+Final <a href="https://www.txga.org/medalist-north-1-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Bill Sharpe</td>
+  <td>Jim Quinn</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>Thorntree CC
+Final <a href="https://www.txga.org/medalist-north-1-2018-leaderboard?swcfpc=1">Results</a></td>
+  <td>Michael Anthony Rome</td>
+  <td>Marshall Morgan</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>The Courses at Watters Creek</td>
+  <td>Bill Steen</td>
+  <td>Doug Hopkins-Jones</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>Sky Creek Ranch GC</td>
+  <td>Joshua Irving</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>The Tribute at The Colony GC</td>
+  <td>Jered Taylor</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>The Tribute at The Colony GC</td>
+  <td>Ted Waldrip</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>Waterview GC</td>
+  <td>A.J. Morris</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>Pecan Hollow GC</td>
+  <td>John Bearrie</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>Fossil Creek GC</td>
+  <td>Aaron Hickman</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2010</td>
+  <td>The Lakes at Castle Hills</td>
+  <td>Drew Carlson</td>
+  <td></td>
+</tr>
+</table>
+

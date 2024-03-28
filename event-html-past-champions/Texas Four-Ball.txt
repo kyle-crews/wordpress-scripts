@@ -1,0 +1,309 @@
+<div class='tablehead'>
+  <h3>Texas Four-Ball</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Champions</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>Pinecrest CC
+Final <a href="https://www.golfgenius.com/pages/4267122">Results</a></td>
+  <td>Rory Smith
+Aaron Hickman</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>The Club at Comanche Trace
+Final <a href="https://www.golfgenius.com/pages/3753813">Results</a></td>
+  <td>Chase Clayton
+Josh Logan</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>Horseshoe Bay Resort (Apple Rock)
+Final <a href="https://www.golfgenius.com/pages/2863285">Results</a></td>
+  <td>Colby Amparan
+Gary Ezmerlian</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>Bentwater Yacht & CC (Weiskopf)
+Final <a href="https://www.golfgenius.com/pages/2531966">Results</a></td>
+  <td>Russell Williams
+Jason Schultz</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>Wichita Falls CC
+Final <a href="https://www.txga.org/texas-four-ball-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Joshua Irving
+Will Osborne</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>Maridoe GC
+Final <a href="https://www.txga.org/texas-four-ball-2018-leaderboard?swcfpc=1">Results</a></td>
+  <td>Jace Moore
+Jordan Woolf</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>Crown Colony CC</td>
+  <td>Will Osborne
+Joshua Irving</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>The Clubs of Cordillera Ranch</td>
+  <td>Trey Hallmark
+Terrence Miskell</td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>Traditions Club</td>
+  <td>John Bearrie
+Aaron Hickman</td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>The Clubs of Kingwood
+(Deerwood Club)</td>
+  <td>Brian Madison
+Casey Holloman</td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>Horseshoe Bay Resort (Summit)</td>
+  <td>Josh Swanson
+Joe Bendetti</td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>Crown Colony CC</td>
+  <td>John Bearrie
+Aaron Hickman</td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>The Club at Comanche Trace</td>
+  <td>John Bearrie
+Aaron Hickman</td>
+</tr>
+<tr class='tablerow'>
+  <td>2010</td>
+  <td>Stonebriar CC</td>
+  <td>Rob Couture
+Dru Fenimore</td>
+</tr>
+<tr class='tablerow'>
+  <td>2009</td>
+  <td>The Woodlands CC</td>
+  <td>Seth Thornton
+Nick Kondra</td>
+</tr>
+<tr class='tablerow'>
+  <td>2008</td>
+  <td>The Club at Sonterra</td>
+  <td>Rob Couture
+Blanton Hansen</td>
+</tr>
+<tr class='tablerow'>
+  <td>2007</td>
+  <td>Horseshoe Bay Resort</td>
+  <td>Terrence Miskell
+Trip Kuehne</td>
+</tr>
+<tr class='tablerow'>
+  <td>2006</td>
+  <td>Gleneagles CC</td>
+  <td>Artie Starrs
+David Leachman</td>
+</tr>
+<tr class='tablerow'>
+  <td>2005</td>
+  <td>The Club at Comanche Trace</td>
+  <td>Kent Weise
+Chris James</td>
+</tr>
+<tr class='tablerow'>
+  <td>2004</td>
+  <td>The Club at Comanche Trace</td>
+  <td>Titus Harris, III
+Terrence Miskell</td>
+</tr>
+<tr class='tablerow'>
+  <td>2003</td>
+  <td>The Club at Comanche Trace</td>
+  <td>Terrence Miskell
+Titus Harris, III</td>
+</tr>
+<tr class='tablerow'>
+  <td>2002</td>
+  <td>Riverhill CC</td>
+  <td>Chris Goodspeed
+Bill Steen</td>
+</tr>
+<tr class='tablerow'>
+  <td>2001</td>
+  <td>Riverhill CC</td>
+  <td>Alan Hill
+Jeff Harvey</td>
+</tr>
+<tr class='tablerow'>
+  <td>2000</td>
+  <td>Riverhill CC</td>
+  <td>Rick Gorbell
+Chuck Gardner</td>
+</tr>
+<tr class='tablerow'>
+  <td>1999</td>
+  <td>Riverhill CC</td>
+  <td>Magnus Liljenberg
+Jeff Hiemenz</td>
+</tr>
+<tr class='tablerow'>
+  <td>1998</td>
+  <td>Riverhill CC</td>
+  <td>Mike Allen
+Billy Clagett</td>
+</tr>
+<tr class='tablerow'>
+  <td>1997</td>
+  <td>Riverhill CC</td>
+  <td>Chris Goodspeed
+Bill Steen</td>
+</tr>
+<tr class='tablerow'>
+  <td>1996</td>
+  <td>Riverhill CC</td>
+  <td>Chris Goodspeed
+Bill Steen</td>
+</tr>
+<tr class='tablerow'>
+  <td>1995</td>
+  <td>Riverhill CC</td>
+  <td>Reggie Howell
+Eric Joseph</td>
+</tr>
+<tr class='tablerow'>
+  <td>1994</td>
+  <td>Riverhill CC</td>
+  <td>Gary Hardin
+Mark Walton</td>
+</tr>
+<tr class='tablerow'>
+  <td>1993</td>
+  <td>Riverhill CC</td>
+  <td>Wade Smith
+Greg Cole</td>
+</tr>
+<tr class='tablerow'>
+  <td>1992</td>
+  <td>Riverhill CC</td>
+  <td>Sam Susser
+Lane Fowler</td>
+</tr>
+<tr class='tablerow'>
+  <td>1991</td>
+  <td>Riverhill CC</td>
+  <td>Steve Thompson
+Ron Folk</td>
+</tr>
+<tr class='tablerow'>
+  <td>1990</td>
+  <td>Riverhill CC</td>
+  <td>Fred Kyselka
+Bill Dodd</td>
+</tr>
+<tr class='tablerow'>
+  <td>1989</td>
+  <td>Riverhill CC</td>
+  <td>Bill Holstead
+John Pigg</td>
+</tr>
+<tr class='tablerow'>
+  <td>1988</td>
+  <td>Riverhill CC</td>
+  <td>David Ojala
+Robert McKinney</td>
+</tr>
+<tr class='tablerow'>
+  <td>1987</td>
+  <td>Riverhill CC</td>
+  <td>Randy Sonnier
+David Ojala</td>
+</tr>
+<tr class='tablerow'>
+  <td>1986</td>
+  <td>Riverhill CC</td>
+  <td>Jimmy Chapman
+Scott Fitzgerald</td>
+</tr>
+<tr class='tablerow'>
+  <td>1985</td>
+  <td>Riverhill CC</td>
+  <td>Jim Mundell
+John Shepperson</td>
+</tr>
+<tr class='tablerow'>
+  <td>1984</td>
+  <td>Riverhill CC</td>
+  <td>Randy Sonnier
+Woody Thames</td>
+</tr>
+<tr class='tablerow'>
+  <td>1983</td>
+  <td>Riverhill CC</td>
+  <td>Jim Mundell
+John Shepperson</td>
+</tr>
+<tr class='tablerow'>
+  <td>1982</td>
+  <td>Riverhill CC</td>
+  <td>Jim Savage
+Jim Mundell</td>
+</tr>
+<tr class='tablerow'>
+  <td>1981</td>
+  <td>Riverhill CC</td>
+  <td>Jess Claiborne
+Bill Holstead</td>
+</tr>
+<tr class='tablerow'>
+  <td>1980</td>
+  <td>Riverhill CC</td>
+  <td>Jess Claiborne
+Bill Holstead</td>
+</tr>
+<tr class='tablerow'>
+  <td>1979</td>
+  <td>Riverhill CC</td>
+  <td>Jess Claiborne
+Bill Holstead</td>
+</tr>
+<tr class='tablerow'>
+  <td>1978</td>
+  <td>Riverhill CC</td>
+  <td>Bill Penn
+Roane Puett</td>
+</tr>
+<tr class='tablerow'>
+  <td>1977</td>
+  <td>Dallas Athletic Club</td>
+  <td>Jimmy Wheeler
+Mike DeLarios</td>
+</tr>
+<tr class='tablerow'>
+  <td>1976</td>
+  <td>Dallas Athletic Club</td>
+  <td>Jimmy Wheeler
+Wade Adams</td>
+</tr>
+</table>
+

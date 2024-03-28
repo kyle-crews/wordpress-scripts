@@ -1,0 +1,24 @@
+<div class='tablehead'>
+  <h3>Tournament of Champions</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Open Division</th>
+  <th class='fontbold'>Senior Division</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>Champions Golf Club
+Final <a href="https://www.golfgenius.com/pages/4181170">Results</a></td>
+  <td>Luke Condon
+Kaufman</td>
+  <td>Tray Tyner
+Kerrville</td>
+</tr>
+</table>
+

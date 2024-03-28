@@ -1,0 +1,98 @@
+<div class='tablehead'>
+  <h3>Medalist Country #3</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Open Division</th>
+  <th class='fontbold'>Senior Division</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>Lady Bird Johnson GC
+Final <a href="https://www.golfgenius.com/pages/3904484">Results</a></td>
+  <td>Luke Condon</td>
+  <td>Tray Tyner</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>Frio Valley Ranch
+Final <a href="https://tga-2022medalisthillcountry3friovalleyra.golfgenius.com/pages/3353906">Results</a></td>
+  <td>Kiley Hardy</td>
+  <td>James Duttweiler</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>Frio Valley Ranch
+Final <a href="https://www.golfgenius.com/pages/2793488">Results</a></td>
+  <td>Blake Benson</td>
+  <td>Brad Greebon</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>Canceled Due to COVID-19</td>
+  <td>–</td>
+  <td>–</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>Vaaler Creek GC
+Final <a href="https://www.txga.org/medalist-hill-country-3-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Daniel Gurtner</td>
+  <td>Brad Gray</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>The Club at Sonterra
+Final <a href="https://www.txga.org/medalist-hill-country-3-2018-leaderboard?swcfpc=1">Results</a></td>
+  <td>Mark Miller</td>
+  <td>Rob Ormand</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>The Club at Sonterra</td>
+  <td>Jake Goodman</td>
+  <td>Bill Woodley</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>The Club at Sonterra</td>
+  <td>John Pierce</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>Teravista GC</td>
+  <td>Brian Marchiori</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>The Club at Comanche Trace</td>
+  <td>Ross Wilhelm</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>The Club at Comanche Trace</td>
+  <td>Pat Youngs</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>The Club at Comanche Trace</td>
+  <td>Trevor Hyde</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>The Club at Comanche Trace</td>
+  <td>Ed Sanchez</td>
+  <td></td>
+</tr>
+</table>
+

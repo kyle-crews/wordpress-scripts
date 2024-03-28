@@ -1,0 +1,153 @@
+<div class='tablehead'>
+  <h3>North Four-Ball</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Champions</th>
+</tr>
+<tr class='tablerow'>
+  <td>2024</td>
+  <td>Whitestone GC
+Final <a href="https://www.golfgenius.com/pages/4664689">Results</a></td>
+  <td>Bobby Massa
+Ryan Zamorano</td>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>The Courses at Watters Creek
+Final <a href="https://www.golfgenius.com/pages/3942591">Results</a></td>
+  <td>Bobby Massa
+Ryan Zamorano</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>Tempest GC
+Final <a href="https://www.golfgenius.com/pages/3354106">Results</a></td>
+  <td>Bobby Massa
+Christopher Wheeler</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>Brookhaven CC
+Final <a href="https://www.golfgenius.com/pages/2792240">Results</a></td>
+  <td>Derek Abel
+Christopher Wheeler</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>Stonebridge Ranch CC (Dye)
+Final <a href="https://www.txga.org/north-four-ball-2020-leaderboard/?swcfpc=1">Results</a></td>
+  <td>Nick Hance
+Matthew Griggs</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>Walnut Creek CC (Pecan)
+Final <a href="https://www.txga.org/north-four-ball-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Dru Fenimore
+Jason Schultz</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>Texas Star GC
+Final <a href="https://www.txga.org/north-four-ball-2018-leaderboard?swcfpc=1">Results</a></td>
+  <td>Will Osborne
+Joshua Irving</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>Sky Creek Ranch GC</td>
+  <td>Will Osborne
+Joshua Irving</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>Waterchase GC</td>
+  <td>Brad Gibson
+Zach Atkinson</td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>Tierra Verde GC</td>
+  <td>Michael Ray
+Joshua Irving</td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>Hurricane Creek CC</td>
+  <td>Peyton Cook
+Scott Maurer</td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>Stonebriar CC (Fazio)</td>
+  <td>Peyton Cook
+Scott Maurer</td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>The Honors GC of Dallas</td>
+  <td>Patrick Cawthorne
+Lewis Stephenson</td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>The GC of Dallas</td>
+  <td>Paul Atkinson
+Zach Atkinson</td>
+</tr>
+<tr class='tablerow'>
+  <td>2010</td>
+  <td>Mira Vista CC</td>
+  <td>Jason Felps
+Colby Harwell</td>
+</tr>
+<tr class='tablerow'>
+  <td>2009</td>
+  <td>Texas Star GC</td>
+  <td>Bell Steen, Rick Houston
+Senior Division: Chuck Palmer, Jim Parrish</td>
+</tr>
+<tr class='tablerow'>
+  <td>2008</td>
+  <td>Castle Hills CC</td>
+  <td>Casey Weiss, Luke Kane
+Senior Division: Chip Stewart, Larry Thomas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2007</td>
+  <td>Eagle’s Bluff CC</td>
+  <td>Jason Felps
+Ken Patterson</td>
+</tr>
+<tr class='tablerow'>
+  <td>2006</td>
+  <td>Sky Creek Ranch GC</td>
+  <td>Stephen Love
+Joe Owen</td>
+</tr>
+<tr class='tablerow'>
+  <td>2005</td>
+  <td>Links at Waterchase</td>
+  <td>Roger Marcincuk
+Kevin Pedigo</td>
+</tr>
+<tr class='tablerow'>
+  <td>2004</td>
+  <td>Links at Lands End</td>
+  <td>Greg Boots
+Alex Buecking</td>
+</tr>
+<tr class='tablerow'>
+  <td>2003</td>
+  <td>Robson Ranch GC</td>
+  <td>Greg Boots
+Alex Buecking</td>
+</tr>
+</table>
+

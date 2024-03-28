@@ -1,0 +1,98 @@
+<div class='tablehead'>
+  <h3>Medalist Country #1</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Open Division</th>
+  <th class='fontbold'>Senior Division</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>Frio Valley Ranch
+Final <a href="https://www.golfgenius.com/pages/3904424">Results</a></td>
+  <td>Brandon Rougeau</td>
+  <td>John Donahue</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>The Club at Comanche Trace
+Final <a href="https://tga-medalisthillcountry1-theclubatcomanc.golfgenius.com/pages/3351153">Results</a></td>
+  <td>Paul Bryant</td>
+  <td>James Duttweiler</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>The Club at Comanche Trace
+Final <a href="https://www.golfgenius.com/pages/2801618">Results</a></td>
+  <td>Todd Albert</td>
+  <td>John Long</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>The Bandit GC
+Final <a href="https://www.txga.org/medalist-hill-country-1-2020-leaderboard/?swcfpc=1">Results</a></td>
+  <td>Darren Cook</td>
+  <td>Charles Young</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>The Club at Comanche Trace
+Final <a href="https://www.txga.org/medalist-hill-country-1-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Alan Crosswell-Karam</td>
+  <td>Craig Hurlbert</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>Onion Creek Club</td>
+  <td>Clint White</td>
+  <td>Rob Ormand</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>The Club at Comanche Trace</td>
+  <td>Jay Reynolds</td>
+  <td>Ron Hackelman</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>The Club at Comanche Trace</td>
+  <td>Jordan Cowart</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>The Club at Sonterra</td>
+  <td>Jacob Davis</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>The Club at Sonterra</td>
+  <td>Ross Wilhelm</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>The Club at Sonterra</td>
+  <td>Austin Jordan</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>Scott Schreiner GC</td>
+  <td>Trevor Hyde</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>River Crossing Club</td>
+  <td>Terrence Miskell</td>
+  <td></td>
+</tr>
+</table>
+

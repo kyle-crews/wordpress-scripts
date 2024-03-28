@@ -1,0 +1,90 @@
+<div class='tablehead'>
+  <h3>Texas Super Senior Amateur</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Super Senior Division</th>
+  <th class='fontbold'>Legends Division</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>White Bluff Resort (New)
+Final <a href="https://www.golfgenius.com/pages/4041216">Results</a></td>
+  <td>Chuck Gardner
+Texarkana</td>
+  <td>Bill Holstead
+Wichita Falls</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>Sugar Creek CC (Trent/Jones)
+Final <a href="https://www.golfgenius.com/pages/3434413">Results</a></td>
+  <td>Chuck Gardner
+Texarkana</td>
+  <td>Wayne Franklin
+Abilene</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>Ridglea CC (North)
+Final <a href="https://www.golfgenius.com/pages/2963864">Results</a></td>
+  <td>Wayne Wright
+Aledo</td>
+  <td>Mike Rice
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>No Championship Held – Covid-19</td>
+  <td>–</td>
+  <td>–</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>Ridgewood CC
+Final <a href="https://www.txga.org/texas-super-senior-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Ed Brooks
+Fort Worth</td>
+  <td>Richard Lundy
+Amarillo</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>White Wing GC
+Final <a href="https://www.txga.org/texas-super-senior-2018-leaderboard?swcfpc=1">Results</a></td>
+  <td>Mickey Jones
+Odessa</td>
+  <td>Don Grider
+Georgetown</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>Pine Dunes GC</td>
+  <td>Wayne Wright
+Aledo</td>
+  <td>Don Grider
+Georgetown</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>Las Colinas CC</td>
+  <td>Jerry Hudgins
+Kingwood</td>
+  <td>Andy Wall
+Tyler</td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>Fair Oaks Ranch G&CC</td>
+  <td>John Grace
+Fort Worth</td>
+  <td>Bob Hullender
+San Antonio</td>
+</tr>
+</table>
+

@@ -1,0 +1,542 @@
+<div class='tablehead'>
+  <h3>Texas Senior Amateur</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Champion</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>Amarillo CC
+Final <a href="https://www.golfgenius.com/pages/4363746">Results</a></td>
+  <td>Gary Durbin
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>Champions GC (Jackrabbit)
+Final <a href="https://tga-85thtexassenioramateur.golfgenius.com/pages/3583207">Results</a></td>
+  <td>Sandy Pierce
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>Westwood GC
+Final <a href="https://www.golfgenius.com/pages/2938560">Results</a></td>
+  <td>Gary Durbin
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>Ridgewood CC
+Final <a href="https://www.txga.org/texas-senior-amateur-leaderboard-2020?swcfpc=1">Results</a></td>
+  <td>John Derrick
+Waco</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>Deerwood Club
+Final <a href="https://www.golfgenius.com/v2tournaments/1343802?player_stats_for_portal=true&round_index=3">Results</a></td>
+  <td>Gary Durbin
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>The Hills CC (Signature)
+Final <a href="http://chrome-extension//efaidnbmnnnibpcajpcglclefindmkaj/https://www.amateurgolf.com/images/uploads/00047657.pdf">Results</a></td>
+  <td>Lewis Stephenson
+Mansfield</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>Royal Oaks CC</td>
+  <td>Ed Brooks
+Fort Worth</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>Escondido G&LC</td>
+  <td>Lewis Stephenson
+Mansfield</td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>Oak Hills CC</td>
+  <td>Mike Booker
+The Woodlands</td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>Shady Oaks CC</td>
+  <td>Senior – Ron Kilby
+Super Senior – Jody Vasquez</td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>Willow Brook CC</td>
+  <td>Senior – Mike Peck
+Super Senior – Mike Arnold</td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>Miramont CC</td>
+  <td>Senior – Chuck Palmer
+Super Senior – Michael Hopson</td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>Bent Tree CC</td>
+  <td>Senior – Ron Kilby
+Super Senior – Michael Hastings</td>
+</tr>
+<tr class='tablerow'>
+  <td>2010</td>
+  <td>Odessa CC</td>
+  <td>Senior – John Grace
+Super Senior – Donny Anderson</td>
+</tr>
+<tr class='tablerow'>
+  <td>2009</td>
+  <td>The Club at Comanche Trace</td>
+  <td>Senior – David Pocknall
+Super Senior – Andy Wall</td>
+</tr>
+<tr class='tablerow'>
+  <td>2008</td>
+  <td>Royal Oaks CC (Houston)</td>
+  <td>Senior – Tom Doughtie
+Super Senior – Joe Cadle</td>
+</tr>
+<tr class='tablerow'>
+  <td>2007</td>
+  <td>Dallas Athletic Club</td>
+  <td>Senior – Mike Arnold
+Super Senior – Andy Wall</td>
+</tr>
+<tr class='tablerow'>
+  <td>2006</td>
+  <td>San Antonio CC</td>
+  <td>Senior – Chris Larsen
+Super Senior – Mike Rice</td>
+</tr>
+<tr class='tablerow'>
+  <td>2005</td>
+  <td>Bentwater Yacht & CC</td>
+  <td>Senior – Mike Rice
+Super Senior – Mike Rice</td>
+</tr>
+<tr class='tablerow'>
+  <td>2004</td>
+  <td>Tapatio Springs Resort</td>
+  <td>Senior – Andy Wall
+Super Senior – Tom Miller</td>
+</tr>
+<tr class='tablerow'>
+  <td>2003</td>
+  <td>Willow Brook CC</td>
+  <td>Senior – Mike Hopson
+Super Senior – Chuck Ribelin</td>
+</tr>
+<tr class='tablerow'>
+  <td>2002</td>
+  <td>Ridglea CC</td>
+  <td>Senior – Billy Clagett
+Super Senior – Thomas Mattox</td>
+</tr>
+<tr class='tablerow'>
+  <td>2001</td>
+  <td>Brook Hollow CC</td>
+  <td>Senior – Joe Cadle
+Super Senior – Don Addington</td>
+</tr>
+<tr class='tablerow'>
+  <td>2000</td>
+  <td>Horseshoe Bay Resort</td>
+  <td>Senior – Bob Hullender
+Super Senior – Carey Schulten</td>
+</tr>
+<tr class='tablerow'>
+  <td>1999</td>
+  <td>Las Colinas CC</td>
+  <td>Senior – Mike Rice
+Super Senior – Meil Laminack</td>
+</tr>
+<tr class='tablerow'>
+  <td>1998</td>
+  <td>Oak Hills CC</td>
+  <td>Senior – Don Addington
+Super Senior – Don Addington</td>
+</tr>
+<tr class='tablerow'>
+  <td>1997</td>
+  <td>Corpus Christi CC</td>
+  <td>Don Addington
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1996</td>
+  <td>Abilene CC</td>
+  <td>Joe Cadle
+Wichita Falls</td>
+</tr>
+<tr class='tablerow'>
+  <td>1995</td>
+  <td>Wichita Falls CC</td>
+  <td>Mike Rice
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>1994</td>
+  <td>Brookhaven CC</td>
+  <td>Bob Hullender
+San Antonio</td>
+</tr>
+<tr class='tablerow'>
+  <td>1993</td>
+  <td>Willow Brook CC</td>
+  <td>Bink Michella
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1992</td>
+  <td>Corpus Christi CC</td>
+  <td>Bob Hullender
+San Antonio</td>
+</tr>
+<tr class='tablerow'>
+  <td>1991</td>
+  <td>Abiline CC</td>
+  <td>Don Webster
+Austin</td>
+</tr>
+<tr class='tablerow'>
+  <td>1990</td>
+  <td>Wichita Falls CC</td>
+  <td>Don Addington
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1989</td>
+  <td>Beaumont CC</td>
+  <td>Bill Pen
+Austin</td>
+</tr>
+<tr class='tablerow'>
+  <td>1988</td>
+  <td>The Club at Sonterra</td>
+  <td>Don Addington
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1987</td>
+  <td>Lubbock CC</td>
+  <td>Don Addington
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1986</td>
+  <td>Hollytree CC</td>
+  <td>Don Addington
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1985</td>
+  <td>Harlingen CC</td>
+  <td>Lee Fischer
+Harlingen</td>
+</tr>
+<tr class='tablerow'>
+  <td>1984</td>
+  <td>Wichita Falls CC</td>
+  <td>Bill Trombley
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1983</td>
+  <td>Crown Colony CC</td>
+  <td>Bill Trombley
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1982</td>
+  <td>Abilene CC</td>
+  <td>Ed Hopkins
+Whitney</td>
+</tr>
+<tr class='tablerow'>
+  <td>1981</td>
+  <td>Brookhaven CC</td>
+  <td>Tee Avarello
+Fort Worth</td>
+</tr>
+<tr class='tablerow'>
+  <td>1980</td>
+  <td>Corpus Christi CC</td>
+  <td>Tee Avarello
+Fort Worth</td>
+</tr>
+<tr class='tablerow'>
+  <td>1979</td>
+  <td>Midland CC</td>
+  <td>Bill Trombley
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1978</td>
+  <td>Dallas Athletic Club</td>
+  <td>Bill Trombley
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1977</td>
+  <td>Harlingen CC</td>
+  <td>Bill Trombley
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1976</td>
+  <td>Wichita Falls CC</td>
+  <td>Joe Clayton
+Baytown</td>
+</tr>
+<tr class='tablerow'>
+  <td>1975</td>
+  <td>Lakewood CC</td>
+  <td>Frank Guernsey
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>1974</td>
+  <td>Galveston CC</td>
+  <td>Frank Guernsey
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>1973</td>
+  <td>Beaumont CC</td>
+  <td>Joe Clayton
+Baytown</td>
+</tr>
+<tr class='tablerow'>
+  <td>1972</td>
+  <td>Ridgewood CC</td>
+  <td>Aubrey L. Wolf
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>1971</td>
+  <td>Dallas Athletic Club</td>
+  <td>Bud McKinney
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1970</td>
+  <td>Midland CC</td>
+  <td>Col. D.W. Eisenhart
+San Antonio</td>
+</tr>
+<tr class='tablerow'>
+  <td>1969</td>
+  <td>Corpus Christi CC</td>
+  <td>Raleigh Selby
+Overton</td>
+</tr>
+<tr class='tablerow'>
+  <td>1968</td>
+  <td>Glen Lakes CC (Dallas)</td>
+  <td>Web Wilder
+San Antonio</td>
+</tr>
+<tr class='tablerow'>
+  <td>1967</td>
+  <td>Corpus Christi CC</td>
+  <td>Web Wilder
+San Antonio</td>
+</tr>
+<tr class='tablerow'>
+  <td>1966</td>
+  <td>Beaumont CC</td>
+  <td>Bud McKinney
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1965</td>
+  <td>San Antonio CC</td>
+  <td>Frank Sparks
+Pasadena</td>
+</tr>
+<tr class='tablerow'>
+  <td>1964</td>
+  <td>River Oaks CC</td>
+  <td>Bud McKinney
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1963</td>
+  <td>San Antonio CC</td>
+  <td>Maj.Gen. John F. Bohlender
+San Antonio</td>
+</tr>
+<tr class='tablerow'>
+  <td>1962</td>
+  <td>San Antonio CC</td>
+  <td>Raymond Marshall
+Lubbock</td>
+</tr>
+<tr class='tablerow'>
+  <td>1961</td>
+  <td>Dallas Athletic Club</td>
+  <td>Pete Edwards
+Lubbock</td>
+</tr>
+<tr class='tablerow'>
+  <td>1960</td>
+  <td>Corpus Christi CC</td>
+  <td>Hezzie Carson
+San Angelo</td>
+</tr>
+<tr class='tablerow'>
+  <td>1959</td>
+  <td>San Antonio CC</td>
+  <td>Raymond Marschall
+Lubbock</td>
+</tr>
+<tr class='tablerow'>
+  <td>1958</td>
+  <td>San Antonio CC</td>
+  <td>M.C. Kelley
+Baytown</td>
+</tr>
+<tr class='tablerow'>
+  <td>1957</td>
+  <td>San Antonio CC</td>
+  <td>E.E. Tyler
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>1956</td>
+  <td>San Antonio CC</td>
+  <td>J.L. Stark
+San Antonio</td>
+</tr>
+<tr class='tablerow'>
+  <td>1955</td>
+  <td>San Antonio CC</td>
+  <td>Bartlett Cocke
+San Antonio</td>
+</tr>
+<tr class='tablerow'>
+  <td>1954</td>
+  <td>San Antonio CC</td>
+  <td>John Marston
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1953</td>
+  <td>San Antonio CC</td>
+  <td>Col. W.R. Stickman
+San Antonio</td>
+</tr>
+<tr class='tablerow'>
+  <td>1952</td>
+  <td>San Antonio CC</td>
+  <td>H.L. Scallorn
+Abilene</td>
+</tr>
+<tr class='tablerow'>
+  <td>1951</td>
+  <td>San Antonio CC</td>
+  <td>John Marston
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1950</td>
+  <td>San Antonio CC</td>
+  <td>C.M. Trout
+Lubbock</td>
+</tr>
+<tr class='tablerow'>
+  <td>1949</td>
+  <td>San Antonio CC</td>
+  <td>Ed Anderson
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>1948</td>
+  <td>San Antonio CC</td>
+  <td>Ike Handy
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>1947</td>
+  <td>San Antonio CC</td>
+  <td>W.C. Hunt
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>1946</td>
+  <td>San Antonio CC</td>
+  <td>H.L. Scallorn
+Abilene</td>
+</tr>
+<tr class='tablerow'>
+  <td>1945</td>
+  <td>San Antonio CC</td>
+  <td>K.D. Harrison
+San Antonio</td>
+</tr>
+<tr class='tablerow'>
+  <td>1944</td>
+  <td>San Antonio CC</td>
+  <td>R.H. Nix
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1943</td>
+  <td>San Antonio CC</td>
+  <td>W.C. Hunt
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>1942</td>
+  <td>San Antonio CC</td>
+  <td>R.H. Nix
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1941</td>
+  <td>San Antonio CC</td>
+  <td>R.H. Nix
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1940</td>
+  <td>San Antonio CC</td>
+  <td>George Rotan
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>1939</td>
+  <td>San Antonio CC</td>
+  <td>George Rotan
+Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>1938</td>
+  <td>San Antonio CC</td>
+  <td>Ernest L. Brown
+San Antonio</td>
+</tr>
+<tr class='tablerow'>
+  <td>1937</td>
+  <td>San Antonio CC</td>
+  <td>Capt. B.R. Luscomb
+San Antonio</td>
+</tr>
+</table>
+

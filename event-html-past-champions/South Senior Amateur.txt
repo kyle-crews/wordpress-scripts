@@ -1,0 +1,110 @@
+<div class='tablehead'>
+  <h3>South Senior Amateur</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Senior Division</th>
+  <th class='fontbold'>Super Senior Division</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>Gus Wortham Park GC
+Final <a href="https://www.golfgenius.com/pages/3940457">Results</a></td>
+  <td>Mike Booker</td>
+  <td>Charles Reeve</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>Beaumont CC
+Final <a href="https://www.golfgenius.com/pages/3434520">Results</a></td>
+  <td>Mike Booker</td>
+  <td>Mike Vacek</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>Kissing Tree GC
+Final <a href="https://www.golfgenius.com/pages/2865138">Results</a></td>
+  <td>David Ortego</td>
+  <td>Mike Vacek</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>No Championship Held – Covid-19</td>
+  <td>–</td>
+  <td>–</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>River Crossing Club
+Final <a href="https://www.txga.org/south-senior-amateur-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Scott Smith</td>
+  <td>Mike Arnold</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>Walden on Lake Conroe GC
+Final <a href="https://www.txga.org/south-senior-amateur-2018-leaderboard?swcfpc=1">Results</a></td>
+  <td>John Pierce</td>
+  <td>Kent Samuel</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>Golfcrest CC</td>
+  <td>Mike Booker</td>
+  <td>Mike Arnold</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>Cypresswood GC</td>
+  <td>Mike Booker</td>
+  <td>Peter Kirchner</td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>Woodforest GC</td>
+  <td>David Ortega</td>
+  <td>Chris Larson</td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>Raveneuax CC</td>
+  <td>Richard Hageman</td>
+  <td>Marshall Utterson</td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>Sugar Creek CC</td>
+  <td>Charlie Jabbia</td>
+  <td>L.D. Clopton</td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>The Club at Falcon Point</td>
+  <td>Mike Booker</td>
+  <td>Peter Kirchner</td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>The Woodlands CC</td>
+  <td>Michael Allen</td>
+  <td>Chip Puhl</td>
+</tr>
+<tr class='tablerow'>
+  <td>2010</td>
+  <td>Pine Forest CC</td>
+  <td>David Pocknall</td>
+  <td>Mike Schell</td>
+</tr>
+<tr class='tablerow'>
+  <td>2009</td>
+  <td>River Ridge GC</td>
+  <td>Dennis Emerson</td>
+  <td>Don Grider</td>
+</tr>
+</table>
+

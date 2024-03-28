@@ -1,0 +1,22 @@
+<div class='tablehead'>
+  <h3>Medalist Gulf Coast #2</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Open Division</th>
+  <th class='fontbold'>Senior Division</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>Quail Valley GC
+Final Results</td>
+  <td>Padden Nelson</td>
+  <td>William Shock</td>
+</tr>
+</table>
+

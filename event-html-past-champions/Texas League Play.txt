@@ -1,0 +1,115 @@
+<div class='tablehead'>
+  <h3>Texas League Play</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>League Play Champion</th>
+  <th class='fontbold'>Club City</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>DeCordova Bend CC
+Final <a href="https://www.golfgenius.com/pages/4236188">Results</a></td>
+  <td>Granbury</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>Odessa CC (Old)
+Final <a href="https://www.golfgenius.com/pages/3609177">Results</a></td>
+  <td>Odessa</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>Green Tree CC
+Final <a href="https://www.golfgenius.com/pages/3026069">Results</a></td>
+  <td>Midland</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>Nutcracker GC
+Final <a href="https://www.txga.org/texas-league-play-2020-leaderboard-copy?swcfpc=1">Results</a></td>
+  <td>Granbury</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>Odessa CC
+Final <a href="https://www.txga.org/texas-league-play-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Odessa</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>DeCordova Bend CC
+Final <a href="https://www.txga.org/texas-league-play-2018-leaderboard?swcfpc=1">Results</a></td>
+  <td>Granbury</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>The GC of Houston</td>
+  <td>Houston</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>Dallas Athletic Club</td>
+  <td>Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>Tierra Verde GC</td>
+  <td>Arlington</td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>Tierra Verde GC</td>
+  <td>Arlington</td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>Tierra Verde GC</td>
+  <td>Arlington</td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>Green Tree CC</td>
+  <td>Midland</td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>Dallas Athletic Club</td>
+  <td>Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2010</td>
+  <td>Dallas Athletic Club</td>
+  <td>Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2009</td>
+  <td>Woodforest GC</td>
+  <td>Montgomery</td>
+</tr>
+<tr class='tablerow'>
+  <td>2008</td>
+  <td>DeCordova Bend CC</td>
+  <td>Granbury – Spring Season</td>
+</tr>
+<tr class='tablerow'>
+  <td>2008</td>
+  <td>Woodforest GC</td>
+  <td>Montgomery – Fall Season</td>
+</tr>
+<tr class='tablerow'>
+  <td>2007</td>
+  <td>DeCordova Bend CC</td>
+  <td>Granbury</td>
+</tr>
+<tr class='tablerow'>
+  <td>2006</td>
+  <td>Brook Hollow GC</td>
+  <td>Dallas</td>
+</tr>
+</table>
+

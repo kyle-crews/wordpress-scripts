@@ -1,0 +1,15 @@
+<div class='tablehead'>
+  <h3>Template</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Senior Division</th>
+  <th class='fontbold'>Super Senior Division</th>
+</tr>
+</table>
+

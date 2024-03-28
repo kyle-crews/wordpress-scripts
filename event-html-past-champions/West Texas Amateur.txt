@@ -1,0 +1,513 @@
+<div class='tablehead'>
+  <h3>West Texas Amateur</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Champion</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>Diamondback National CC
+Final <a href="https://www.golfgenius.com/pages/4199988">Results</a></td>
+  <td>Will Adams
+Odessa</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>Odessa CC (Old)
+Final <a href="https://www.txga.org/22-west-texas-amateur-leaderboard/?swcfpc=1">Results</a></td>
+  <td>Casey Carnes
+Schertz</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>Abilene CC (South)
+Final <a href="https://www.txga.org/west-texas-amateur-leaderboard-2021/?swcfpc=1">Results</a></td>
+  <td>Garrett Leek
+Brock</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>Bentwood CC
+Final <a href="https://www.txga.org/west-texas-amateur-leaderboard-2020?swcfpc=1">Results</a></td>
+  <td>J.T. Pittman
+Monahans</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>Midland CC
+Final <a href="https://www.txga.org/west-texas-amateur-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Jackson Markham
+Dallas</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>Amarillo CC
+Final <a href="https://www.txga.org/west-texas-amateur-2018-leaderboard?swcfpc=1">Results</a></td>
+  <td>David Bolen
+Lubbock</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>Lubbock CC</td>
+  <td>David Bolen
+Lubbock</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>The Rawls Course</td>
+  <td>Andrew Wyatt
+Midland</td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>Odessa CC</td>
+  <td>Mark Jones, Jr.
+Odessa</td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>Wichita Falls CC</td>
+  <td>Wes Artac
+Kingwood</td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>San Angelo CC</td>
+  <td>Logan Philley
+Robert Lee</td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>Diamondback GC</td>
+  <td>Mike Calef
+Irving</td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>Abilene CC</td>
+  <td>Beau Davis
+Fort Worth</td>
+</tr>
+<tr class='tablerow'>
+  <td>2010</td>
+  <td></td>
+  <td>Luke Kane</td>
+</tr>
+<tr class='tablerow'>
+  <td>2009</td>
+  <td></td>
+  <td>Alex Moon</td>
+</tr>
+<tr class='tablerow'>
+  <td>2008</td>
+  <td></td>
+  <td>Trey Todd</td>
+</tr>
+<tr class='tablerow'>
+  <td>2007</td>
+  <td></td>
+  <td>Colton Williams</td>
+</tr>
+<tr class='tablerow'>
+  <td>2006</td>
+  <td></td>
+  <td>Tom Doughtie</td>
+</tr>
+<tr class='tablerow'>
+  <td>2005</td>
+  <td></td>
+  <td>Trey Todd</td>
+</tr>
+<tr class='tablerow'>
+  <td>2004</td>
+  <td></td>
+  <td>Jason Lindgren</td>
+</tr>
+<tr class='tablerow'>
+  <td>2003</td>
+  <td></td>
+  <td>Will Doughtie</td>
+</tr>
+<tr class='tablerow'>
+  <td>2002</td>
+  <td></td>
+  <td>Doug Hopton Jones</td>
+</tr>
+<tr class='tablerow'>
+  <td>2001</td>
+  <td></td>
+  <td>Conway Jordan</td>
+</tr>
+<tr class='tablerow'>
+  <td>2000</td>
+  <td></td>
+  <td>Craig McAlpine</td>
+</tr>
+<tr class='tablerow'>
+  <td>1999</td>
+  <td></td>
+  <td>Tim Phillips</td>
+</tr>
+<tr class='tablerow'>
+  <td>1998</td>
+  <td></td>
+  <td>Michael Pruitt</td>
+</tr>
+<tr class='tablerow'>
+  <td>1997</td>
+  <td></td>
+  <td>Conway Jordan</td>
+</tr>
+<tr class='tablerow'>
+  <td>1996</td>
+  <td></td>
+  <td>John Grace</td>
+</tr>
+<tr class='tablerow'>
+  <td>1995</td>
+  <td></td>
+  <td>Ed Brooks</td>
+</tr>
+<tr class='tablerow'>
+  <td>1994</td>
+  <td></td>
+  <td>Jason Brooks</td>
+</tr>
+<tr class='tablerow'>
+  <td>1993</td>
+  <td></td>
+  <td>Jaxon Brigman</td>
+</tr>
+<tr class='tablerow'>
+  <td>1992</td>
+  <td></td>
+  <td>Mickey Scott</td>
+</tr>
+<tr class='tablerow'>
+  <td>1991</td>
+  <td></td>
+  <td>Jaxon Brigman</td>
+</tr>
+<tr class='tablerow'>
+  <td>1990</td>
+  <td></td>
+  <td>Tom Doughtie</td>
+</tr>
+<tr class='tablerow'>
+  <td>1989</td>
+  <td></td>
+  <td>Tom Doughtie</td>
+</tr>
+<tr class='tablerow'>
+  <td>1988</td>
+  <td></td>
+  <td>Scott Haynie</td>
+</tr>
+<tr class='tablerow'>
+  <td>1987</td>
+  <td></td>
+  <td>Bob Estes</td>
+</tr>
+<tr class='tablerow'>
+  <td>1986</td>
+  <td></td>
+  <td>Mike Sandley</td>
+</tr>
+<tr class='tablerow'>
+  <td>1985</td>
+  <td></td>
+  <td>Steve Whiteside</td>
+</tr>
+<tr class='tablerow'>
+  <td>1984</td>
+  <td></td>
+  <td>Arnold Salinas</td>
+</tr>
+<tr class='tablerow'>
+  <td>1983</td>
+  <td></td>
+  <td>Jerry Boeka</td>
+</tr>
+<tr class='tablerow'>
+  <td>1982</td>
+  <td></td>
+  <td>John Slaughter</td>
+</tr>
+<tr class='tablerow'>
+  <td>1981</td>
+  <td></td>
+  <td>David Daniel</td>
+</tr>
+<tr class='tablerow'>
+  <td>1980</td>
+  <td></td>
+  <td>Bill DeTournillion, Jr.</td>
+</tr>
+<tr class='tablerow'>
+  <td>1979</td>
+  <td></td>
+  <td>Bill Holstead</td>
+</tr>
+<tr class='tablerow'>
+  <td>1978</td>
+  <td></td>
+  <td>Bill Holstead</td>
+</tr>
+<tr class='tablerow'>
+  <td>1977</td>
+  <td></td>
+  <td>John Horne</td>
+</tr>
+<tr class='tablerow'>
+  <td>1976</td>
+  <td></td>
+  <td>Jeff Mitchell</td>
+</tr>
+<tr class='tablerow'>
+  <td>1975</td>
+  <td></td>
+  <td>Jeff Mitchell</td>
+</tr>
+<tr class='tablerow'>
+  <td>1974</td>
+  <td></td>
+  <td>Dick Weston</td>
+</tr>
+<tr class='tablerow'>
+  <td>1973</td>
+  <td></td>
+  <td>John Granger</td>
+</tr>
+<tr class='tablerow'>
+  <td>1972</td>
+  <td></td>
+  <td>John Farquhar</td>
+</tr>
+<tr class='tablerow'>
+  <td>1971</td>
+  <td></td>
+  <td>John Farquhar</td>
+</tr>
+<tr class='tablerow'>
+  <td>1970</td>
+  <td></td>
+  <td>Robert McKinney</td>
+</tr>
+<tr class='tablerow'>
+  <td>1969</td>
+  <td></td>
+  <td>Robert McKinney</td>
+</tr>
+<tr class='tablerow'>
+  <td>1968</td>
+  <td></td>
+  <td>Jerry Barrier</td>
+</tr>
+<tr class='tablerow'>
+  <td>1967</td>
+  <td></td>
+  <td>Bill Holstead</td>
+</tr>
+<tr class='tablerow'>
+  <td>1966</td>
+  <td></td>
+  <td>Dave Lawson</td>
+</tr>
+<tr class='tablerow'>
+  <td>1965</td>
+  <td></td>
+  <td>Hal Underwood</td>
+</tr>
+<tr class='tablerow'>
+  <td>1964</td>
+  <td></td>
+  <td>Eddie Smith</td>
+</tr>
+<tr class='tablerow'>
+  <td>1963</td>
+  <td></td>
+  <td>Jack Williams</td>
+</tr>
+<tr class='tablerow'>
+  <td>1962</td>
+  <td></td>
+  <td>Ross Mitchell</td>
+</tr>
+<tr class='tablerow'>
+  <td>1961</td>
+  <td></td>
+  <td>Ed Hopkins</td>
+</tr>
+<tr class='tablerow'>
+  <td>1960</td>
+  <td></td>
+  <td>Dean Strack</td>
+</tr>
+<tr class='tablerow'>
+  <td>1959</td>
+  <td></td>
+  <td>Charles Coody</td>
+</tr>
+<tr class='tablerow'>
+  <td>1958</td>
+  <td></td>
+  <td>Ray Ferguson</td>
+</tr>
+<tr class='tablerow'>
+  <td>1957</td>
+  <td></td>
+  <td>Jack Williams</td>
+</tr>
+<tr class='tablerow'>
+  <td>1956</td>
+  <td></td>
+  <td>Arlyn Scott</td>
+</tr>
+<tr class='tablerow'>
+  <td>1955</td>
+  <td></td>
+  <td>Jimmie Russell</td>
+</tr>
+<tr class='tablerow'>
+  <td>1954</td>
+  <td></td>
+  <td>Ernie Vossler</td>
+</tr>
+<tr class='tablerow'>
+  <td>1953</td>
+  <td></td>
+  <td>Jack Williams</td>
+</tr>
+<tr class='tablerow'>
+  <td>1952</td>
+  <td></td>
+  <td>Don Cherry</td>
+</tr>
+<tr class='tablerow'>
+  <td>1951</td>
+  <td></td>
+  <td>Don Cherry</td>
+</tr>
+<tr class='tablerow'>
+  <td>1950</td>
+  <td></td>
+  <td>Bob French</td>
+</tr>
+<tr class='tablerow'>
+  <td>1949</td>
+  <td></td>
+  <td>Bob French</td>
+</tr>
+<tr class='tablerow'>
+  <td>1948</td>
+  <td></td>
+  <td>Billy Maxwell</td>
+</tr>
+<tr class='tablerow'>
+  <td>1947</td>
+  <td></td>
+  <td>Doug Jones</td>
+</tr>
+<tr class='tablerow'>
+  <td>1946</td>
+  <td></td>
+  <td>Doug Jones</td>
+</tr>
+<tr class='tablerow'>
+  <td>1942-1945</td>
+  <td>No Championships Held – WWII</td>
+  <td>–</td>
+</tr>
+<tr class='tablerow'>
+  <td>1941</td>
+  <td></td>
+  <td>J.T. Hammett</td>
+</tr>
+<tr class='tablerow'>
+  <td>1940</td>
+  <td></td>
+  <td>Morris Norton</td>
+</tr>
+<tr class='tablerow'>
+  <td>1939</td>
+  <td></td>
+  <td>Iverson Martin</td>
+</tr>
+<tr class='tablerow'>
+  <td>1938</td>
+  <td></td>
+  <td>Joe Bihl</td>
+</tr>
+<tr class='tablerow'>
+  <td>1937</td>
+  <td></td>
+  <td>Morris Norton</td>
+</tr>
+<tr class='tablerow'>
+  <td>1936</td>
+  <td></td>
+  <td>Morris Norton</td>
+</tr>
+<tr class='tablerow'>
+  <td>1935</td>
+  <td></td>
+  <td>Johnnie Marsten</td>
+</tr>
+<tr class='tablerow'>
+  <td>1934</td>
+  <td></td>
+  <td>Carnes Wilson</td>
+</tr>
+<tr class='tablerow'>
+  <td>1933</td>
+  <td></td>
+  <td>Carnes Wilson</td>
+</tr>
+<tr class='tablerow'>
+  <td>1932</td>
+  <td></td>
+  <td>James Phillips</td>
+</tr>
+<tr class='tablerow'>
+  <td>1931</td>
+  <td></td>
+  <td>Charles Quails</td>
+</tr>
+<tr class='tablerow'>
+  <td>1930</td>
+  <td></td>
+  <td>Dennis Lavender</td>
+</tr>
+<tr class='tablerow'>
+  <td>1929</td>
+  <td></td>
+  <td>N.C. Bussey</td>
+</tr>
+<tr class='tablerow'>
+  <td>1928</td>
+  <td></td>
+  <td>Dennis Lavender</td>
+</tr>
+<tr class='tablerow'>
+  <td>1927</td>
+  <td></td>
+  <td>Buddy Raines</td>
+</tr>
+<tr class='tablerow'>
+  <td>1926</td>
+  <td></td>
+  <td>Al Badger</td>
+</tr>
+<tr class='tablerow'>
+  <td>1925</td>
+  <td></td>
+  <td>Alex Collins</td>
+</tr>
+</table>
+

@@ -1,0 +1,130 @@
+<div class='tablehead'>
+  <h3>South Mid-Amateur</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Champion</th>
+</tr>
+<tr class='tablerow'>
+  <td>2024</td>
+  <td>South Shore Harbour CC
+Final <a href="https://www.golfgenius.com/pages/4574971">Results</a></td>
+  <td>Nathan Sheen</td>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>The Clubs of Kingwood (Forest)
+Final <a href="https://www.golfgenius.com/pages/3991140">Results</a></td>
+  <td>Logan Thomason</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>Forest Creek GC
+Final <a href="https://www.golfgenius.com/pages/3365899">Results</a></td>
+  <td>Daniel Depasquale</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>Bentwater Yacht & CC (Weiskopf)
+Final <a href="https://www.golfgenius.com/pages/2793702">Results</a></td>
+  <td>Robert Gwin</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>No Championship Held – Covid-19</td>
+  <td>–</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>Grey Rock GC
+Final <a href="https://www.txga.org/south-mid-amateur-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Devin Young</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>The Club at Falcon Point
+Final <a href="https://www.txga.org/south-mid-amateur-2018-leaderboard?swcfpc=1">Results</a></td>
+  <td>Broc Haymon</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>Magnolia Creek GC</td>
+  <td>Broc Hayman</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>Eagle Pointe GC</td>
+  <td>Danny Simmerman</td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>Lakecliff CC</td>
+  <td>Jay Reynolds</td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>Sterling CC</td>
+  <td>Tony Soerries</td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>Grey Rock GC</td>
+  <td>Ed Sanchez</td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>The Club at Sonterra</td>
+  <td>David Pocknall</td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>Riverbend CC</td>
+  <td>Mick McCaffrey</td>
+</tr>
+<tr class='tablerow'>
+  <td>2010</td>
+  <td>Magnolia Creek GC</td>
+  <td>Randy Lance</td>
+</tr>
+<tr class='tablerow'>
+  <td>2009</td>
+  <td>Pine Forest CC</td>
+  <td>David Pocknall</td>
+</tr>
+<tr class='tablerow'>
+  <td>2008</td>
+  <td>Lake Windcrest GC</td>
+  <td>David Pocknall</td>
+</tr>
+<tr class='tablerow'>
+  <td>2007</td>
+  <td>Cypresswood GC</td>
+  <td>John Dowdall</td>
+</tr>
+<tr class='tablerow'>
+  <td>2006</td>
+  <td>Woodforest GC</td>
+  <td>Randy Lance</td>
+</tr>
+<tr class='tablerow'>
+  <td>2005</td>
+  <td>Timber Creek GC</td>
+  <td>Mike Booker</td>
+</tr>
+<tr class='tablerow'>
+  <td>2004</td>
+  <td>High Meadow Ranch GC</td>
+  <td>Greg Martin</td>
+</tr>
+<tr class='tablerow'>
+  <td>2003</td>
+  <td>Redstone GC</td>
+  <td>Rodney Thompson</td>
+</tr>
+</table>
+

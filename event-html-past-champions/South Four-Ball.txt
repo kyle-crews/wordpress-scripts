@@ -1,0 +1,153 @@
+<div class='tablehead'>
+  <h3>South Four-Ball</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Champions</th>
+</tr>
+<tr class='tablerow'>
+  <td>2024</td>
+  <td>Bearkat Course
+Final <a href="https://www.golfgenius.com/pages/4554848">Results</a></td>
+  <td>Robert Gwin
+Clay Fullick</td>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>Vaaler Creek GC
+Final <a href="https://www.golfgenius.com/pages/3962446">Results</a></td>
+  <td>Jonathan Alden
+Austen Fulmer</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>Sterling CC
+Final <a href="https://www.golfgenius.com/pages/3365340">Results</a></td>
+  <td>Matt Williams
+Ryan Haselden</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>Quail Valley GC (El Dorado)
+Final <a href="https://www.golfgenius.com/pages/2791491">Results</a></td>
+  <td>Todd Albert
+Kevin Liberto</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>The Clubs of Kingwood (Lake)
+Final <a href="https://www.txga.org/south-four-ball-2020-leaderboard/?swcfpc=1">Results</a></td>
+  <td>Shawn Stoute
+Toby Zeringue</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>Sugar Creek CC (Trent/Jones)
+Final <a href="https://www.txga.org/south-four-ball-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Robert Skeen
+Davaughn Robinson</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>Teravista GC
+Final <a href="https://www.txga.org/south-four-ball-2018-leaderboard?swcfpc=1">Results</a></td>
+  <td>Braden Graham
+Luke Antonelli</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>Bentwater Yacht & CC</td>
+  <td>Grant Schroeder
+Sam Hochhauser</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>Clubs of Kingwood</td>
+  <td>Mark Mattox
+Ed Martinez</td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>Willow Creek GC</td>
+  <td>John Dowdall
+Randy Lance</td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>Quail Valley GC</td>
+  <td>John Dowdall
+Randy Lance</td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>Golfcrest CC</td>
+  <td>Dennis Bosworth
+Shaun Helmle</td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>Magnolia Creek GC</td>
+  <td>John Dowdall
+Kip Guidry</td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>Pine Forest CC</td>
+  <td>David Pocknall
+Trevor Hyde</td>
+</tr>
+<tr class='tablerow'>
+  <td>2010</td>
+  <td>The Club at Falcon Point</td>
+  <td>Giles Kibbe
+Chris Davis</td>
+</tr>
+<tr class='tablerow'>
+  <td>2009</td>
+  <td>Sienna Plantation</td>
+  <td>James Dalthrop + Tim Thompson
+Senior Division: Dave Bozeman + Sandy McCall</td>
+</tr>
+<tr class='tablerow'>
+  <td>2008</td>
+  <td>South Shore Harbour</td>
+  <td>Jonathon Shipley + John Dowdall
+Senior Division: Bob Smith + Doug Escue</td>
+</tr>
+<tr class='tablerow'>
+  <td>2007</td>
+  <td>River Ridge GC</td>
+  <td>Trevor Hyde
+Sean Westacott</td>
+</tr>
+<tr class='tablerow'>
+  <td>2006</td>
+  <td>River Ridge GC</td>
+  <td>Trevor Hyde
+Sean Westacott</td>
+</tr>
+<tr class='tablerow'>
+  <td>2005</td>
+  <td>Cypresswood GC</td>
+  <td>David Pocknall
+Tod Hensarling</td>
+</tr>
+<tr class='tablerow'>
+  <td>2004</td>
+  <td>Avery Ranch GC</td>
+  <td>Wayne Smith
+Keith Lundquist</td>
+</tr>
+<tr class='tablerow'>
+  <td>2003</td>
+  <td>Palms at Pleasure Island</td>
+  <td>Giles Kibbe
+Dan Ducote</td>
+</tr>
+</table>
+

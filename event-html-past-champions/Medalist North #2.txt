@@ -1,0 +1,104 @@
+<div class='tablehead'>
+  <h3>Medalist North #2</h3>
+  <button class='theme-button'>
+    VIEW ALL PAST CHAMPIONS
+  </button>
+</div>
+<table>
+<tr>
+  <th class='fontbold'>Year</th>
+  <th class='fontbold'>Host Club</th>
+  <th class='fontbold'>Open Division</th>
+  <th class='fontbold'>Senior Division</th>
+</tr>
+<tr class='tablerow'>
+  <td>2023</td>
+  <td>Waterview GC
+Final <a href="https://www.golfgenius.com/pages/3902606">Results</a></td>
+  <td>Jeff Dodson</td>
+  <td>John Stollenwerck</td>
+</tr>
+<tr class='tablerow'>
+  <td>2022</td>
+  <td>Waterchase GC
+Final <a href="https://tga-medalistnorth2waterchasegolfclub.golfgenius.com/pages/3354787">Results</a></td>
+  <td>Jeffrey Juillerat</td>
+  <td>Bob Neal</td>
+</tr>
+<tr class='tablerow'>
+  <td>2021</td>
+  <td>The GC of Dallas
+Final <a href="https://www.golfgenius.com/pages/2799206">Results</a></td>
+  <td>Jonathan Keane</td>
+  <td>John Schaefer</td>
+</tr>
+<tr class='tablerow'>
+  <td>2020</td>
+  <td>No Championship Held – COVID-19</td>
+  <td>–</td>
+  <td>–</td>
+</tr>
+<tr class='tablerow'>
+  <td>2019</td>
+  <td>Thorntree CC
+Final <a href="https://www.txga.org/medalist-north-2-2019-leaderboard?swcfpc=1">Results</a></td>
+  <td>Cameron Kirkpatrick</td>
+  <td>Brad Gray</td>
+</tr>
+<tr class='tablerow'>
+  <td>2018</td>
+  <td>The Courses at Watters Creek
+Final <a href="https://www.txga.org/medalist-north-2-2018-leaderboard?swcfpc=1">Results</a></td>
+  <td>Andrew Lindberg</td>
+  <td>Bradley Kropp</td>
+</tr>
+<tr class='tablerow'>
+  <td>2017</td>
+  <td>The GC of Dallas</td>
+  <td>David Richards</td>
+  <td>Bill Ashley</td>
+</tr>
+<tr class='tablerow'>
+  <td>2016</td>
+  <td>The GC of Dallas</td>
+  <td>Christopher McKay</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2015</td>
+  <td>The GC of Dallas</td>
+  <td>Clint White</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2014</td>
+  <td>Grapevine GC</td>
+  <td>Michael Pruitt</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2013</td>
+  <td>The Tribute at The Colony GC</td>
+  <td>Seol Mun</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2012</td>
+  <td>Twin Creeks GC</td>
+  <td>Ted Waldrip</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2011</td>
+  <td>Mansfield National GC</td>
+  <td>Ted Waldrip</td>
+  <td></td>
+</tr>
+<tr class='tablerow'>
+  <td>2010</td>
+  <td>Firewheel Golf Park</td>
+  <td>Lee Sandlin</td>
+  <td></td>
+</tr>
+</table>
+
